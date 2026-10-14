@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "BL1",
   "nombre": "Bundesliga"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 900,
  "validacion": {
   "partidos": 297,
-  "rps": 0.19560920960542297,
-  "rps_frecuencia": 0.2286325028562215,
+  "rps": 0.19559449812080365,
+  "rps_frecuencia": 0.22860692520457698,
   "acierto": 0.5420875420875421
  },
  "parametros": {
-  "intercepto": 0.3400772839091321,
-  "ventaja_local": 0.21019639383807795,
-  "beta": 0.1679769636870025,
-  "rho": -0.07965881766031663,
+  "intercepto": 0.3400772326163659,
+  "ventaja_local": 0.21019646931214842,
+  "beta": 0.16797696376063173,
+  "rho": -0.07965881723598701,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
