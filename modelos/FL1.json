@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "FL1",
   "nombre": "Ligue 1"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 901,
  "validacion": {
   "partidos": 297,
-  "rps": 0.20807377658540951,
-  "rps_frecuencia": 0.22877769591236874,
+  "rps": 0.20806407279393233,
+  "rps_frecuencia": 0.22875587154591143,
   "acierto": 0.5050505050505051
  },
  "parametros": {
-  "intercepto": 0.2200740192001747,
-  "ventaja_local": 0.20545945521528727,
-  "beta": 0.15867290678438434,
-  "rho": -0.03883286824215324,
+  "intercepto": 0.22007404401700875,
+  "ventaja_local": 0.20545942714517157,
+  "beta": 0.15867290672420864,
+  "rho": -0.038832867768968216,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
