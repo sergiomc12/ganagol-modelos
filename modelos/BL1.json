@@ -1,0 +1,169 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "BL1",
+  "nombre": "Bundesliga"
+ },
+ "partidos_entrenamiento": 900,
+ "validacion": {
+  "partidos": 297,
+  "rps": 0.19560920960542297,
+  "rps_frecuencia": 0.2286325028562215,
+  "acierto": 0.5420875420875421
+ },
+ "parametros": {
+  "intercepto": 0.3400772839091321,
+  "ventaja_local": 0.21019639383807795,
+  "beta": 0.1679769636870025,
+  "rho": -0.07965881766031663,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "5": {
+   "nombre": "FC Bayern München",
+   "pais": "",
+   "elo": 1955.9,
+   "con_liga": true,
+   "fuerza": 3.369617,
+   "emparejado_con": "Bayern Munich"
+  },
+  "10": {
+   "nombre": "VfB Stuttgart",
+   "pais": "",
+   "elo": 1730.5,
+   "con_liga": true,
+   "fuerza": 1.115261,
+   "emparejado_con": "Stuttgart"
+  },
+  "721": {
+   "nombre": "RB Leipzig",
+   "pais": "",
+   "elo": 1718.1,
+   "con_liga": true,
+   "fuerza": 0.991709,
+   "emparejado_con": "RB Leipzig"
+  },
+  "18": {
+   "nombre": "Borussia Mönchengladbach",
+   "pais": "",
+   "elo": 1525.2,
+   "con_liga": true,
+   "fuerza": -0.937766,
+   "emparejado_con": "M'gladbach"
+  },
+  "15": {
+   "nombre": "1. FSV Mainz 05",
+   "pais": "",
+   "elo": 1622.1,
+   "con_liga": true,
+   "fuerza": 0.031689,
+   "emparejado_con": "Mainz"
+  },
+  "29": {
+   "nombre": "SC Paderborn 07",
+   "pais": "",
+   "elo": 1531.3,
+   "con_liga": true,
+   "fuerza": -0.877106,
+   "emparejado_con": "Paderborn"
+  },
+  "28": {
+   "nombre": "1. FC Union Berlin",
+   "pais": "",
+   "elo": 1528.3,
+   "con_liga": true,
+   "fuerza": -0.90717,
+   "emparejado_con": "Union Berlin"
+  },
+  "19": {
+   "nombre": "Eintracht Frankfurt",
+   "pais": "",
+   "elo": 1610.4,
+   "con_liga": true,
+   "fuerza": -0.086056,
+   "emparejado_con": "Ein Frankfurt"
+  },
+  "719": {
+   "nombre": "SV 07 Elversberg",
+   "pais": "",
+   "elo": 1550.6,
+   "con_liga": true,
+   "fuerza": -0.683647,
+   "emparejado_con": "Elversberg"
+  },
+  "3": {
+   "nombre": "Bayer 04 Leverkusen",
+   "pais": "",
+   "elo": 1772.8,
+   "con_liga": true,
+   "fuerza": 1.538718,
+   "emparejado_con": "Leverkusen"
+  },
+  "1": {
+   "nombre": "1. FC Köln",
+   "pais": "",
+   "elo": 1516.4,
+   "con_liga": true,
+   "fuerza": -1.026006,
+   "emparejado_con": "FC Koln"
+  },
+  "2": {
+   "nombre": "TSG 1899 Hoffenheim",
+   "pais": "",
+   "elo": 1616.1,
+   "con_liga": true,
+   "fuerza": -0.028403,
+   "emparejado_con": "Hoffenheim"
+  },
+  "4": {
+   "nombre": "Borussia Dortmund",
+   "pais": "",
+   "elo": 1825.8,
+   "con_liga": true,
+   "fuerza": 2.06797,
+   "emparejado_con": "Dortmund"
+  },
+  "7": {
+   "nombre": "Hamburger SV",
+   "pais": "",
+   "elo": 1553.9,
+   "con_liga": true,
+   "fuerza": -0.651018,
+   "emparejado_con": "Hamburg"
+  },
+  "17": {
+   "nombre": "SC Freiburg",
+   "pais": "",
+   "elo": 1662.1,
+   "con_liga": true,
+   "fuerza": 0.430928,
+   "emparejado_con": "Freiburg"
+  },
+  "12": {
+   "nombre": "SV Werder Bremen",
+   "pais": "",
+   "elo": 1561.8,
+   "con_liga": true,
+   "fuerza": -0.57136,
+   "emparejado_con": "Werder Bremen"
+  },
+  "16": {
+   "nombre": "FC Augsburg",
+   "pais": "",
+   "elo": 1610.9,
+   "con_liga": true,
+   "fuerza": -0.080976,
+   "emparejado_con": "Augsburg"
+  },
+  "6": {
+   "nombre": "FC Schalke 04",
+   "pais": "",
+   "elo": 1530.3,
+   "con_liga": true,
+   "fuerza": -0.886234,
+   "emparejado_con": "Schalke 04"
+  }
+ }
+}
