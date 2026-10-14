@@ -1,0 +1,217 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "ELC",
+  "nombre": "Championship"
+ },
+ "partidos_entrenamiento": 1631,
+ "validacion": {
+  "partidos": 552,
+  "rps": 0.21951926001019562,
+  "rps_frecuencia": 0.23003837110413755,
+  "acierto": 0.4601449275362319
+ },
+ "parametros": {
+  "intercepto": 0.13375800417057632,
+  "ventaja_local": 0.21807737773692107,
+  "beta": 0.18318588269377592,
+  "rho": -0.035941213690926635,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "76": {
+   "nombre": "Wolverhampton Wanderers FC",
+   "pais": "",
+   "elo": 1512.2,
+   "con_liga": true,
+   "fuerza": 0.932597,
+   "emparejado_con": "Wolves"
+  },
+  "59": {
+   "nombre": "Blackburn Rovers FC",
+   "pais": "",
+   "elo": 1388.7,
+   "con_liga": true,
+   "fuerza": -0.302202,
+   "emparejado_con": "Blackburn"
+  },
+  "60": {
+   "nombre": "Bolton Wanderers FC",
+   "pais": "",
+   "elo": 1277.1,
+   "con_liga": true,
+   "fuerza": -1.418326,
+   "emparejado_con": "Bolton"
+  },
+  "1081": {
+   "nombre": "Preston North End FC",
+   "pais": "",
+   "elo": 1302.5,
+   "con_liga": true,
+   "fuerza": -1.163963,
+   "emparejado_con": "Preston"
+  },
+  "68": {
+   "nombre": "Norwich City FC",
+   "pais": "",
+   "elo": 1431.5,
+   "con_liga": true,
+   "fuerza": 0.12638,
+   "emparejado_con": "Norwich"
+  },
+  "74": {
+   "nombre": "West Bromwich Albion FC",
+   "pais": "",
+   "elo": 1405.8,
+   "con_liga": true,
+   "fuerza": -0.130723,
+   "emparejado_con": "West Brom"
+  },
+  "387": {
+   "nombre": "Bristol City FC",
+   "pais": "",
+   "elo": 1407.1,
+   "con_liga": true,
+   "fuerza": -0.117825,
+   "emparejado_con": "Bristol City"
+  },
+  "384": {
+   "nombre": "Millwall FC",
+   "pais": "",
+   "elo": 1493.2,
+   "con_liga": true,
+   "fuerza": 0.74298,
+   "emparejado_con": "Millwall"
+  },
+  "343": {
+   "nombre": "Middlesbrough FC",
+   "pais": "",
+   "elo": 1513.9,
+   "con_liga": true,
+   "fuerza": 0.949696,
+   "emparejado_con": "Middlesbrough"
+  },
+  "1126": {
+   "nombre": "Lincoln City FC",
+   "pais": "",
+   "elo": 1378.2,
+   "con_liga": true,
+   "fuerza": -0.407391,
+   "emparejado_con": "Lincoln"
+  },
+  "70": {
+   "nombre": "Stoke City FC",
+   "pais": "",
+   "elo": 1367.8,
+   "con_liga": true,
+   "fuerza": -0.511326,
+   "emparejado_con": "Stoke"
+  },
+  "72": {
+   "nombre": "Swansea City AFC",
+   "pais": "",
+   "elo": 1481.9,
+   "con_liga": true,
+   "fuerza": 0.629738,
+   "emparejado_con": "Swansea"
+  },
+  "348": {
+   "nombre": "Charlton Athletic FC",
+   "pais": "",
+   "elo": 1346.7,
+   "con_liga": true,
+   "fuerza": -0.721976,
+   "emparejado_con": "Charlton"
+  },
+  "342": {
+   "nombre": "Derby County FC",
+   "pais": "",
+   "elo": 1390.0,
+   "con_liga": true,
+   "fuerza": -0.289131,
+   "emparejado_con": "Derby"
+  },
+  "325": {
+   "nombre": "Portsmouth FC",
+   "pais": "",
+   "elo": 1376.6,
+   "con_liga": true,
+   "fuerza": -0.422976,
+   "emparejado_con": "Portsmouth"
+  },
+  "69": {
+   "nombre": "Queens Park Rangers FC",
+   "pais": "",
+   "elo": 1391.6,
+   "con_liga": true,
+   "fuerza": -0.272698,
+   "emparejado_con": "QPR"
+  },
+  "356": {
+   "nombre": "Sheffield United FC",
+   "pais": "",
+   "elo": 1421.3,
+   "con_liga": true,
+   "fuerza": 0.023974,
+   "emparejado_con": "Sheffield United"
+  },
+  "332": {
+   "nombre": "Birmingham City FC",
+   "pais": "",
+   "elo": 1433.6,
+   "con_liga": true,
+   "fuerza": 0.147161,
+   "emparejado_con": "Birmingham"
+  },
+  "346": {
+   "nombre": "Watford FC",
+   "pais": "",
+   "elo": 1313.1,
+   "con_liga": true,
+   "fuerza": -1.058436,
+   "emparejado_con": "Watford"
+  },
+  "340": {
+   "nombre": "Southampton FC",
+   "pais": "",
+   "elo": 1545.9,
+   "con_liga": true,
+   "fuerza": 1.269528,
+   "emparejado_con": "Southampton"
+  },
+  "328": {
+   "nombre": "Burnley FC",
+   "pais": "",
+   "elo": 1458.6,
+   "con_liga": true,
+   "fuerza": 0.396757,
+   "emparejado_con": "Burnley"
+  },
+  "563": {
+   "nombre": "West Ham United FC",
+   "pais": "",
+   "elo": 1605.1,
+   "con_liga": true,
+   "fuerza": 1.862214,
+   "emparejado_con": "West Ham"
+  },
+  "715": {
+   "nombre": "Cardiff City FC",
+   "pais": "",
+   "elo": 1307.5,
+   "con_liga": true,
+   "fuerza": -1.114086,
+   "emparejado_con": "Cardiff"
+  },
+  "404": {
+   "nombre": "Wrexham AFC",
+   "pais": "",
+   "elo": 1447.9,
+   "con_liga": true,
+   "fuerza": 0.289643,
+   "emparejado_con": "Wrexham"
+  }
+ }
+}
