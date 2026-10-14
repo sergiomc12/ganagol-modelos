@@ -1,0 +1,169 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "FL1",
+  "nombre": "Ligue 1"
+ },
+ "partidos_entrenamiento": 901,
+ "validacion": {
+  "partidos": 297,
+  "rps": 0.20807377658540951,
+  "rps_frecuencia": 0.22877769591236874,
+  "acierto": 0.5050505050505051
+ },
+ "parametros": {
+  "intercepto": 0.2200740192001747,
+  "ventaja_local": 0.20545945521528727,
+  "beta": 0.15867290678438434,
+  "rho": -0.03883286824215324,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "516": {
+   "nombre": "Olympique de Marseille",
+   "pais": "",
+   "elo": 1706.9,
+   "con_liga": true,
+   "fuerza": 0.581681,
+   "emparejado_con": "Marseille"
+  },
+  "576": {
+   "nombre": "RC Strasbourg Alsace",
+   "pais": "",
+   "elo": 1694.4,
+   "con_liga": true,
+   "fuerza": 0.456588,
+   "emparejado_con": "Strasbourg"
+  },
+  "546": {
+   "nombre": "Racing Club de Lens",
+   "pais": "",
+   "elo": 1750.7,
+   "con_liga": true,
+   "fuerza": 1.020395,
+   "emparejado_con": "Lens"
+  },
+  "519": {
+   "nombre": "AJ Auxerre",
+   "pais": "",
+   "elo": 1590.3,
+   "con_liga": true,
+   "fuerza": -0.583538,
+   "emparejado_con": "Auxerre"
+  },
+  "535": {
+   "nombre": "Le Mans FC",
+   "pais": "",
+   "elo": 1535.2,
+   "con_liga": true,
+   "fuerza": -1.134709,
+   "emparejado_con": "Le Mans"
+  },
+  "512": {
+   "nombre": "Stade Brestois 29",
+   "pais": "",
+   "elo": 1612.5,
+   "con_liga": true,
+   "fuerza": -0.362078,
+   "emparejado_con": "Brest"
+  },
+  "531": {
+   "nombre": "ES Troyes AC",
+   "pais": "",
+   "elo": 1513.7,
+   "con_liga": true,
+   "fuerza": -1.35015,
+   "emparejado_con": "Troyes"
+  },
+  "1045": {
+   "nombre": "Paris FC",
+   "pais": "",
+   "elo": 1667.6,
+   "con_liga": true,
+   "fuerza": 0.188551,
+   "emparejado_con": "Paris FC"
+  },
+  "522": {
+   "nombre": "OGC Nice",
+   "pais": "",
+   "elo": 1602.6,
+   "con_liga": true,
+   "fuerza": -0.461342,
+   "emparejado_con": "Nice"
+  },
+  "525": {
+   "nombre": "FC Lorient",
+   "pais": "",
+   "elo": 1637.2,
+   "con_liga": true,
+   "fuerza": -0.114963,
+   "emparejado_con": "Lorient"
+  },
+  "511": {
+   "nombre": "Toulouse FC",
+   "pais": "",
+   "elo": 1636.9,
+   "con_liga": true,
+   "fuerza": -0.117933,
+   "emparejado_con": "Toulouse"
+  },
+  "523": {
+   "nombre": "Olympique Lyonnais",
+   "pais": "",
+   "elo": 1751.2,
+   "con_liga": true,
+   "fuerza": 1.025378,
+   "emparejado_con": "Lyon"
+  },
+  "532": {
+   "nombre": "Angers SCO",
+   "pais": "",
+   "elo": 1534.8,
+   "con_liga": true,
+   "fuerza": -1.138608,
+   "emparejado_con": "Angers"
+  },
+  "521": {
+   "nombre": "Lille OSC",
+   "pais": "",
+   "elo": 1761.9,
+   "con_liga": true,
+   "fuerza": 1.131933,
+   "emparejado_con": "Lille"
+  },
+  "533": {
+   "nombre": "Le Havre AC",
+   "pais": "",
+   "elo": 1539.9,
+   "con_liga": true,
+   "fuerza": -1.087776,
+   "emparejado_con": "Le Havre"
+  },
+  "548": {
+   "nombre": "AS Monaco FC",
+   "pais": "",
+   "elo": 1757.3,
+   "con_liga": true,
+   "fuerza": 1.085848,
+   "emparejado_con": "Monaco"
+  },
+  "529": {
+   "nombre": "Stade Rennais FC 1901",
+   "pais": "",
+   "elo": 1735.0,
+   "con_liga": true,
+   "fuerza": 0.863096,
+   "emparejado_con": "Rennes"
+  },
+  "524": {
+   "nombre": "Paris Saint-Germain FC",
+   "pais": "",
+   "elo": 1897.5,
+   "con_liga": true,
+   "fuerza": 2.488358,
+   "emparejado_con": "Paris SG"
+  }
+ }
+}
