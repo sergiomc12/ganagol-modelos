@@ -1,75 +1,75 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competiciones": {
   "CL": {
    "nombre": "UEFA Champions League",
    "archivo": "CL.json",
-   "sha256": "1b87eb00116a075cf429af6a39d649b5a750164b5acbfc971eeb5ae74f9e59ad",
-   "bytes": 8940,
+   "sha256": "dc347cc9d3e90b3bca2582dee4cda03703b96142f7a4c56ebcac76cb9e90e503",
+   "bytes": 8938,
    "equipos": 65
   },
   "PL": {
    "nombre": "Premier League",
    "archivo": "PL.json",
-   "sha256": "02b1c827162970127f54c83c67dd2b2dd8ba03bb2f76c33b42bb267a4c7a3f7d",
+   "sha256": "3295ca3a0a79b4ff803c50ca8447ee6437f8f92ec9c0e7fa1c8169d767099894",
    "bytes": 3681,
    "equipos": 20
   },
   "ELC": {
    "nombre": "Championship",
    "archivo": "ELC.json",
-   "sha256": "c3890fa176d5bb0cbfb4f2218d8a268f12065f53d7a95e6003f5ccfcd798ebc2",
-   "bytes": 4340,
+   "sha256": "4a0e45c0e9e725850c309905d06fe8aeece26a61aeec7d31a1352be61710c23f",
+   "bytes": 4336,
    "equipos": 24
   },
   "PD": {
    "nombre": "Primera Division",
    "archivo": "PD.json",
-   "sha256": "568eafc2a8cd4c4b05cfbc9ae33f7f4c88451e74623f5c7932ea27a625d7323a",
-   "bytes": 3686,
+   "sha256": "4855cd1e6651db25f8ad5fdc421e3ffca41999ed5f59fb69974e9fda8ac6379f",
+   "bytes": 3689,
    "equipos": 20
   },
   "SA": {
    "nombre": "Serie A",
    "archivo": "SA.json",
-   "sha256": "435d67423a5d352a268fa637df0d161eeace20531301099519cbd6d9334dd2d2",
+   "sha256": "0271fd1e9b7e1f8bc8e4933fc967a544329b8b697bb0484c4905f1e2075fb79a",
    "bytes": 3582,
    "equipos": 20
   },
   "BL1": {
    "nombre": "Bundesliga",
    "archivo": "BL1.json",
-   "sha256": "ab7ccf02942af74fac4b90b9f89f5c2e3de12588597c6126f691b4edae94ed71",
-   "bytes": 3371,
+   "sha256": "01c2cdcdf86cba248b4097e363fa83b391aff6cf4a759cc2a3eb257e4de95591",
+   "bytes": 3373,
    "equipos": 18
   },
   "FL1": {
    "nombre": "Ligue 1",
    "archivo": "FL1.json",
-   "sha256": "d61fc12957156736d8300dc6b6bf520edfa523ec9373477fd5cfe0176da08241",
-   "bytes": 3312,
+   "sha256": "347031a5067e90717add62958e03d29c806c240298b66415bec9ebd21d4ebeca",
+   "bytes": 3314,
    "equipos": 18
   },
   "DED": {
    "nombre": "Eredivisie",
    "archivo": "DED.json",
-   "sha256": "def44b1fa4b1dcb8ca4463a0994a47af5d4e991163b1d2f6ccd628086e16d843",
-   "bytes": 3314,
+   "sha256": "75e1b4fee82d435d304fcbe7373e0b86232843f8f465dceaf97f3ef49ab2d184",
+   "bytes": 3312,
    "equipos": 18
   },
   "PPL": {
    "nombre": "Primeira Liga",
    "archivo": "PPL.json",
-   "sha256": "9ba22b411893ee9f3ec0e80a5c358b42b6199bf8412ecf4fc50409e6b52babfb",
-   "bytes": 3383,
+   "sha256": "6d244813208751d12aedd02b247466b0b587cfe7634b6babbaa0377b343115db",
+   "bytes": 3380,
    "equipos": 18
   },
   "BSA": {
    "nombre": "Campeonato Brasileiro Série A",
    "archivo": "BSA.json",
-   "sha256": "2e23073b33131d7604cf5377a41d6f8b183b0ec4b826479c77cdb070b449a87e",
-   "bytes": 3682,
+   "sha256": "015d866aa644e1834c7e61d902e4a1c76aaf23c98536caf73121de346c78ceed",
+   "bytes": 3685,
    "equipos": 20
   }
  }
