@@ -1,0 +1,169 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "PPL",
+  "nombre": "Primeira Liga"
+ },
+ "partidos_entrenamiento": 917,
+ "validacion": {
+  "partidos": 305,
+  "rps": 0.17596582733738175,
+  "rps_frecuencia": 0.22998860328962437,
+  "acierto": 0.5573770491803278
+ },
+ "parametros": {
+  "intercepto": 0.12995188723863232,
+  "ventaja_local": 0.16640435582310387,
+  "beta": 0.16462598895428632,
+  "rho": 0.029793359097208545,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "582": {
+   "nombre": "GD Estoril Praia",
+   "pais": "",
+   "elo": 1440.1,
+   "con_liga": true,
+   "fuerza": -1.052785,
+   "emparejado_con": "Estoril"
+  },
+  "5531": {
+   "nombre": "FC Famalicão",
+   "pais": "",
+   "elo": 1565.8,
+   "con_liga": true,
+   "fuerza": 0.203852,
+   "emparejado_con": "Famalicao"
+  },
+  "5575": {
+   "nombre": "CS Marítimo",
+   "pais": "",
+   "elo": 1405.5,
+   "con_liga": true,
+   "fuerza": -1.399239,
+   "emparejado_con": "Maritimo"
+  },
+  "6618": {
+   "nombre": "Casa Pia AC",
+   "pais": "",
+   "elo": 1399.0,
+   "con_liga": true,
+   "fuerza": -1.464709,
+   "emparejado_con": "Casa Pia"
+  },
+  "5543": {
+   "nombre": "Vitória SC",
+   "pais": "",
+   "elo": 1483.7,
+   "con_liga": true,
+   "fuerza": -0.617572,
+   "emparejado_con": "Guimaraes"
+  },
+  "712": {
+   "nombre": "FC Arouca",
+   "pais": "",
+   "elo": 1539.3,
+   "con_liga": true,
+   "fuerza": -0.06084,
+   "emparejado_con": "Arouca"
+  },
+  "9136": {
+   "nombre": "CF Estrela da Amadora",
+   "pais": "",
+   "elo": 1421.1,
+   "con_liga": true,
+   "fuerza": -1.242761,
+   "emparejado_con": "Estrela"
+  },
+  "498": {
+   "nombre": "Sporting Clube de Portugal",
+   "pais": "",
+   "elo": 1890.2,
+   "con_liga": true,
+   "fuerza": 3.447982,
+   "emparejado_con": "Sp Lisbon"
+  },
+  "503": {
+   "nombre": "FC Porto",
+   "pais": "",
+   "elo": 1862.2,
+   "con_liga": true,
+   "fuerza": 3.168059,
+   "emparejado_con": "Porto"
+  },
+  "7822": {
+   "nombre": "FC Alverca",
+   "pais": "",
+   "elo": 1491.9,
+   "con_liga": true,
+   "fuerza": -0.535648,
+   "emparejado_con": "Alverca"
+  },
+  "583": {
+   "nombre": "Moreirense FC",
+   "pais": "",
+   "elo": 1477.2,
+   "con_liga": true,
+   "fuerza": -0.682046,
+   "emparejado_con": "Moreirense"
+  },
+  "5613": {
+   "nombre": "Sporting Clube de Braga",
+   "pais": "",
+   "elo": 1672.3,
+   "con_liga": true,
+   "fuerza": 1.268441,
+   "emparejado_con": "Sp Braga"
+  },
+  "5533": {
+   "nombre": "Gil Vicente FC",
+   "pais": "",
+   "elo": 1520.3,
+   "con_liga": true,
+   "fuerza": -0.25119,
+   "emparejado_con": "Gil Vicente"
+  },
+  "496": {
+   "nombre": "Rio Ave FC",
+   "pais": "",
+   "elo": 1440.4,
+   "con_liga": true,
+   "fuerza": -1.049873,
+   "emparejado_con": "Rio Ave"
+  },
+  "1903": {
+   "nombre": "Sport Lisboa e Benfica",
+   "pais": "",
+   "elo": 1865.4,
+   "con_liga": true,
+   "fuerza": 3.200173,
+   "emparejado_con": "Benfica"
+  },
+  "5527": {
+   "nombre": "Académico de Viseu FC",
+   "pais": "",
+   "elo": 1462.9,
+   "con_liga": true,
+   "fuerza": -0.825138,
+   "emparejado_con": "Academico Viseu"
+  },
+  "5530": {
+   "nombre": "CD Santa Clara",
+   "pais": "",
+   "elo": 1540.8,
+   "con_liga": true,
+   "fuerza": -0.045755,
+   "emparejado_con": "Santa Clara"
+  },
+  "5529": {
+   "nombre": "CD Nacional",
+   "pais": "",
+   "elo": 1389.8,
+   "con_liga": true,
+   "fuerza": -1.556577,
+   "emparejado_con": "Nacional"
+  }
+ }
+}
