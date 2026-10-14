@@ -1,0 +1,185 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "PD",
+  "nombre": "Primera Division"
+ },
+ "partidos_entrenamiento": 1129,
+ "validacion": {
+  "partidos": 378,
+  "rps": 0.19972739848718324,
+  "rps_frecuencia": 0.2242321813305193,
+  "acierto": 0.5185185185185185
+ },
+ "parametros": {
+  "intercepto": 0.11373152981098254,
+  "ventaja_local": 0.2963508171888035,
+  "beta": 0.17645938816200604,
+  "rho": -0.00297204346962828,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "263": {
+   "nombre": "Deportivo Alavés",
+   "pais": "",
+   "elo": 1588.8,
+   "con_liga": true,
+   "fuerza": -0.392283,
+   "emparejado_con": "Alaves"
+  },
+  "82": {
+   "nombre": "Getafe CF",
+   "pais": "",
+   "elo": 1583.5,
+   "con_liga": true,
+   "fuerza": -0.445688,
+   "emparejado_con": "Getafe"
+  },
+  "559": {
+   "nombre": "Sevilla FC",
+   "pais": "",
+   "elo": 1590.0,
+   "con_liga": true,
+   "fuerza": -0.380593,
+   "emparejado_con": "Sevilla"
+  },
+  "87": {
+   "nombre": "Rayo Vallecano de Madrid",
+   "pais": "",
+   "elo": 1631.1,
+   "con_liga": true,
+   "fuerza": 0.030233,
+   "emparejado_con": "Vallecano"
+  },
+  "5335": {
+   "nombre": "Real Racing Club de Santander",
+   "pais": "",
+   "elo": 1563.4,
+   "con_liga": true,
+   "fuerza": -0.645951,
+   "emparejado_con": "Santander"
+  },
+  "94": {
+   "nombre": "Villarreal CF",
+   "pais": "",
+   "elo": 1718.4,
+   "con_liga": true,
+   "fuerza": 0.904027,
+   "emparejado_con": "Villarreal"
+  },
+  "80": {
+   "nombre": "RCD Espanyol de Barcelona",
+   "pais": "",
+   "elo": 1561.3,
+   "con_liga": true,
+   "fuerza": -0.667835,
+   "emparejado_con": "Espanol"
+  },
+  "88": {
+   "nombre": "Levante UD",
+   "pais": "",
+   "elo": 1588.9,
+   "con_liga": true,
+   "fuerza": -0.391126,
+   "emparejado_con": "Levante"
+  },
+  "560": {
+   "nombre": "RC Deportivo La Coruña",
+   "pais": "",
+   "elo": 1561.5,
+   "con_liga": true,
+   "fuerza": -0.665366,
+   "emparejado_con": "La Coruna"
+  },
+  "285": {
+   "nombre": "Elche CF",
+   "pais": "",
+   "elo": 1568.7,
+   "con_liga": true,
+   "fuerza": -0.593209,
+   "emparejado_con": "Elche"
+  },
+  "78": {
+   "nombre": "Club Atlético de Madrid",
+   "pais": "",
+   "elo": 1777.4,
+   "con_liga": true,
+   "fuerza": 1.493319,
+   "emparejado_con": "Ath Madrid"
+  },
+  "84": {
+   "nombre": "Málaga CF",
+   "pais": "",
+   "elo": 1536.3,
+   "con_liga": true,
+   "fuerza": -0.917176,
+   "emparejado_con": "Malaga"
+  },
+  "90": {
+   "nombre": "Real Betis Balompié",
+   "pais": "",
+   "elo": 1730.8,
+   "con_liga": true,
+   "fuerza": 1.02746,
+   "emparejado_con": "Betis"
+  },
+  "92": {
+   "nombre": "Real Sociedad de Fútbol",
+   "pais": "",
+   "elo": 1618.3,
+   "con_liga": true,
+   "fuerza": -0.097124,
+   "emparejado_con": "Sociedad"
+  },
+  "77": {
+   "nombre": "Athletic Club",
+   "pais": "",
+   "elo": 1623.9,
+   "con_liga": true,
+   "fuerza": -0.041413,
+   "emparejado_con": "Ath Bilbao"
+  },
+  "95": {
+   "nombre": "Valencia CF",
+   "pais": "",
+   "elo": 1598.0,
+   "con_liga": true,
+   "fuerza": -0.300608,
+   "emparejado_con": "Valencia"
+  },
+  "558": {
+   "nombre": "RC Celta de Vigo",
+   "pais": "",
+   "elo": 1626.4,
+   "con_liga": true,
+   "fuerza": -0.016085,
+   "emparejado_con": "Celta"
+  },
+  "86": {
+   "nombre": "Real Madrid CF",
+   "pais": "",
+   "elo": 1874.3,
+   "con_liga": true,
+   "fuerza": 2.463083,
+   "emparejado_con": "Real Madrid"
+  },
+  "81": {
+   "nombre": "FC Barcelona",
+   "pais": "",
+   "elo": 1960.1,
+   "con_liga": true,
+   "fuerza": 3.32021,
+   "emparejado_con": "Barcelona"
+  },
+  "79": {
+   "nombre": "CA Osasuna",
+   "pais": "",
+   "elo": 1553.2,
+   "con_liga": true,
+   "fuerza": -0.747976,
+   "emparejado_con": "Osasuna"
+  }
+ }
+}
