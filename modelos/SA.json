@@ -1,0 +1,185 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "SA",
+  "nombre": "Serie A"
+ },
+ "partidos_entrenamiento": 1120,
+ "validacion": {
+  "partidos": 380,
+  "rps": 0.20009097218143893,
+  "rps_frecuencia": 0.2354255891738111,
+  "acierto": 0.5236842105263158
+ },
+ "parametros": {
+  "intercepto": 0.12948186691519867,
+  "ventaja_local": 0.11035415075794791,
+  "beta": 0.18793851152078317,
+  "rho": -0.02591603493537603,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "115": {
+   "nombre": "Udinese Calcio",
+   "pais": "",
+   "elo": 1603.8,
+   "con_liga": true,
+   "fuerza": -0.413004,
+   "emparejado_con": "Udinese"
+  },
+  "7397": {
+   "nombre": "Como 1907",
+   "pais": "",
+   "elo": 1775.1,
+   "con_liga": true,
+   "fuerza": 1.300528,
+   "emparejado_con": "Como"
+  },
+  "108": {
+   "nombre": "FC Internazionale Milano",
+   "pais": "",
+   "elo": 1935.9,
+   "con_liga": true,
+   "fuerza": 2.908644,
+   "emparejado_con": "Inter"
+  },
+  "5911": {
+   "nombre": "AC Monza",
+   "pais": "",
+   "elo": 1538.4,
+   "con_liga": true,
+   "fuerza": -1.066243,
+   "emparejado_con": "Monza"
+  },
+  "107": {
+   "nombre": "Genoa CFC",
+   "pais": "",
+   "elo": 1566.1,
+   "con_liga": true,
+   "fuerza": -0.789221,
+   "emparejado_con": "Genoa"
+  },
+  "113": {
+   "nombre": "SSC Napoli",
+   "pais": "",
+   "elo": 1800.7,
+   "con_liga": true,
+   "fuerza": 1.555858,
+   "emparejado_con": "Napoli"
+  },
+  "112": {
+   "nombre": "Parma Calcio 1913",
+   "pais": "",
+   "elo": 1562.2,
+   "con_liga": true,
+   "fuerza": -0.829086,
+   "emparejado_con": "Parma"
+  },
+  "104": {
+   "nombre": "Cagliari Calcio",
+   "pais": "",
+   "elo": 1608.3,
+   "con_liga": true,
+   "fuerza": -0.367663,
+   "emparejado_con": "Cagliari"
+  },
+  "470": {
+   "nombre": "Frosinone Calcio",
+   "pais": "",
+   "elo": 1638.3,
+   "con_liga": true,
+   "fuerza": -0.067399,
+   "emparejado_con": "Frosinone"
+  },
+  "109": {
+   "nombre": "Juventus FC",
+   "pais": "",
+   "elo": 1782.0,
+   "con_liga": true,
+   "fuerza": 1.36907,
+   "emparejado_con": "Juventus"
+  },
+  "454": {
+   "nombre": "Venezia FC",
+   "pais": "",
+   "elo": 1556.6,
+   "con_liga": true,
+   "fuerza": -0.884563,
+   "emparejado_con": "Venezia"
+  },
+  "5890": {
+   "nombre": "US Lecce",
+   "pais": "",
+   "elo": 1532.2,
+   "con_liga": true,
+   "fuerza": -1.128622,
+   "emparejado_con": "Lecce"
+  },
+  "102": {
+   "nombre": "Atalanta BC",
+   "pais": "",
+   "elo": 1733.6,
+   "con_liga": true,
+   "fuerza": 0.884872,
+   "emparejado_con": "Atalanta"
+  },
+  "471": {
+   "nombre": "US Sassuolo Calcio",
+   "pais": "",
+   "elo": 1625.0,
+   "con_liga": true,
+   "fuerza": -0.200494,
+   "emparejado_con": "Sassuolo"
+  },
+  "586": {
+   "nombre": "Torino FC",
+   "pais": "",
+   "elo": 1597.7,
+   "con_liga": true,
+   "fuerza": -0.473469,
+   "emparejado_con": "Torino"
+  },
+  "98": {
+   "nombre": "AC Milan",
+   "pais": "",
+   "elo": 1763.3,
+   "con_liga": true,
+   "fuerza": 1.181857,
+   "emparejado_con": "Milan"
+  },
+  "103": {
+   "nombre": "Bologna FC 1909",
+   "pais": "",
+   "elo": 1653.0,
+   "con_liga": true,
+   "fuerza": 0.079571,
+   "emparejado_con": "Bologna"
+  },
+  "110": {
+   "nombre": "SS Lazio",
+   "pais": "",
+   "elo": 1729.8,
+   "con_liga": true,
+   "fuerza": 0.847421,
+   "emparejado_con": "Lazio"
+  },
+  "100": {
+   "nombre": "AS Roma",
+   "pais": "",
+   "elo": 1836.2,
+   "con_liga": true,
+   "fuerza": 1.911301,
+   "emparejado_con": "Roma"
+  },
+  "99": {
+   "nombre": "ACF Fiorentina",
+   "pais": "",
+   "elo": 1626.0,
+   "con_liga": true,
+   "fuerza": -0.190379,
+   "emparejado_con": "Fiorentina"
+  }
+ }
+}
