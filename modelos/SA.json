@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "SA",
   "nombre": "Serie A"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 1120,
  "validacion": {
   "partidos": 380,
-  "rps": 0.20009097218143893,
+  "rps": 0.2000909723185744,
   "rps_frecuencia": 0.2354255891738111,
   "acierto": 0.5236842105263158
  },
  "parametros": {
-  "intercepto": 0.12948186691519867,
-  "ventaja_local": 0.11035415075794791,
-  "beta": 0.18793851152078317,
-  "rho": -0.02591603493537603,
+  "intercepto": 0.12948189943273675,
+  "ventaja_local": 0.11035410783717753,
+  "beta": 0.18793850621323618,
+  "rho": -0.025916033588522944,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
