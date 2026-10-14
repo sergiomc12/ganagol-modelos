@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "PL",
   "nombre": "Premier League"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 1120,
  "validacion": {
   "partidos": 370,
-  "rps": 0.21167878653829186,
-  "rps_frecuencia": 0.228295946877115,
+  "rps": 0.2116813153546715,
+  "rps_frecuencia": 0.22828021120723224,
   "acierto": 0.4702702702702703
  },
  "parametros": {
-  "intercepto": 0.24916434126543122,
-  "ventaja_local": 0.17496413521305482,
-  "beta": 0.1425798026194585,
-  "rho": -0.08742697906843241,
+  "intercepto": 0.2491643428814976,
+  "ventaja_local": 0.1749641369239495,
+  "beta": 0.14257980391027653,
+  "rho": -0.08742697883553502,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
