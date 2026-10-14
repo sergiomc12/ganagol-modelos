@@ -1,0 +1,185 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "BSA",
+  "nombre": "Campeonato Brasileiro Série A"
+ },
+ "partidos_entrenamiento": 1180,
+ "validacion": {
+  "partidos": 414,
+  "rps": 0.20213138903696712,
+  "rps_frecuencia": 0.21658487113090935,
+  "acierto": 0.5241545893719807
+ },
+ "parametros": {
+  "intercepto": 0.05500231206153305,
+  "ventaja_local": 0.34056693249944414,
+  "beta": 0.166150019433928,
+  "rho": -0.03411488518027126,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "1766": {
+   "nombre": "CA Mineiro",
+   "pais": "",
+   "elo": 1587.1,
+   "con_liga": true,
+   "fuerza": 0.36186,
+   "emparejado_con": "Atletico-MG"
+  },
+  "1769": {
+   "nombre": "SE Palmeiras",
+   "pais": "",
+   "elo": 1742.8,
+   "con_liga": true,
+   "fuerza": 1.91878,
+   "emparejado_con": "Palmeiras"
+  },
+  "4241": {
+   "nombre": "Coritiba FBC",
+   "pais": "",
+   "elo": 1464.6,
+   "con_liga": true,
+   "fuerza": -0.862494,
+   "emparejado_con": "Coritiba"
+  },
+  "4286": {
+   "nombre": "RB Bragantino",
+   "pais": "",
+   "elo": 1540.8,
+   "con_liga": true,
+   "fuerza": -0.101034,
+   "emparejado_con": "Bragantino"
+  },
+  "6684": {
+   "nombre": "SC Internacional",
+   "pais": "",
+   "elo": 1505.1,
+   "con_liga": true,
+   "fuerza": -0.457923,
+   "emparejado_con": "Internacional"
+  },
+  "1768": {
+   "nombre": "CA Paranaense",
+   "pais": "",
+   "elo": 1596.4,
+   "con_liga": true,
+   "fuerza": 0.455655,
+   "emparejado_con": "Athletico-PR"
+  },
+  "1782": {
+   "nombre": "EC Vitória",
+   "pais": "",
+   "elo": 1488.6,
+   "con_liga": true,
+   "fuerza": -0.622444,
+   "emparejado_con": "Vitoria"
+  },
+  "4287": {
+   "nombre": "Clube do Remo",
+   "pais": "",
+   "elo": 1456.5,
+   "con_liga": true,
+   "fuerza": -0.943371,
+   "emparejado_con": "Remo"
+  },
+  "1765": {
+   "nombre": "Fluminense FC",
+   "pais": "",
+   "elo": 1638.9,
+   "con_liga": true,
+   "fuerza": 0.879807,
+   "emparejado_con": "Fluminense"
+  },
+  "1767": {
+   "nombre": "Grêmio FBPA",
+   "pais": "",
+   "elo": 1490.2,
+   "con_liga": true,
+   "fuerza": -0.606377,
+   "emparejado_con": "Gremio"
+  },
+  "1772": {
+   "nombre": "Chapecoense AF",
+   "pais": "",
+   "elo": 1314.9,
+   "con_liga": true,
+   "fuerza": -2.360013,
+   "emparejado_con": "Chapecoense-SC"
+  },
+  "6685": {
+   "nombre": "Santos FC",
+   "pais": "",
+   "elo": 1560.5,
+   "con_liga": true,
+   "fuerza": 0.095829,
+   "emparejado_con": "Santos"
+  },
+  "1779": {
+   "nombre": "SC Corinthians Paulista",
+   "pais": "",
+   "elo": 1500.5,
+   "con_liga": true,
+   "fuerza": -0.503759,
+   "emparejado_con": "Corinthians"
+  },
+  "1777": {
+   "nombre": "EC Bahia",
+   "pais": "",
+   "elo": 1590.5,
+   "con_liga": true,
+   "fuerza": 0.395954,
+   "emparejado_con": "Bahia"
+  },
+  "1776": {
+   "nombre": "São Paulo FC",
+   "pais": "",
+   "elo": 1529.1,
+   "con_liga": true,
+   "fuerza": -0.21741,
+   "emparejado_con": "Sao Paulo"
+  },
+  "1783": {
+   "nombre": "CR Flamengo",
+   "pais": "",
+   "elo": 1755.6,
+   "con_liga": true,
+   "fuerza": 2.047613,
+   "emparejado_con": "Flamengo RJ"
+  },
+  "4364": {
+   "nombre": "Mirassol FC",
+   "pais": "",
+   "elo": 1552.0,
+   "con_liga": true,
+   "fuerza": 0.011276,
+   "emparejado_con": "Mirassol"
+  },
+  "1780": {
+   "nombre": "CR Vasco da Gama",
+   "pais": "",
+   "elo": 1509.8,
+   "con_liga": true,
+   "fuerza": -0.410407,
+   "emparejado_con": "Vasco"
+  },
+  "1770": {
+   "nombre": "Botafogo FR",
+   "pais": "",
+   "elo": 1565.0,
+   "con_liga": true,
+   "fuerza": 0.14119,
+   "emparejado_con": "Botafogo RJ"
+  },
+  "1771": {
+   "nombre": "Cruzeiro EC",
+   "pais": "",
+   "elo": 1619.0,
+   "con_liga": true,
+   "fuerza": 0.681665,
+   "emparejado_con": "Cruzeiro"
+  }
+ }
+}
