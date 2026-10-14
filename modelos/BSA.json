@@ -1,22 +1,22 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "BSA",
   "nombre": "Campeonato Brasileiro Série A"
  },
- "partidos_entrenamiento": 1180,
+ "partidos_entrenamiento": 1179,
  "validacion": {
   "partidos": 414,
-  "rps": 0.20213138903696712,
+  "rps": 0.2021313896919004,
   "rps_frecuencia": 0.21658487113090935,
   "acierto": 0.5241545893719807
  },
  "parametros": {
-  "intercepto": 0.05500231206153305,
-  "ventaja_local": 0.34056693249944414,
-  "beta": 0.166150019433928,
-  "rho": -0.03411488518027126,
+  "intercepto": 0.055241951293977395,
+  "ventaja_local": 0.3405871893355471,
+  "beta": 0.16611819916368292,
+  "rho": -0.03343909417722623,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
@@ -26,7 +26,7 @@
    "pais": "",
    "elo": 1587.1,
    "con_liga": true,
-   "fuerza": 0.36186,
+   "fuerza": 0.361436,
    "emparejado_con": "Atletico-MG"
   },
   "1769": {
@@ -34,7 +34,7 @@
    "pais": "",
    "elo": 1742.8,
    "con_liga": true,
-   "fuerza": 1.91878,
+   "fuerza": 1.918355,
    "emparejado_con": "Palmeiras"
   },
   "4241": {
@@ -42,7 +42,7 @@
    "pais": "",
    "elo": 1464.6,
    "con_liga": true,
-   "fuerza": -0.862494,
+   "fuerza": -0.862919,
    "emparejado_con": "Coritiba"
   },
   "4286": {
@@ -50,7 +50,7 @@
    "pais": "",
    "elo": 1540.8,
    "con_liga": true,
-   "fuerza": -0.101034,
+   "fuerza": -0.101459,
    "emparejado_con": "Bragantino"
   },
   "6684": {
@@ -58,7 +58,7 @@
    "pais": "",
    "elo": 1505.1,
    "con_liga": true,
-   "fuerza": -0.457923,
+   "fuerza": -0.458348,
    "emparejado_con": "Internacional"
   },
   "1768": {
@@ -66,7 +66,7 @@
    "pais": "",
    "elo": 1596.4,
    "con_liga": true,
-   "fuerza": 0.455655,
+   "fuerza": 0.45523,
    "emparejado_con": "Athletico-PR"
   },
   "1782": {
@@ -74,7 +74,7 @@
    "pais": "",
    "elo": 1488.6,
    "con_liga": true,
-   "fuerza": -0.622444,
+   "fuerza": -0.622869,
    "emparejado_con": "Vitoria"
   },
   "4287": {
@@ -82,7 +82,7 @@
    "pais": "",
    "elo": 1456.5,
    "con_liga": true,
-   "fuerza": -0.943371,
+   "fuerza": -0.943796,
    "emparejado_con": "Remo"
   },
   "1765": {
@@ -90,7 +90,7 @@
    "pais": "",
    "elo": 1638.9,
    "con_liga": true,
-   "fuerza": 0.879807,
+   "fuerza": 0.879383,
    "emparejado_con": "Fluminense"
   },
   "1767": {
@@ -98,7 +98,7 @@
    "pais": "",
    "elo": 1490.2,
    "con_liga": true,
-   "fuerza": -0.606377,
+   "fuerza": -0.606802,
    "emparejado_con": "Gremio"
   },
   "1772": {
@@ -106,7 +106,7 @@
    "pais": "",
    "elo": 1314.9,
    "con_liga": true,
-   "fuerza": -2.360013,
+   "fuerza": -2.360437,
    "emparejado_con": "Chapecoense-SC"
   },
   "6685": {
@@ -114,7 +114,7 @@
    "pais": "",
    "elo": 1560.5,
    "con_liga": true,
-   "fuerza": 0.095829,
+   "fuerza": 0.095404,
    "emparejado_con": "Santos"
   },
   "1779": {
@@ -122,7 +122,7 @@
    "pais": "",
    "elo": 1500.5,
    "con_liga": true,
-   "fuerza": -0.503759,
+   "fuerza": -0.504183,
    "emparejado_con": "Corinthians"
   },
   "1777": {
@@ -130,7 +130,7 @@
    "pais": "",
    "elo": 1590.5,
    "con_liga": true,
-   "fuerza": 0.395954,
+   "fuerza": 0.39553,
    "emparejado_con": "Bahia"
   },
   "1776": {
@@ -138,7 +138,7 @@
    "pais": "",
    "elo": 1529.1,
    "con_liga": true,
-   "fuerza": -0.21741,
+   "fuerza": -0.217835,
    "emparejado_con": "Sao Paulo"
   },
   "1783": {
@@ -146,7 +146,7 @@
    "pais": "",
    "elo": 1755.6,
    "con_liga": true,
-   "fuerza": 2.047613,
+   "fuerza": 2.047189,
    "emparejado_con": "Flamengo RJ"
   },
   "4364": {
@@ -154,7 +154,7 @@
    "pais": "",
    "elo": 1552.0,
    "con_liga": true,
-   "fuerza": 0.011276,
+   "fuerza": 0.010851,
    "emparejado_con": "Mirassol"
   },
   "1780": {
@@ -162,7 +162,7 @@
    "pais": "",
    "elo": 1509.8,
    "con_liga": true,
-   "fuerza": -0.410407,
+   "fuerza": -0.410832,
    "emparejado_con": "Vasco"
   },
   "1770": {
@@ -170,7 +170,7 @@
    "pais": "",
    "elo": 1565.0,
    "con_liga": true,
-   "fuerza": 0.14119,
+   "fuerza": 0.140765,
    "emparejado_con": "Botafogo RJ"
   },
   "1771": {
@@ -178,7 +178,7 @@
    "pais": "",
    "elo": 1619.0,
    "con_liga": true,
-   "fuerza": 0.681665,
+   "fuerza": 0.681241,
    "emparejado_con": "Cruzeiro"
   }
  }
