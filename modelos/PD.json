@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "PD",
   "nombre": "Primera Division"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 1129,
  "validacion": {
   "partidos": 378,
-  "rps": 0.19972739848718324,
-  "rps_frecuencia": 0.2242321813305193,
+  "rps": 0.19972905980467887,
+  "rps_frecuencia": 0.2242249482795577,
   "acierto": 0.5185185185185185
  },
  "parametros": {
-  "intercepto": 0.11373152981098254,
-  "ventaja_local": 0.2963508171888035,
-  "beta": 0.17645938816200604,
-  "rho": -0.00297204346962828,
+  "intercepto": 0.11373155728308978,
+  "ventaja_local": 0.29635076137136596,
+  "beta": 0.17645939465129676,
+  "rho": -0.0029720415175012336,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
