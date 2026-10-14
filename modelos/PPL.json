@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "PPL",
   "nombre": "Primeira Liga"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 917,
  "validacion": {
   "partidos": 305,
-  "rps": 0.17596582733738175,
+  "rps": 0.1759658273838413,
   "rps_frecuencia": 0.22998860328962437,
   "acierto": 0.5573770491803278
  },
  "parametros": {
-  "intercepto": 0.12995188723863232,
-  "ventaja_local": 0.16640435582310387,
-  "beta": 0.16462598895428632,
-  "rho": 0.029793359097208545,
+  "intercepto": 0.1299518711776363,
+  "ventaja_local": 0.16640438713040795,
+  "beta": 0.16462598978232826,
+  "rho": 0.02979335891888805,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
