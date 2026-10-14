@@ -1,0 +1,76 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competiciones": {
+  "CL": {
+   "nombre": "UEFA Champions League",
+   "archivo": "CL.json",
+   "sha256": "1b87eb00116a075cf429af6a39d649b5a750164b5acbfc971eeb5ae74f9e59ad",
+   "bytes": 8940,
+   "equipos": 65
+  },
+  "PL": {
+   "nombre": "Premier League",
+   "archivo": "PL.json",
+   "sha256": "02b1c827162970127f54c83c67dd2b2dd8ba03bb2f76c33b42bb267a4c7a3f7d",
+   "bytes": 3681,
+   "equipos": 20
+  },
+  "ELC": {
+   "nombre": "Championship",
+   "archivo": "ELC.json",
+   "sha256": "c3890fa176d5bb0cbfb4f2218d8a268f12065f53d7a95e6003f5ccfcd798ebc2",
+   "bytes": 4340,
+   "equipos": 24
+  },
+  "PD": {
+   "nombre": "Primera Division",
+   "archivo": "PD.json",
+   "sha256": "568eafc2a8cd4c4b05cfbc9ae33f7f4c88451e74623f5c7932ea27a625d7323a",
+   "bytes": 3686,
+   "equipos": 20
+  },
+  "SA": {
+   "nombre": "Serie A",
+   "archivo": "SA.json",
+   "sha256": "435d67423a5d352a268fa637df0d161eeace20531301099519cbd6d9334dd2d2",
+   "bytes": 3582,
+   "equipos": 20
+  },
+  "BL1": {
+   "nombre": "Bundesliga",
+   "archivo": "BL1.json",
+   "sha256": "ab7ccf02942af74fac4b90b9f89f5c2e3de12588597c6126f691b4edae94ed71",
+   "bytes": 3371,
+   "equipos": 18
+  },
+  "FL1": {
+   "nombre": "Ligue 1",
+   "archivo": "FL1.json",
+   "sha256": "d61fc12957156736d8300dc6b6bf520edfa523ec9373477fd5cfe0176da08241",
+   "bytes": 3312,
+   "equipos": 18
+  },
+  "DED": {
+   "nombre": "Eredivisie",
+   "archivo": "DED.json",
+   "sha256": "def44b1fa4b1dcb8ca4463a0994a47af5d4e991163b1d2f6ccd628086e16d843",
+   "bytes": 3314,
+   "equipos": 18
+  },
+  "PPL": {
+   "nombre": "Primeira Liga",
+   "archivo": "PPL.json",
+   "sha256": "9ba22b411893ee9f3ec0e80a5c358b42b6199bf8412ecf4fc50409e6b52babfb",
+   "bytes": 3383,
+   "equipos": 18
+  },
+  "BSA": {
+   "nombre": "Campeonato Brasileiro Série A",
+   "archivo": "BSA.json",
+   "sha256": "2e23073b33131d7604cf5377a41d6f8b183b0ec4b826479c77cdb070b449a87e",
+   "bytes": 3682,
+   "equipos": 20
+  }
+ }
+}
