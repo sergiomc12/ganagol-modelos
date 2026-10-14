@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "version": "2026-10-14T22:17Z",
+ "version": "2026-10-14T23:06Z",
  "competicion": {
   "codigo": "DED",
   "nombre": "Eredivisie"
@@ -8,15 +8,15 @@
  "partidos_entrenamiento": 920,
  "validacion": {
   "partidos": 306,
-  "rps": 0.19783209787358533,
-  "rps_frecuencia": 0.22961361527986096,
+  "rps": 0.19783810918188674,
+  "rps_frecuencia": 0.22963665314042975,
   "acierto": 0.5
  },
  "parametros": {
-  "intercepto": 0.34564957159312504,
-  "ventaja_local": 0.16955513637139372,
-  "beta": 0.14265430629126802,
-  "rho": -0.09341494953882348,
+  "intercepto": 0.34564955689011906,
+  "ventaja_local": 0.169555161071824,
+  "beta": 0.14265430747913901,
+  "rho": -0.09341495086191677,
   "fraccion_goles_segundo_tiempo": 0.55,
   "max_goles": 10
  },
