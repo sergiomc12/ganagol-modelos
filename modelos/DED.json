@@ -1,0 +1,169 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "DED",
+  "nombre": "Eredivisie"
+ },
+ "partidos_entrenamiento": 920,
+ "validacion": {
+  "partidos": 306,
+  "rps": 0.19783209787358533,
+  "rps_frecuencia": 0.22961361527986096,
+  "acierto": 0.5
+ },
+ "parametros": {
+  "intercepto": 0.34564957159312504,
+  "ventaja_local": 0.16955513637139372,
+  "beta": 0.14265430629126802,
+  "rho": -0.09341494953882348,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "1909": {
+   "nombre": "SC Cambuur-Leeuwarden",
+   "pais": "",
+   "elo": 1353.4,
+   "con_liga": true,
+   "fuerza": -1.912147,
+   "emparejado_con": "Cambuur"
+  },
+  "670": {
+   "nombre": "SBV Excelsior",
+   "pais": "",
+   "elo": 1470.2,
+   "con_liga": true,
+   "fuerza": -0.744397,
+   "emparejado_con": "Excelsior"
+  },
+  "1915": {
+   "nombre": "NEC",
+   "pais": "",
+   "elo": 1586.8,
+   "con_liga": true,
+   "fuerza": 0.422039,
+   "emparejado_con": "Nijmegen"
+  },
+  "1912": {
+   "nombre": "Telstar 1963",
+   "pais": "",
+   "elo": 1457.9,
+   "con_liga": true,
+   "fuerza": -0.867094,
+   "emparejado_con": "Telstar"
+  },
+  "718": {
+   "nombre": "Go Ahead Eagles",
+   "pais": "",
+   "elo": 1520.0,
+   "con_liga": true,
+   "fuerza": -0.246555,
+   "emparejado_con": "Go Ahead Eagles"
+  },
+  "672": {
+   "nombre": "Willem II Tilburg",
+   "pais": "",
+   "elo": 1322.8,
+   "con_liga": true,
+   "fuerza": -2.218861,
+   "emparejado_con": "Willem II"
+  },
+  "674": {
+   "nombre": "PSV",
+   "pais": "",
+   "elo": 1875.9,
+   "con_liga": true,
+   "fuerza": 3.312553,
+   "emparejado_con": "PSV Eindhoven"
+  },
+  "1920": {
+   "nombre": "Fortuna Sittard",
+   "pais": "",
+   "elo": 1476.8,
+   "con_liga": true,
+   "fuerza": -0.678023,
+   "emparejado_con": "For Sittard"
+  },
+  "682": {
+   "nombre": "AZ",
+   "pais": "",
+   "elo": 1649.3,
+   "con_liga": true,
+   "fuerza": 1.046423,
+   "emparejado_con": "AZ Alkmaar"
+  },
+  "680": {
+   "nombre": "ADO Den Haag",
+   "pais": "",
+   "elo": 1310.2,
+   "con_liga": true,
+   "fuerza": -2.3441,
+   "emparejado_con": "Den Haag"
+  },
+  "6806": {
+   "nombre": "Sparta Rotterdam",
+   "pais": "",
+   "elo": 1466.5,
+   "con_liga": true,
+   "fuerza": -0.780969,
+   "emparejado_con": "Sparta Rotterdam"
+  },
+  "675": {
+   "nombre": "Feyenoord Rotterdam",
+   "pais": "",
+   "elo": 1762.6,
+   "con_liga": true,
+   "fuerza": 2.179682,
+   "emparejado_con": "Feyenoord"
+  },
+  "677": {
+   "nombre": "FC Groningen",
+   "pais": "",
+   "elo": 1555.9,
+   "con_liga": true,
+   "fuerza": 0.112648,
+   "emparejado_con": "Groningen"
+  },
+  "676": {
+   "nombre": "FC Utrecht",
+   "pais": "",
+   "elo": 1590.4,
+   "con_liga": true,
+   "fuerza": 0.457164,
+   "emparejado_con": "Utrecht"
+  },
+  "684": {
+   "nombre": "PEC Zwolle",
+   "pais": "",
+   "elo": 1423.4,
+   "con_liga": true,
+   "fuerza": -1.212743,
+   "emparejado_con": "Zwolle"
+  },
+  "678": {
+   "nombre": "AFC Ajax",
+   "pais": "",
+   "elo": 1692.7,
+   "con_liga": true,
+   "fuerza": 1.480368,
+   "emparejado_con": "Ajax"
+  },
+  "673": {
+   "nombre": "SC Heerenveen",
+   "pais": "",
+   "elo": 1547.1,
+   "con_liga": true,
+   "fuerza": 0.024463,
+   "emparejado_con": "Heerenveen"
+  },
+  "666": {
+   "nombre": "FC Twente '65",
+   "pais": "",
+   "elo": 1682.1,
+   "con_liga": true,
+   "fuerza": 1.374285,
+   "emparejado_con": "Twente"
+  }
+ }
+}
