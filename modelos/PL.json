@@ -1,0 +1,185 @@
+{
+ "formato": 2,
+ "version": "2026-10-14T22:17Z",
+ "competicion": {
+  "codigo": "PL",
+  "nombre": "Premier League"
+ },
+ "partidos_entrenamiento": 1120,
+ "validacion": {
+  "partidos": 370,
+  "rps": 0.21167878653829186,
+  "rps_frecuencia": 0.228295946877115,
+  "acierto": 0.4702702702702703
+ },
+ "parametros": {
+  "intercepto": 0.24916434126543122,
+  "ventaja_local": 0.17496413521305482,
+  "beta": 0.1425798026194585,
+  "rho": -0.08742697906843241,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "57": {
+   "nombre": "Arsenal FC",
+   "pais": "",
+   "elo": 1904.8,
+   "con_liga": true,
+   "fuerza": 2.382328,
+   "emparejado_con": "Arsenal"
+  },
+  "1076": {
+   "nombre": "Coventry City FC",
+   "pais": "",
+   "elo": 1579.5,
+   "con_liga": true,
+   "fuerza": -0.87077,
+   "emparejado_con": "Coventry"
+  },
+  "322": {
+   "nombre": "Hull City AFC",
+   "pais": "",
+   "elo": 1475.0,
+   "con_liga": true,
+   "fuerza": -1.914994,
+   "emparejado_con": "Hull"
+  },
+  "66": {
+   "nombre": "Manchester United FC",
+   "pais": "",
+   "elo": 1736.6,
+   "con_liga": true,
+   "fuerza": 0.700693,
+   "emparejado_con": "Man United"
+  },
+  "349": {
+   "nombre": "Ipswich Town FC",
+   "pais": "",
+   "elo": 1553.7,
+   "con_liga": true,
+   "fuerza": -1.128931,
+   "emparejado_con": "Ipswich"
+  },
+  "71": {
+   "nombre": "Sunderland AFC",
+   "pais": "",
+   "elo": 1581.2,
+   "con_liga": true,
+   "fuerza": -0.853305,
+   "emparejado_con": "Sunderland"
+  },
+  "351": {
+   "nombre": "Nottingham Forest FC",
+   "pais": "",
+   "elo": 1649.5,
+   "con_liga": true,
+   "fuerza": -0.16997,
+   "emparejado_con": "Nott'm Forest"
+  },
+  "341": {
+   "nombre": "Leeds United FC",
+   "pais": "",
+   "elo": 1691.0,
+   "con_liga": true,
+   "fuerza": 0.244429,
+   "emparejado_con": "Leeds"
+  },
+  "62": {
+   "nombre": "Everton FC",
+   "pais": "",
+   "elo": 1664.8,
+   "con_liga": true,
+   "fuerza": -0.017377,
+   "emparejado_con": "Everton"
+  },
+  "354": {
+   "nombre": "Crystal Palace FC",
+   "pais": "",
+   "elo": 1638.5,
+   "con_liga": true,
+   "fuerza": -0.28094,
+   "emparejado_con": "Crystal Palace"
+  },
+  "402": {
+   "nombre": "Brentford FC",
+   "pais": "",
+   "elo": 1712.7,
+   "con_liga": true,
+   "fuerza": 0.461579,
+   "emparejado_con": "Brentford"
+  },
+  "73": {
+   "nombre": "Tottenham Hotspur FC",
+   "pais": "",
+   "elo": 1571.9,
+   "con_liga": true,
+   "fuerza": -0.946483,
+   "emparejado_con": "Tottenham"
+  },
+  "65": {
+   "nombre": "Manchester City FC",
+   "pais": "",
+   "elo": 1923.1,
+   "con_liga": true,
+   "fuerza": 2.565061,
+   "emparejado_con": "Man City"
+  },
+  "1044": {
+   "nombre": "AFC Bournemouth",
+   "pais": "",
+   "elo": 1696.6,
+   "con_liga": true,
+   "fuerza": 0.300361,
+   "emparejado_con": "Bournemouth"
+  },
+  "397": {
+   "nombre": "Brighton & Hove Albion FC",
+   "pais": "",
+   "elo": 1753.8,
+   "con_liga": true,
+   "fuerza": 0.87245,
+   "emparejado_con": "Brighton"
+  },
+  "58": {
+   "nombre": "Aston Villa FC",
+   "pais": "",
+   "elo": 1701.4,
+   "con_liga": true,
+   "fuerza": 0.349029,
+   "emparejado_con": "Aston Villa"
+  },
+  "67": {
+   "nombre": "Newcastle United FC",
+   "pais": "",
+   "elo": 1662.8,
+   "con_liga": true,
+   "fuerza": -0.037684,
+   "emparejado_con": "Newcastle"
+  },
+  "64": {
+   "nombre": "Liverpool FC",
+   "pais": "",
+   "elo": 1768.8,
+   "con_liga": true,
+   "fuerza": 1.022119,
+   "emparejado_con": "Liverpool"
+  },
+  "63": {
+   "nombre": "Fulham FC",
+   "pais": "",
+   "elo": 1625.6,
+   "con_liga": true,
+   "fuerza": -0.409062,
+   "emparejado_con": "Fulham"
+  },
+  "61": {
+   "nombre": "Chelsea FC",
+   "pais": "",
+   "elo": 1698.1,
+   "con_liga": true,
+   "fuerza": 0.315832,
+   "emparejado_con": "Chelsea"
+  }
+ }
+}
