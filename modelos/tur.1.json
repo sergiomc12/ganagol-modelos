@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "tur.1",
+  "nombre": "Turquía"
+ },
+ "partidos_entrenamiento": 1012,
+ "validacion": {
+  "partidos": 299,
+  "rps": 0.20381654479518296,
+  "rps_frecuencia": 0.22651461680827595,
+  "acierto": 0.5050167224080268
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.17469933561878118,
+  "ventaja_local": 0.240598780754302,
+  "beta": 0.14852924809221116,
+  "rho": -0.09338535848165026,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "432": {
+   "nombre": "Galatasaray",
+   "pais": "Turkey",
+   "elo": 1831.6,
+   "con_liga": true,
+   "fuerza": 2.877624
+  },
+  "7648": {
+   "nombre": "Konyaspor",
+   "pais": "Turkey",
+   "elo": 1494.3,
+   "con_liga": true,
+   "fuerza": -0.495677
+  },
+  "6870": {
+   "nombre": "Kasimpasa",
+   "pais": "Turkey",
+   "elo": 1513.6,
+   "con_liga": true,
+   "fuerza": -0.30261
+  },
+  "996": {
+   "nombre": "Genclerbirligi",
+   "pais": "Turkey",
+   "elo": 1453.1,
+   "con_liga": true,
+   "fuerza": -0.906895
+  },
+  "20070": {
+   "nombre": "Gaziantep FK",
+   "pais": "Turkey",
+   "elo": 1457.6,
+   "con_liga": true,
+   "fuerza": -0.861756
+  },
+  "7914": {
+   "nombre": "Istanbul Basaksehir",
+   "pais": "Turkey",
+   "elo": 1620.0,
+   "con_liga": true,
+   "fuerza": 0.761515
+  },
+  "1895": {
+   "nombre": "Besiktas",
+   "pais": "Turkey",
+   "elo": 1666.5,
+   "con_liga": true,
+   "fuerza": 1.226757
+  },
+  "132335": {
+   "nombre": "Amed SFK",
+   "pais": "Turkey",
+   "elo": 1517.9,
+   "con_liga": true,
+   "fuerza": -0.258881
+  },
+  "11429": {
+   "nombre": "Samsunspor",
+   "pais": "Turkey",
+   "elo": 1526.5,
+   "con_liga": true,
+   "fuerza": -0.173658
+  },
+  "19267": {
+   "nombre": "Erzurum BB",
+   "pais": "Turkey",
+   "elo": 1456.4,
+   "con_liga": true,
+   "fuerza": -0.87383
+  },
+  "7656": {
+   "nombre": "Caykur Rizespor",
+   "pais": "Turkey",
+   "elo": 1522.7,
+   "con_liga": true,
+   "fuerza": -0.211115
+  },
+  "132334": {
+   "nombre": "Çorum FK",
+   "pais": "Turkey",
+   "elo": 1504.2,
+   "con_liga": true,
+   "fuerza": -0.39606
+  },
+  "436": {
+   "nombre": "Fenerbahce",
+   "pais": "Turkey",
+   "elo": 1798.3,
+   "con_liga": true,
+   "fuerza": 2.544396
+  },
+  "20729": {
+   "nombre": "Eyupspor",
+   "pais": "Turkey",
+   "elo": 1425.5,
+   "con_liga": true,
+   "fuerza": -1.182744
+  },
+  "997": {
+   "nombre": "Trabzonspor",
+   "pais": "Turkey",
+   "elo": 1691.7,
+   "con_liga": true,
+   "fuerza": 1.478686
+  },
+  "789": {
+   "nombre": "Goztepe",
+   "pais": "Turkey",
+   "elo": 1550.6,
+   "con_liga": true,
+   "fuerza": 0.067623
+  },
+  "9078": {
+   "nombre": "Alanyaspor",
+   "pais": "Turkey",
+   "elo": 1530.1,
+   "con_liga": true,
+   "fuerza": -0.137488
+  },
+  "995": {
+   "nombre": "Kocaelispor",
+   "pais": "Turkey",
+   "elo": 1499.6,
+   "con_liga": true,
+   "fuerza": -0.441991
+  }
+ }
+}
