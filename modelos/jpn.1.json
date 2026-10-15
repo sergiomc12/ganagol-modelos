@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "jpn.1",
+  "nombre": "Japón"
+ },
+ "partidos_entrenamiento": 1095,
+ "validacion": {
+  "partidos": 340,
+  "rps": 0.2155190188883813,
+  "rps_frecuencia": 0.23029268992481122,
+  "acierto": 0.4764705882352941
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.1829203991389834,
+  "ventaja_local": 0.14294995188471468,
+  "beta": 0.15569081034497356,
+  "rho": 0.013555861419694375,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "7116": {
+   "nombre": "Yokohama F. Marinos",
+   "pais": "Japan",
+   "elo": 1569.1,
+   "con_liga": true,
+   "fuerza": 0.464917
+  },
+  "7102": {
+   "nombre": "Gamba Osaka",
+   "pais": "Japan",
+   "elo": 1498.6,
+   "con_liga": true,
+   "fuerza": -0.240282
+  },
+  "7107": {
+   "nombre": "Avispa Fukuoka",
+   "pais": "Japan",
+   "elo": 1453.0,
+   "con_liga": true,
+   "fuerza": -0.696161
+  },
+  "7109": {
+   "nombre": "Cerezo Osaka",
+   "pais": "Japan",
+   "elo": 1556.3,
+   "con_liga": true,
+   "fuerza": 0.336593
+  },
+  "7108": {
+   "nombre": "Nagoya Grampus",
+   "pais": "Japan",
+   "elo": 1492.9,
+   "con_liga": true,
+   "fuerza": -0.297881
+  },
+  "3384": {
+   "nombre": "FC Tokyo",
+   "pais": "Japan",
+   "elo": 1616.1,
+   "con_liga": true,
+   "fuerza": 0.934603
+  },
+  "7476": {
+   "nombre": "Kashiwa Reysol",
+   "pais": "Japan",
+   "elo": 1606.7,
+   "con_liga": true,
+   "fuerza": 0.840637
+  },
+  "7114": {
+   "nombre": "Sanfrecce Hiroshima",
+   "pais": "Japan",
+   "elo": 1674.0,
+   "con_liga": true,
+   "fuerza": 1.513797
+  },
+  "3393": {
+   "nombre": "Tokyo Verdy 1969",
+   "pais": "Japan",
+   "elo": 1423.5,
+   "con_liga": true,
+   "fuerza": -0.991724
+  },
+  "19001": {
+   "nombre": "V-Varen Nagasaki",
+   "pais": "Japan",
+   "elo": 1459.9,
+   "con_liga": true,
+   "fuerza": -0.626987
+  },
+  "7115": {
+   "nombre": "Kashima Antlers",
+   "pais": "Japan",
+   "elo": 1686.5,
+   "con_liga": true,
+   "fuerza": 1.63905
+  },
+  "131701": {
+   "nombre": "Mito Hollyhock",
+   "pais": "Japan",
+   "elo": 1430.9,
+   "con_liga": true,
+   "fuerza": -0.916896
+  },
+  "7104": {
+   "nombre": "Shimizu S-Pulse",
+   "pais": "Japan",
+   "elo": 1454.2,
+   "con_liga": true,
+   "fuerza": -0.684779
+  },
+  "22522": {
+   "nombre": "Fagiano Okayama",
+   "pais": "Japan",
+   "elo": 1519.4,
+   "con_liga": true,
+   "fuerza": -0.032152
+  },
+  "7477": {
+   "nombre": "Vissel Kobe",
+   "pais": "Japan",
+   "elo": 1642.9,
+   "con_liga": true,
+   "fuerza": 1.202166
+  },
+  "7112": {
+   "nombre": "Kawasaki Frontale",
+   "pais": "Japan",
+   "elo": 1536.9,
+   "con_liga": true,
+   "fuerza": 0.142299
+  },
+  "7111": {
+   "nombre": "JEF United Ichihara-Chiba",
+   "pais": "Japan",
+   "elo": 1389.7,
+   "con_liga": true,
+   "fuerza": -1.329481
+  },
+  "3385": {
+   "nombre": "Urawa Red Diamonds",
+   "pais": "Japan",
+   "elo": 1534.7,
+   "con_liga": true,
+   "fuerza": 0.120896
+  },
+  "21361": {
+   "nombre": "Kyoto Sanga",
+   "pais": "Japan",
+   "elo": 1480.5,
+   "con_liga": true,
+   "fuerza": -0.421108
+  },
+  "22167": {
+   "nombre": "Machida Zelvia",
+   "pais": "Japan",
+   "elo": 1643.6,
+   "con_liga": true,
+   "fuerza": 1.209384
+  }
+ }
+}
