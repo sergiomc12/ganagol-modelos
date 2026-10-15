@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ecu.1",
+  "nombre": "Ecuador"
+ },
+ "partidos_entrenamiento": 860,
+ "validacion": {
+  "partidos": 321,
+  "rps": 0.21244333434460946,
+  "rps_frecuencia": 0.225827962900832,
+  "acierto": 0.49221183800623053
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.02367124167280072,
+  "ventaja_local": 0.2802789057401544,
+  "beta": 0.17068086400571025,
+  "rho": 0.01048769099272493,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "21843": {
+   "nombre": "Libertad (Ecuador)",
+   "pais": "Ecuador",
+   "elo": 1579.1,
+   "con_liga": true,
+   "fuerza": 0.369146
+  },
+  "10307": {
+   "nombre": "Manta F.C.",
+   "pais": "Ecuador",
+   "elo": 1417.5,
+   "con_liga": true,
+   "fuerza": -1.246586
+  },
+  "9283": {
+   "nombre": "Universidad Católica (Quito)",
+   "pais": "Ecuador",
+   "elo": 1628.9,
+   "con_liga": true,
+   "fuerza": 0.867245
+  },
+  "2668": {
+   "nombre": "Emelec",
+   "pais": "Ecuador",
+   "elo": 1494.6,
+   "con_liga": true,
+   "fuerza": -0.475577
+  },
+  "17086": {
+   "nombre": "Independiente del Valle",
+   "pais": "Ecuador",
+   "elo": 1803.1,
+   "con_liga": true,
+   "fuerza": 2.609733
+  },
+  "18439": {
+   "nombre": "Macará",
+   "pais": "Ecuador",
+   "elo": 1650.2,
+   "con_liga": true,
+   "fuerza": 1.080612
+  },
+  "131702": {
+   "nombre": "Leones",
+   "pais": "Ecuador",
+   "elo": 1495.3,
+   "con_liga": true,
+   "fuerza": -0.468087
+  },
+  "4816": {
+   "nombre": "Liga de Quito",
+   "pais": "Ecuador",
+   "elo": 1653.0,
+   "con_liga": true,
+   "fuerza": 1.109083
+  },
+  "6017": {
+   "nombre": "Aucas",
+   "pais": "Ecuador",
+   "elo": 1572.1,
+   "con_liga": true,
+   "fuerza": 0.299835
+  },
+  "2686": {
+   "nombre": "Barcelona SC",
+   "pais": "Ecuador",
+   "elo": 1593.3,
+   "con_liga": true,
+   "fuerza": 0.511542
+  },
+  "1011": {
+   "nombre": "Delfín",
+   "pais": "Ecuador",
+   "elo": 1440.3,
+   "con_liga": true,
+   "fuerza": -1.01838
+  },
+  "11124": {
+   "nombre": "Guayaquil City FC",
+   "pais": "Ecuador",
+   "elo": 1480.8,
+   "con_liga": true,
+   "fuerza": -0.613109
+  },
+  "9292": {
+   "nombre": "Técnico Universitario",
+   "pais": "Ecuador",
+   "elo": 1416.7,
+   "con_liga": true,
+   "fuerza": -1.254778
+  },
+  "4812": {
+   "nombre": "Deportivo Cuenca",
+   "pais": "Ecuador",
+   "elo": 1484.0,
+   "con_liga": true,
+   "fuerza": -0.581802
+  },
+  "17176": {
+   "nombre": "Mushuc Runa",
+   "pais": "Ecuador",
+   "elo": 1488.7,
+   "con_liga": true,
+   "fuerza": -0.534573
+  },
+  "20695": {
+   "nombre": "Orense",
+   "pais": "Ecuador",
+   "elo": 1484.8,
+   "con_liga": true,
+   "fuerza": -0.573452
+  }
+ }
+}
