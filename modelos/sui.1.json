@@ -1,0 +1,105 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "sui.1",
+  "nombre": "Suiza"
+ },
+ "partidos_entrenamiento": 440,
+ "validacion": null,
+ "confiable": false,
+ "parametros": {
+  "intercepto": 0.23493230065318538,
+  "ventaja_local": 0.28177202995227774,
+  "beta": 0.11592362340599982,
+  "rho": -0.04063178566130154,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "3019": {
+   "nombre": "FC Zürich",
+   "pais": "Switzerland",
+   "elo": 1523.7,
+   "con_liga": true,
+   "fuerza": 0.088139
+  },
+  "492": {
+   "nombre": "Grasshoppers",
+   "pais": "Switzerland",
+   "elo": 1443.3,
+   "con_liga": true,
+   "fuerza": -0.716011
+  },
+  "557": {
+   "nombre": "St. Gallen",
+   "pais": "Switzerland",
+   "elo": 1538.7,
+   "con_liga": true,
+   "fuerza": 0.237768
+  },
+  "2722": {
+   "nombre": "Young Boys",
+   "pais": "Switzerland",
+   "elo": 1645.5,
+   "con_liga": true,
+   "fuerza": 1.306252
+  },
+  "11551": {
+   "nombre": "Lausanne Sports",
+   "pais": "Switzerland",
+   "elo": 1486.5,
+   "con_liga": true,
+   "fuerza": -0.283675
+  },
+  "7672": {
+   "nombre": "FC Lugano",
+   "pais": "Switzerland",
+   "elo": 1499.5,
+   "con_liga": true,
+   "fuerza": -0.153422
+  },
+  "20032": {
+   "nombre": "Servette",
+   "pais": "Switzerland",
+   "elo": 1569.5,
+   "con_liga": true,
+   "fuerza": 0.546036
+  },
+  "20996": {
+   "nombre": "Winterthur",
+   "pais": "Switzerland",
+   "elo": 1399.7,
+   "con_liga": true,
+   "fuerza": -1.15156
+  },
+  "989": {
+   "nombre": "FC Basel",
+   "pais": "Switzerland",
+   "elo": 1650.5,
+   "con_liga": true,
+   "fuerza": 1.356454
+  },
+  "3024": {
+   "nombre": "FC Thun",
+   "pais": "Switzerland",
+   "elo": 1524.4,
+   "con_liga": true,
+   "fuerza": 0.094982
+  },
+  "3076": {
+   "nombre": "FC Sion",
+   "pais": "Switzerland",
+   "elo": 1450.3,
+   "con_liga": true,
+   "fuerza": -0.645979
+  },
+  "7640": {
+   "nombre": "FC Luzern",
+   "pais": "Switzerland",
+   "elo": 1515.2,
+   "con_liga": true,
+   "fuerza": 0.003337
+  }
+ }
+}
