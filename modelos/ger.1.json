@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ger.1",
+  "nombre": "Bundesliga"
+ },
+ "partidos_entrenamiento": 900,
+ "validacion": {
+  "partidos": 297,
+  "rps": 0.1967924625337724,
+  "rps_frecuencia": 0.22863809985326797,
+  "acierto": 0.5387205387205387
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.340949152339585,
+  "ventaja_local": 0.21045475221759452,
+  "beta": 0.1735817755661669,
+  "rho": -0.07553508955200394,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "132": {
+   "nombre": "Bayern Munich",
+   "pais": "Germany",
+   "elo": 1915.7,
+   "con_liga": true,
+   "fuerza": 3.359803
+  },
+  "10388": {
+   "nombre": "SV Elversberg",
+   "pais": "Germany",
+   "elo": 1564.5,
+   "con_liga": true,
+   "fuerza": -0.152709
+  },
+  "122": {
+   "nombre": "FC Cologne",
+   "pais": "Germany",
+   "elo": 1492.6,
+   "con_liga": true,
+   "fuerza": -0.871856
+  },
+  "598": {
+   "nombre": "1. FC Union Berlin",
+   "pais": "Germany",
+   "elo": 1494.3,
+   "con_liga": true,
+   "fuerza": -0.854564
+  },
+  "2950": {
+   "nombre": "Mainz",
+   "pais": "Germany",
+   "elo": 1588.4,
+   "con_liga": true,
+   "fuerza": 0.08605
+  },
+  "11420": {
+   "nombre": "RB Leipzig",
+   "pais": "Germany",
+   "elo": 1680.9,
+   "con_liga": true,
+   "fuerza": 1.011621
+  },
+  "124": {
+   "nombre": "Borussia Dortmund",
+   "pais": "Germany",
+   "elo": 1788.8,
+   "con_liga": true,
+   "fuerza": 2.089957
+  },
+  "126": {
+   "nombre": "SC Freiburg",
+   "pais": "Germany",
+   "elo": 1627.4,
+   "con_liga": true,
+   "fuerza": 0.476793
+  },
+  "3841": {
+   "nombre": "FC Augsburg",
+   "pais": "Germany",
+   "elo": 1576.1,
+   "con_liga": true,
+   "fuerza": -0.03619
+  },
+  "134": {
+   "nombre": "VfB Stuttgart",
+   "pais": "Germany",
+   "elo": 1695.3,
+   "con_liga": true,
+   "fuerza": 1.155652
+  },
+  "3307": {
+   "nombre": "SC Paderborn 07",
+   "pais": "Germany",
+   "elo": 1541.7,
+   "con_liga": true,
+   "fuerza": -0.380227
+  },
+  "137": {
+   "nombre": "Werder Bremen",
+   "pais": "Germany",
+   "elo": 1526.3,
+   "con_liga": true,
+   "fuerza": -0.534482
+  },
+  "268": {
+   "nombre": "Borussia Mönchengladbach",
+   "pais": "Germany",
+   "elo": 1490.5,
+   "con_liga": true,
+   "fuerza": -0.892115
+  },
+  "131": {
+   "nombre": "Bayer Leverkusen",
+   "pais": "Germany",
+   "elo": 1735.2,
+   "con_liga": true,
+   "fuerza": 1.554358
+  },
+  "7911": {
+   "nombre": "TSG Hoffenheim",
+   "pais": "Germany",
+   "elo": 1582.7,
+   "con_liga": true,
+   "fuerza": 0.029182
+  },
+  "133": {
+   "nombre": "Schalke 04",
+   "pais": "Germany",
+   "elo": 1537.2,
+   "con_liga": true,
+   "fuerza": -0.425958
+  },
+  "127": {
+   "nombre": "Hamburg SV",
+   "pais": "Germany",
+   "elo": 1540.4,
+   "con_liga": true,
+   "fuerza": -0.393268
+  },
+  "125": {
+   "nombre": "Eintracht Frankfurt",
+   "pais": "Germany",
+   "elo": 1572.8,
+   "con_liga": true,
+   "fuerza": -0.069199
+  }
+ }
+}
