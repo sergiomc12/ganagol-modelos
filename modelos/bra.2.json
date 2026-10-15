@@ -1,0 +1,180 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "bra.2",
+  "nombre": "Brasil Serie B"
+ },
+ "partidos_entrenamiento": 1151,
+ "validacion": {
+  "partidos": 391,
+  "rps": 0.21078616536176342,
+  "rps_frecuencia": 0.22410828517042697,
+  "acierto": 0.4731457800511509
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.052762919545914416,
+  "ventaja_local": 0.323078204319472,
+  "beta": 0.19539562334028876,
+  "rho": 0.02752204612020831,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "18187": {
+   "nombre": "Operário PR",
+   "pais": "Brazil",
+   "elo": 1445.0,
+   "con_liga": true,
+   "fuerza": -0.149585
+  },
+  "9969": {
+   "nombre": "Ceará",
+   "pais": "Brazil",
+   "elo": 1464.5,
+   "con_liga": true,
+   "fuerza": 0.045248
+  },
+  "9973": {
+   "nombre": "Vila Nova",
+   "pais": "Brazil",
+   "elo": 1518.0,
+   "con_liga": true,
+   "fuerza": 0.579997
+  },
+  "10281": {
+   "nombre": "Botafogo-SP",
+   "pais": "Brazil",
+   "elo": 1415.1,
+   "con_liga": true,
+   "fuerza": -0.449222
+  },
+  "20851": {
+   "nombre": "Athletic",
+   "pais": "Brazil",
+   "elo": 1438.8,
+   "con_liga": true,
+   "fuerza": -0.211582
+  },
+  "7633": {
+   "nombre": "Náutico",
+   "pais": "Brazil",
+   "elo": 1389.9,
+   "con_liga": true,
+   "fuerza": -0.700403
+  },
+  "18127": {
+   "nombre": "Novorizontino",
+   "pais": "Brazil",
+   "elo": 1590.2,
+   "con_liga": true,
+   "fuerza": 1.302143
+  },
+  "17313": {
+   "nombre": "Cuiabá",
+   "pais": "Brazil",
+   "elo": 1484.5,
+   "con_liga": true,
+   "fuerza": 0.245347
+  },
+  "3395": {
+   "nombre": "Goiás",
+   "pais": "Brazil",
+   "elo": 1480.0,
+   "con_liga": true,
+   "fuerza": 0.200468
+  },
+  "9966": {
+   "nombre": "Avaí",
+   "pais": "Brazil",
+   "elo": 1420.2,
+   "con_liga": true,
+   "fuerza": -0.397428
+  },
+  "11268": {
+   "nombre": "São Bernardo",
+   "pais": "Brazil",
+   "elo": 1486.1,
+   "con_liga": true,
+   "fuerza": 0.261058
+  },
+  "3459": {
+   "nombre": "Ponte Preta",
+   "pais": "Brazil",
+   "elo": 1211.9,
+   "con_liga": true,
+   "fuerza": -2.480871
+  },
+  "7635": {
+   "nombre": "Sport",
+   "pais": "Brazil",
+   "elo": 1468.0,
+   "con_liga": true,
+   "fuerza": 0.080046
+  },
+  "9971": {
+   "nombre": "Criciúma",
+   "pais": "Brazil",
+   "elo": 1505.3,
+   "con_liga": true,
+   "fuerza": 0.453638
+  },
+  "10357": {
+   "nombre": "Atlético Goianiense",
+   "pais": "Brazil",
+   "elo": 1510.3,
+   "con_liga": true,
+   "fuerza": 0.502764
+  },
+  "6270": {
+   "nombre": "Juventude",
+   "pais": "Brazil",
+   "elo": 1547.0,
+   "con_liga": true,
+   "fuerza": 0.870126
+  },
+  "9970": {
+   "nombre": "CRB",
+   "pais": "Brazil",
+   "elo": 1507.3,
+   "con_liga": true,
+   "fuerza": 0.47346
+  },
+  "6154": {
+   "nombre": "América Mineiro",
+   "pais": "Brazil",
+   "elo": 1312.0,
+   "con_liga": true,
+   "fuerza": -1.479306
+  },
+  "17333": {
+   "nombre": "Londrina",
+   "pais": "Brazil",
+   "elo": 1354.9,
+   "con_liga": true,
+   "fuerza": -1.050879
+  },
+  "6272": {
+   "nombre": "Fortaleza",
+   "pais": "Brazil",
+   "elo": 1560.5,
+   "con_liga": true,
+   "fuerza": 1.004814
+  },
+  "131556": {
+   "nombre": "TBD Home",
+   "pais": "Brazil",
+   "elo": 1418.9,
+   "con_liga": false,
+   "fuerza": -0.410377
+  },
+  "131554": {
+   "nombre": "TBD Away",
+   "pais": "Brazil",
+   "elo": 1418.9,
+   "con_liga": false,
+   "fuerza": -0.410377
+  }
+ }
+}
