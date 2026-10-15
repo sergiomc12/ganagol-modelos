@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "chi.1",
+  "nombre": "Chile"
+ },
+ "partidos_entrenamiento": 705,
+ "validacion": {
+  "partidos": 246,
+  "rps": 0.22299529724194095,
+  "rps_frecuencia": 0.2354416985568721,
+  "acierto": 0.491869918699187
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.16694880719783103,
+  "ventaja_local": 0.2925306635725833,
+  "beta": 0.14961130330628417,
+  "rho": 0.1744885330000783,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "5362": {
+   "nombre": "Universidad de Concepción",
+   "pais": "Chile",
+   "elo": 1422.8,
+   "con_liga": true,
+   "fuerza": -1.095309
+  },
+  "4133": {
+   "nombre": "Cobresal",
+   "pais": "Chile",
+   "elo": 1476.6,
+   "con_liga": true,
+   "fuerza": -0.55776
+  },
+  "4129": {
+   "nombre": "Everton CD",
+   "pais": "Chile",
+   "elo": 1567.1,
+   "con_liga": true,
+   "fuerza": 0.347412
+  },
+  "4422": {
+   "nombre": "Palestino",
+   "pais": "Chile",
+   "elo": 1578.9,
+   "con_liga": true,
+   "fuerza": 0.465342
+  },
+  "8110": {
+   "nombre": "Deportes Concepcion",
+   "pais": "Chile",
+   "elo": 1528.1,
+   "con_liga": true,
+   "fuerza": -0.042911
+  },
+  "4137": {
+   "nombre": "La Serena",
+   "pais": "Chile",
+   "elo": 1458.8,
+   "con_liga": true,
+   "fuerza": -0.735829
+  },
+  "4139": {
+   "nombre": "Universidad de Chile",
+   "pais": "Chile",
+   "elo": 1679.5,
+   "con_liga": true,
+   "fuerza": 1.471456
+  },
+  "885": {
+   "nombre": "Universidad Católica",
+   "pais": "Chile",
+   "elo": 1654.8,
+   "con_liga": true,
+   "fuerza": 1.224351
+  },
+  "4134": {
+   "nombre": "Huachipato",
+   "pais": "Chile",
+   "elo": 1520.0,
+   "con_liga": true,
+   "fuerza": -0.12339
+  },
+  "8186": {
+   "nombre": "Coquimbo Unido",
+   "pais": "Chile",
+   "elo": 1623.2,
+   "con_liga": true,
+   "fuerza": 0.908574
+  },
+  "6072": {
+   "nombre": "O'Higgins",
+   "pais": "Chile",
+   "elo": 1492.3,
+   "con_liga": true,
+   "fuerza": -0.400726
+  },
+  "10144": {
+   "nombre": "Unión La Calera",
+   "pais": "Chile",
+   "elo": 1400.2,
+   "con_liga": true,
+   "fuerza": -1.321675
+  },
+  "4138": {
+   "nombre": "Audax Italiano",
+   "pais": "Chile",
+   "elo": 1530.3,
+   "con_liga": true,
+   "fuerza": -0.02068
+  },
+  "19195": {
+   "nombre": "Deportes Limache",
+   "pais": "Chile",
+   "elo": 1518.4,
+   "con_liga": true,
+   "fuerza": -0.138924
+  },
+  "7427": {
+   "nombre": "Ñublense",
+   "pais": "Chile",
+   "elo": 1490.9,
+   "con_liga": true,
+   "fuerza": -0.41426
+  },
+  "2688": {
+   "nombre": "Colo Colo",
+   "pais": "Chile",
+   "elo": 1680.8,
+   "con_liga": true,
+   "fuerza": 1.484331
+  }
+ }
+}
