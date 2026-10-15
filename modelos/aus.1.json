@@ -1,0 +1,110 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "aus.1",
+  "nombre": "Australia"
+ },
+ "partidos_entrenamiento": 508,
+ "validacion": {
+  "partidos": 163,
+  "rps": 0.2318495649824924,
+  "rps_frecuencia": 0.23141236809815954,
+  "acierto": 0.39263803680981596
+ },
+ "confiable": false,
+ "parametros": {
+  "intercepto": 0.3622126371996411,
+  "ventaja_local": 0.093082001462213,
+  "beta": 0.09324220375264254,
+  "rho": -0.007851078753029279,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "5327": {
+   "nombre": "Sydney FC",
+   "pais": "Australia",
+   "elo": 1540.0,
+   "con_liga": true,
+   "fuerza": 0.393532
+  },
+  "22344": {
+   "nombre": "Auckland FC",
+   "pais": "Australia",
+   "elo": 1602.4,
+   "con_liga": true,
+   "fuerza": 1.017883
+  },
+  "19340": {
+   "nombre": "Macarthur FC",
+   "pais": "Australia",
+   "elo": 1452.5,
+   "con_liga": true,
+   "fuerza": -0.481709
+  },
+  "5325": {
+   "nombre": "Central Coast Mariners",
+   "pais": "Australia",
+   "elo": 1472.0,
+   "con_liga": true,
+   "fuerza": -0.286037
+  },
+  "8352": {
+   "nombre": "Wellington Phoenix FC",
+   "pais": "Australia",
+   "elo": 1445.8,
+   "con_liga": true,
+   "fuerza": -0.548664
+  },
+  "5326": {
+   "nombre": "Brisbane Roar",
+   "pais": "Australia",
+   "elo": 1377.0,
+   "con_liga": true,
+   "fuerza": -1.23668
+  },
+  "5323": {
+   "nombre": "Newcastle Jets",
+   "pais": "Australia",
+   "elo": 1561.4,
+   "con_liga": true,
+   "fuerza": 0.608071
+  },
+  "13696": {
+   "nombre": "Western Sydney Wanderers",
+   "pais": "Australia",
+   "elo": 1435.6,
+   "con_liga": true,
+   "fuerza": -0.650685
+  },
+  "5328": {
+   "nombre": "Melbourne Victory",
+   "pais": "Australia",
+   "elo": 1560.9,
+   "con_liga": true,
+   "fuerza": 0.602761
+  },
+  "11143": {
+   "nombre": "Melbourne City FC",
+   "pais": "Australia",
+   "elo": 1555.1,
+   "con_liga": true,
+   "fuerza": 0.54486
+  },
+  "5322": {
+   "nombre": "Perth Glory",
+   "pais": "Australia",
+   "elo": 1406.5,
+   "con_liga": true,
+   "fuerza": -0.94077
+  },
+  "5321": {
+   "nombre": "Adelaide United",
+   "pais": "Australia",
+   "elo": 1528.7,
+   "con_liga": true,
+   "fuerza": 0.280266
+  }
+ }
+}
