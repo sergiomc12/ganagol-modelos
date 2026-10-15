@@ -1,0 +1,180 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "esp.2",
+  "nombre": "LaLiga 2"
+ },
+ "partidos_entrenamiento": 1383,
+ "validacion": {
+  "partidos": 468,
+  "rps": 0.22145937030327512,
+  "rps_frecuencia": 0.2338593729470346,
+  "acierto": 0.4807692307692308
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.10207039900122424,
+  "ventaja_local": 0.2655911444783014,
+  "beta": 0.17802194087709322,
+  "rho": -0.011561205677798538,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "20983": {
+   "nombre": "Real Sociedad II",
+   "pais": "Spain",
+   "elo": 1376.9,
+   "con_liga": true,
+   "fuerza": -0.837362
+  },
+  "20179": {
+   "nombre": "FC Andorra",
+   "pais": "Spain",
+   "elo": 1438.4,
+   "con_liga": true,
+   "fuerza": -0.222501
+  },
+  "92": {
+   "nombre": "Real Oviedo",
+   "pais": "Spain",
+   "elo": 1483.1,
+   "con_liga": true,
+   "fuerza": 0.224221
+  },
+  "3842": {
+   "nombre": "Cádiz",
+   "pais": "Spain",
+   "elo": 1350.8,
+   "con_liga": true,
+   "fuerza": -1.099172
+  },
+  "84": {
+   "nombre": "Mallorca",
+   "pais": "Spain",
+   "elo": 1556.1,
+   "con_liga": true,
+   "fuerza": 0.95397
+  },
+  "3752": {
+   "nombre": "Eibar",
+   "pais": "Spain",
+   "elo": 1559.4,
+   "con_liga": true,
+   "fuerza": 0.986753
+  },
+  "12597": {
+   "nombre": "Burgos",
+   "pais": "Spain",
+   "elo": 1521.2,
+   "con_liga": true,
+   "fuerza": 0.604985
+  },
+  "9812": {
+   "nombre": "Girona",
+   "pais": "Spain",
+   "elo": 1550.2,
+   "con_liga": true,
+   "fuerza": 0.895607
+  },
+  "98": {
+   "nombre": "Las Palmas",
+   "pais": "Spain",
+   "elo": 1494.2,
+   "con_liga": true,
+   "fuerza": 0.335646
+  },
+  "3788": {
+   "nombre": "Sporting Gijón",
+   "pais": "Spain",
+   "elo": 1482.6,
+   "con_liga": true,
+   "fuerza": 0.218923
+  },
+  "6832": {
+   "nombre": "Almería",
+   "pais": "Spain",
+   "elo": 1570.1,
+   "con_liga": true,
+   "fuerza": 1.093895
+  },
+  "8447": {
+   "nombre": "Córdoba",
+   "pais": "Spain",
+   "elo": 1410.1,
+   "con_liga": true,
+   "fuerza": -0.505363
+  },
+  "5404": {
+   "nombre": "Ceuta",
+   "pais": "Spain",
+   "elo": 1399.7,
+   "con_liga": true,
+   "fuerza": -0.609309
+  },
+  "2737": {
+   "nombre": "Albacete",
+   "pais": "Spain",
+   "elo": 1391.0,
+   "con_liga": true,
+   "fuerza": -0.696737
+  },
+  "7320": {
+   "nombre": "Eldense",
+   "pais": "Spain",
+   "elo": 1401.8,
+   "con_liga": true,
+   "fuerza": -0.588951
+  },
+  "4438": {
+   "nombre": "Castellón",
+   "pais": "Spain",
+   "elo": 1561.9,
+   "con_liga": true,
+   "fuerza": 1.011933
+  },
+  "245": {
+   "nombre": "Tenerife",
+   "pais": "Spain",
+   "elo": 1409.0,
+   "con_liga": true,
+   "fuerza": -0.516761
+  },
+  "131858": {
+   "nombre": "RC Celta Fortuna",
+   "pais": "Spain",
+   "elo": 1439.1,
+   "con_liga": true,
+   "fuerza": -0.215856
+  },
+  "3747": {
+   "nombre": "Granada",
+   "pais": "Spain",
+   "elo": 1445.6,
+   "con_liga": true,
+   "fuerza": -0.15098
+  },
+  "11487": {
+   "nombre": "CD Sabadell",
+   "pais": "Spain",
+   "elo": 1519.9,
+   "con_liga": true,
+   "fuerza": 0.592599
+  },
+  "17534": {
+   "nombre": "Leganés",
+   "pais": "Spain",
+   "elo": 1392.5,
+   "con_liga": true,
+   "fuerza": -0.681664
+  },
+  "95": {
+   "nombre": "Real Valladolid",
+   "pais": "Spain",
+   "elo": 1394.5,
+   "con_liga": true,
+   "fuerza": -0.661448
+  }
+ }
+}
