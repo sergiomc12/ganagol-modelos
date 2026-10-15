@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "nor.1",
+  "nombre": "Noruega"
+ },
+ "partidos_entrenamiento": 704,
+ "validacion": {
+  "partidos": 226,
+  "rps": 0.20315770461643645,
+  "rps_frecuencia": 0.2329540376184316,
+  "acierto": 0.588495575221239
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.2682818032826253,
+  "ventaja_local": 0.26862281193800575,
+  "beta": 0.17879924447852294,
+  "rho": -0.042192116388728294,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "3039": {
+   "nombre": "Fredrikstad",
+   "pais": "Norway",
+   "elo": 1535.7,
+   "con_liga": true,
+   "fuerza": 0.015637
+  },
+  "6750": {
+   "nombre": "IK Start",
+   "pais": "Norway",
+   "elo": 1424.9,
+   "con_liga": true,
+   "fuerza": -1.091912
+  },
+  "2715": {
+   "nombre": "Molde",
+   "pais": "Norway",
+   "elo": 1597.6,
+   "con_liga": true,
+   "fuerza": 0.634515
+  },
+  "22165": {
+   "nombre": "KFUM Oslo",
+   "pais": "Norway",
+   "elo": 1485.6,
+   "con_liga": true,
+   "fuerza": -0.485226
+  },
+  "3278": {
+   "nombre": "Aalesund",
+   "pais": "Norway",
+   "elo": 1372.5,
+   "con_liga": true,
+   "fuerza": -1.616322
+  },
+  "620": {
+   "nombre": "SK Brann",
+   "pais": "Norway",
+   "elo": 1594.2,
+   "con_liga": true,
+   "fuerza": 0.600534
+  },
+  "3279": {
+   "nombre": "Sandefjord",
+   "pais": "Norway",
+   "elo": 1523.8,
+   "con_liga": true,
+   "fuerza": -0.103018
+  },
+  "2791": {
+   "nombre": "Vålerenga",
+   "pais": "Norway",
+   "elo": 1449.6,
+   "con_liga": true,
+   "fuerza": -0.845015
+  },
+  "510": {
+   "nombre": "Viking FK",
+   "pais": "Norway",
+   "elo": 1787.1,
+   "con_liga": true,
+   "fuerza": 2.529205
+  },
+  "987": {
+   "nombre": "Lillestrom",
+   "pais": "Norway",
+   "elo": 1477.7,
+   "con_liga": true,
+   "fuerza": -0.564153
+  },
+  "21380": {
+   "nombre": "Hamarkameratene",
+   "pais": "Norway",
+   "elo": 1475.5,
+   "con_liga": true,
+   "fuerza": -0.586051
+  },
+  "6672": {
+   "nombre": "Kristiansund BK",
+   "pais": "Norway",
+   "elo": 1437.1,
+   "con_liga": true,
+   "fuerza": -0.970658
+  },
+  "438": {
+   "nombre": "Rosenborg",
+   "pais": "Norway",
+   "elo": 1600.9,
+   "con_liga": true,
+   "fuerza": 0.667225
+  },
+  "5002": {
+   "nombre": "Sarpsborg FK",
+   "pais": "Norway",
+   "elo": 1524.7,
+   "con_liga": true,
+   "fuerza": -0.093951
+  },
+  "2980": {
+   "nombre": "Bodo/Glimt",
+   "pais": "Norway",
+   "elo": 1805.2,
+   "con_liga": true,
+   "fuerza": 2.710555
+  },
+  "5270": {
+   "nombre": "Tromso",
+   "pais": "Norway",
+   "elo": 1603.4,
+   "con_liga": true,
+   "fuerza": 0.693069
+  }
+ }
+}
