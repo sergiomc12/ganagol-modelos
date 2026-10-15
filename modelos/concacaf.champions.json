@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "concacaf.champions",
+  "nombre": "Concacaf Champions"
+ },
+ "partidos_entrenamiento": 240,
+ "validacion": {
+  "partidos": 52,
+  "rps": 0.1659665760415915,
+  "rps_frecuencia": 0.22572866246474216,
+  "acierto": 0.6153846153846154
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.10590002311227616,
+  "ventaja_local": 0.5527776901184832,
+  "beta": 0.3300730746270928,
+  "rho": -0.1547626520766692,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "2057": {
+   "nombre": "Alajuelense",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.294844
+  },
+  "218": {
+   "nombre": "Cruz Azul",
+   "pais": "Mexico",
+   "elo": 1651.1,
+   "con_liga": true,
+   "fuerza": 2.288819
+  },
+  "20232": {
+   "nombre": "Inter Miami CF",
+   "pais": "USA",
+   "elo": 1641.6,
+   "con_liga": true,
+   "fuerza": 2.00335
+  },
+  "227": {
+   "nombre": "América",
+   "pais": "Mexico",
+   "elo": 1630.2,
+   "con_liga": true,
+   "fuerza": 2.079857
+  },
+  "9726": {
+   "nombre": "Seattle Sounders FC",
+   "pais": "USA",
+   "elo": 1544.7,
+   "con_liga": true,
+   "fuerza": 1.034869
+  },
+  "223": {
+   "nombre": "Toluca",
+   "pais": "Mexico",
+   "elo": 1644.8,
+   "con_liga": true,
+   "fuerza": 2.22538
+  },
+  "131587": {
+   "nombre": "Mount Pleasant FA",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.501379
+  },
+  "232": {
+   "nombre": "Tigres UANL",
+   "pais": "Mexico",
+   "elo": 1556.2,
+   "con_liga": true,
+   "fuerza": 1.339598
+  },
+  "18986": {
+   "nombre": "Nashville SC",
+   "pais": "USA",
+   "elo": 1655.8,
+   "con_liga": true,
+   "fuerza": 2.145233
+  },
+  "18966": {
+   "nombre": "LAFC",
+   "pais": "USA",
+   "elo": 1564.5,
+   "con_liga": true,
+   "fuerza": 1.232492
+  },
+  "187": {
+   "nombre": "LA Galaxy",
+   "pais": "USA",
+   "elo": 1467.2,
+   "con_liga": true,
+   "fuerza": 0.259765
+  },
+  "220": {
+   "nombre": "Monterrey",
+   "pais": "Mexico",
+   "elo": 1505.9,
+   "con_liga": true,
+   "fuerza": 0.83673
+  },
+  "10739": {
+   "nombre": "Philadelphia Union",
+   "pais": "USA",
+   "elo": 1600.1,
+   "con_liga": true,
+   "fuerza": 1.588908
+  },
+  "9727": {
+   "nombre": "Vancouver Whitecaps",
+   "pais": "USA",
+   "elo": 1613.2,
+   "con_liga": true,
+   "fuerza": 1.719377
+  },
+  "22529": {
+   "nombre": "San Diego FC",
+   "pais": "USA",
+   "elo": 1496.8,
+   "con_liga": true,
+   "fuerza": 0.555855
+  },
+  "18267": {
+   "nombre": "FC Cincinnati",
+   "pais": "USA",
+   "elo": 1527.6,
+   "con_liga": true,
+   "fuerza": 0.863942
+  }
+ }
+}
