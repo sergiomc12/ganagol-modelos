@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ksa.1",
+  "nombre": "Arabia Saudita"
+ },
+ "partidos_entrenamiento": 908,
+ "validacion": {
+  "partidos": 341,
+  "rps": 0.17403520744776288,
+  "rps_frecuencia": 0.23138627909265022,
+  "acierto": 0.5542521994134897
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.26175329001950703,
+  "ventaja_local": 0.10337387068843998,
+  "beta": 0.1962648107819872,
+  "rho": -0.11759934587966538,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "21833": {
+   "nombre": "Abha",
+   "pais": "Saudi Arabia",
+   "elo": 1349.7,
+   "con_liga": true,
+   "fuerza": -1.683549
+  },
+  "131746": {
+   "nombre": "Al Diriyah",
+   "pais": "Saudi Arabia",
+   "elo": 1464.6,
+   "con_liga": true,
+   "fuerza": -0.53448
+  },
+  "793": {
+   "nombre": "Al Shabab",
+   "pais": "Saudi Arabia",
+   "elo": 1482.6,
+   "con_liga": true,
+   "fuerza": -0.354707
+  },
+  "130899": {
+   "nombre": "Neom SC",
+   "pais": "Saudi Arabia",
+   "elo": 1523.8,
+   "con_liga": true,
+   "fuerza": 0.057399
+  },
+  "929": {
+   "nombre": "Al Hilal",
+   "pais": "Saudi Arabia",
+   "elo": 1843.6,
+   "con_liga": true,
+   "fuerza": 3.255039
+  },
+  "8363": {
+   "nombre": "Al Ettifaq",
+   "pais": "Saudi Arabia",
+   "elo": 1523.7,
+   "con_liga": true,
+   "fuerza": 0.056147
+  },
+  "18459": {
+   "nombre": "Al Taawoun",
+   "pais": "Saudi Arabia",
+   "elo": 1482.9,
+   "con_liga": true,
+   "fuerza": -0.351803
+  },
+  "817": {
+   "nombre": "Al Nassr",
+   "pais": "Saudi Arabia",
+   "elo": 1803.6,
+   "con_liga": true,
+   "fuerza": 2.855112
+  },
+  "2276": {
+   "nombre": "Al Ittihad",
+   "pais": "Saudi Arabia",
+   "elo": 1651.5,
+   "con_liga": true,
+   "fuerza": 1.334417
+  },
+  "21827": {
+   "nombre": "Al Fayha",
+   "pais": "Saudi Arabia",
+   "elo": 1439.1,
+   "con_liga": true,
+   "fuerza": -0.790293
+  },
+  "21965": {
+   "nombre": "Al Riyadh",
+   "pais": "Saudi Arabia",
+   "elo": 1417.0,
+   "con_liga": true,
+   "fuerza": -1.010563
+  },
+  "21964": {
+   "nombre": "Al Hazem",
+   "pais": "Saudi Arabia",
+   "elo": 1443.5,
+   "con_liga": true,
+   "fuerza": -0.746156
+  },
+  "22022": {
+   "nombre": "Al Qadsiah",
+   "pais": "Saudi Arabia",
+   "elo": 1751.3,
+   "con_liga": true,
+   "fuerza": 2.332194
+  },
+  "21446": {
+   "nombre": "Al Faisaly",
+   "pais": "Saudi Arabia",
+   "elo": 1407.2,
+   "con_liga": true,
+   "fuerza": -1.109125
+  },
+  "13033": {
+   "nombre": "Al Fateh",
+   "pais": "Saudi Arabia",
+   "elo": 1422.6,
+   "con_liga": true,
+   "fuerza": -0.955403
+  },
+  "22028": {
+   "nombre": "Al Kholood",
+   "pais": "Saudi Arabia",
+   "elo": 1448.5,
+   "con_liga": true,
+   "fuerza": -0.696087
+  },
+  "8346": {
+   "nombre": "Al Ahli",
+   "pais": "Saudi Arabia",
+   "elo": 1731.8,
+   "con_liga": true,
+   "fuerza": 2.136908
+  },
+  "21829": {
+   "nombre": "Al Khaleej",
+   "pais": "Saudi Arabia",
+   "elo": 1411.1,
+   "con_liga": true,
+   "fuerza": -1.069403
+  }
+ }
+}
