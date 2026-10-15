@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ned.1",
+  "nombre": "Eredivisie"
+ },
+ "partidos_entrenamiento": 929,
+ "validacion": {
+  "partidos": 309,
+  "rps": 0.19793766142125127,
+  "rps_frecuencia": 0.2292637925986645,
+  "acierto": 0.5048543689320388
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.34577592488343534,
+  "ventaja_local": 0.17260912716600332,
+  "beta": 0.14798019175738916,
+  "rho": -0.09737104987099883,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "3736": {
+   "nombre": "SC Cambuur",
+   "pais": "Netherlands",
+   "elo": 1347.6,
+   "con_liga": true,
+   "fuerza": -1.879519
+  },
+  "147": {
+   "nombre": "NEC Nijmegen",
+   "pais": "Netherlands",
+   "elo": 1575.7,
+   "con_liga": true,
+   "fuerza": 0.401902
+  },
+  "3706": {
+   "nombre": "Go Ahead Eagles",
+   "pais": "Netherlands",
+   "elo": 1515.9,
+   "con_liga": true,
+   "fuerza": -0.196226
+  },
+  "148": {
+   "nombre": "PSV Eindhoven",
+   "pais": "Netherlands",
+   "elo": 1862.6,
+   "con_liga": true,
+   "fuerza": 3.270975
+  },
+  "140": {
+   "nombre": "AZ Alkmaar",
+   "pais": "Netherlands",
+   "elo": 1644.6,
+   "con_liga": true,
+   "fuerza": 1.090683
+  },
+  "151": {
+   "nombre": "Sparta Rotterdam",
+   "pais": "Netherlands",
+   "elo": 1456.9,
+   "con_liga": true,
+   "fuerza": -0.786573
+  },
+  "2565": {
+   "nombre": "PEC Zwolle",
+   "pais": "Netherlands",
+   "elo": 1414.8,
+   "con_liga": true,
+   "fuerza": -1.207301
+  },
+  "145": {
+   "nombre": "FC Groningen",
+   "pais": "Netherlands",
+   "elo": 1545.8,
+   "con_liga": true,
+   "fuerza": 0.102634
+  },
+  "146": {
+   "nombre": "Heerenveen",
+   "pais": "Netherlands",
+   "elo": 1532.2,
+   "con_liga": true,
+   "fuerza": -0.033706
+  },
+  "3735": {
+   "nombre": "Telstar",
+   "pais": "Netherlands",
+   "elo": 1455.6,
+   "con_liga": true,
+   "fuerza": -0.799711
+  },
+  "156": {
+   "nombre": "Willem II",
+   "pais": "Netherlands",
+   "elo": 1315.7,
+   "con_liga": true,
+   "fuerza": -2.198391
+  },
+  "153": {
+   "nombre": "FC Utrecht",
+   "pais": "Netherlands",
+   "elo": 1587.9,
+   "con_liga": true,
+   "fuerza": 0.523688
+  },
+  "2566": {
+   "nombre": "Excelsior",
+   "pais": "Netherlands",
+   "elo": 1463.5,
+   "con_liga": true,
+   "fuerza": -0.720664
+  },
+  "143": {
+   "nombre": "Fortuna Sittard",
+   "pais": "Netherlands",
+   "elo": 1470.7,
+   "con_liga": true,
+   "fuerza": -0.64882
+  },
+  "2726": {
+   "nombre": "ADO Den Haag",
+   "pais": "Netherlands",
+   "elo": 1366.7,
+   "con_liga": true,
+   "fuerza": -1.68851
+  },
+  "152": {
+   "nombre": "FC Twente",
+   "pais": "Netherlands",
+   "elo": 1673.1,
+   "con_liga": true,
+   "fuerza": 1.375914
+  },
+  "142": {
+   "nombre": "Feyenoord Rotterdam",
+   "pais": "Netherlands",
+   "elo": 1751.5,
+   "con_liga": true,
+   "fuerza": 2.159367
+  },
+  "139": {
+   "nombre": "Ajax Amsterdam",
+   "pais": "Netherlands",
+   "elo": 1683.3,
+   "con_liga": true,
+   "fuerza": 1.477398
+  }
+ }
+}
