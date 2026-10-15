@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ger.2",
+  "nombre": "2. Bundesliga"
+ },
+ "partidos_entrenamiento": 720,
+ "validacion": {
+  "partidos": 297,
+  "rps": 0.22161173913996418,
+  "rps_frecuencia": 0.22473388378020945,
+  "acierto": 0.44107744107744107
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.29105673948436744,
+  "ventaja_local": 0.21774404344904708,
+  "beta": 0.12035979552281033,
+  "rho": -0.021962498890265497,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "121": {
+   "nombre": "VfL Bochum",
+   "pais": "Germany",
+   "elo": 1423.3,
+   "con_liga": true,
+   "fuerza": -0.346093
+  },
+  "10382": {
+   "nombre": "1. FC Magdeburg",
+   "pais": "Germany",
+   "elo": 1475.5,
+   "con_liga": true,
+   "fuerza": 0.175956
+  },
+  "4471": {
+   "nombre": "Karlsruher SC",
+   "pais": "Germany",
+   "elo": 1391.5,
+   "con_liga": true,
+   "fuerza": -0.66373
+  },
+  "3812": {
+   "nombre": "SV Darmstadt 98",
+   "pais": "Germany",
+   "elo": 1431.9,
+   "con_liga": true,
+   "fuerza": -0.259915
+  },
+  "6418": {
+   "nombre": "1. FC Heidenheim 1846",
+   "pais": "Germany",
+   "elo": 1466.7,
+   "con_liga": true,
+   "fuerza": 0.087781
+  },
+  "138": {
+   "nombre": "VfL Wolfsburg",
+   "pais": "Germany",
+   "elo": 1514.8,
+   "con_liga": true,
+   "fuerza": 0.569389
+  },
+  "123": {
+   "nombre": "Energie Cottbus",
+   "pais": "Germany",
+   "elo": 1434.3,
+   "con_liga": true,
+   "fuerza": -0.235756
+  },
+  "269": {
+   "nombre": "1. FC Nürnberg",
+   "pais": "Germany",
+   "elo": 1525.1,
+   "con_liga": true,
+   "fuerza": 0.671677
+  },
+  "270": {
+   "nombre": "St. Pauli",
+   "pais": "Germany",
+   "elo": 1447.4,
+   "con_liga": true,
+   "fuerza": -0.105
+  },
+  "3067": {
+   "nombre": "TSV Eintracht Braunschweig",
+   "pais": "Germany",
+   "elo": 1365.1,
+   "con_liga": true,
+   "fuerza": -0.927951
+  },
+  "7884": {
+   "nombre": "Holstein Kiel",
+   "pais": "Germany",
+   "elo": 1395.9,
+   "con_liga": true,
+   "fuerza": -0.619986
+  },
+  "7013": {
+   "nombre": "VfL Osnabruck",
+   "pais": "Germany",
+   "elo": 1344.6,
+   "con_liga": true,
+   "fuerza": -1.132606
+  },
+  "3070": {
+   "nombre": "SpVgg Greuther Fürth",
+   "pais": "Germany",
+   "elo": 1382.0,
+   "con_liga": true,
+   "fuerza": -0.759319
+  },
+  "129": {
+   "nombre": "Hertha Berlin",
+   "pais": "Germany",
+   "elo": 1531.0,
+   "con_liga": true,
+   "fuerza": 0.731449
+  },
+  "130": {
+   "nombre": "Kaiserslautern",
+   "pais": "Germany",
+   "elo": 1478.6,
+   "con_liga": true,
+   "fuerza": 0.207238
+  },
+  "2506": {
+   "nombre": "Arminia Bielefeld",
+   "pais": "Germany",
+   "elo": 1422.8,
+   "con_liga": true,
+   "fuerza": -0.351435
+  },
+  "7017": {
+   "nombre": "Dynamo Dresden",
+   "pais": "Germany",
+   "elo": 1406.3,
+   "con_liga": true,
+   "fuerza": -0.515886
+  },
+  "2428": {
+   "nombre": "Hannover 96",
+   "pais": "Germany",
+   "elo": 1500.6,
+   "con_liga": true,
+   "fuerza": 0.427432
+  }
+ }
+}
