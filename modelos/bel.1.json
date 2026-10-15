@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "bel.1",
+  "nombre": "Bélgica"
+ },
+ "partidos_entrenamiento": 931,
+ "validacion": {
+  "partidos": 305,
+  "rps": 0.2106347107284734,
+  "rps_frecuencia": 0.23621350911848735,
+  "acierto": 0.4852459016393443
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.1850755897518733,
+  "ventaja_local": 0.20977073235700827,
+  "beta": 0.16874430169833898,
+  "rho": -0.05720786145505167,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "570": {
+   "nombre": "Club Brugge",
+   "pais": "Belgium",
+   "elo": 1832.9,
+   "con_liga": true,
+   "fuerza": 2.83132
+  },
+  "559": {
+   "nombre": "Standard Liege",
+   "pais": "Belgium",
+   "elo": 1532.7,
+   "con_liga": true,
+   "fuerza": -0.170962
+  },
+  "606": {
+   "nombre": "KVC Westerlo",
+   "pais": "Belgium",
+   "elo": 1554.3,
+   "con_liga": true,
+   "fuerza": 0.045177
+  },
+  "936": {
+   "nombre": "Sint-Truidense",
+   "pais": "Belgium",
+   "elo": 1562.0,
+   "con_liga": true,
+   "fuerza": 0.122144
+  },
+  "3611": {
+   "nombre": "KAA Gent",
+   "pais": "Belgium",
+   "elo": 1617.0,
+   "con_liga": true,
+   "fuerza": 0.672601
+  },
+  "4691": {
+   "nombre": "Zulte-Waregem",
+   "pais": "Belgium",
+   "elo": 1491.0,
+   "con_liga": true,
+   "fuerza": -0.587543
+  },
+  "3616": {
+   "nombre": "Royal Charleroi SC",
+   "pais": "Belgium",
+   "elo": 1610.8,
+   "con_liga": true,
+   "fuerza": 0.610247
+  },
+  "441": {
+   "nombre": "Anderlecht",
+   "pais": "Belgium",
+   "elo": 1593.0,
+   "con_liga": true,
+   "fuerza": 0.432731
+  },
+  "17544": {
+   "nombre": "Antwerp",
+   "pais": "Belgium",
+   "elo": 1490.9,
+   "con_liga": true,
+   "fuerza": -0.58874
+  },
+  "3610": {
+   "nombre": "Cercle Brugge KSV",
+   "pais": "Belgium",
+   "elo": 1447.4,
+   "con_liga": true,
+   "fuerza": -1.023122
+  },
+  "5807": {
+   "nombre": "Union St.-Gilloise",
+   "pais": "Belgium",
+   "elo": 1823.2,
+   "con_liga": true,
+   "fuerza": 2.734924
+  },
+  "5786": {
+   "nombre": "KV Kortrijk",
+   "pais": "Belgium",
+   "elo": 1363.9,
+   "con_liga": true,
+   "fuerza": -1.858201
+  },
+  "938": {
+   "nombre": "Racing Genk",
+   "pais": "Belgium",
+   "elo": 1615.9,
+   "con_liga": true,
+   "fuerza": 0.661649
+  },
+  "5579": {
+   "nombre": "OH Leuven",
+   "pais": "Belgium",
+   "elo": 1427.5,
+   "con_liga": true,
+   "fuerza": -1.222746
+  },
+  "13450": {
+   "nombre": "Waasland-Beveren",
+   "pais": "Belgium",
+   "elo": 1427.5,
+   "con_liga": true,
+   "fuerza": -1.222424
+  },
+  "131235": {
+   "nombre": "RAAL La Louvière",
+   "pais": "Belgium",
+   "elo": 1394.7,
+   "con_liga": true,
+   "fuerza": -1.550135
+  },
+  "7879": {
+   "nombre": "KV Mechelen",
+   "pais": "Belgium",
+   "elo": 1476.6,
+   "con_liga": true,
+   "fuerza": -0.731621
+  },
+  "22269": {
+   "nombre": "Lommel SK",
+   "pais": "Belgium",
+   "elo": 1511.9,
+   "con_liga": true,
+   "fuerza": -0.378331
+  }
+ }
+}
