@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "esp.1",
+  "nombre": "LaLiga"
+ },
+ "partidos_entrenamiento": 1129,
+ "validacion": {
+  "partidos": 378,
+  "rps": 0.20100490757283104,
+  "rps_frecuencia": 0.2241703990443124,
+  "acierto": 0.5211640211640212
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.11497228889493738,
+  "ventaja_local": 0.29657825097276985,
+  "beta": 0.18175993418437086,
+  "rho": -0.0016118817237422344,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "96": {
+   "nombre": "Alavés",
+   "pais": "Spain",
+   "elo": 1554.5,
+   "con_liga": true,
+   "fuerza": -0.340888
+  },
+  "243": {
+   "nombre": "Sevilla",
+   "pais": "Spain",
+   "elo": 1554.4,
+   "con_liga": true,
+   "fuerza": -0.342775
+  },
+  "87": {
+   "nombre": "Racing Santander",
+   "pais": "Spain",
+   "elo": 1551.2,
+   "con_liga": true,
+   "fuerza": -0.374052
+  },
+  "88": {
+   "nombre": "Espanyol",
+   "pais": "Spain",
+   "elo": 1529.7,
+   "con_liga": true,
+   "fuerza": -0.589406
+  },
+  "90": {
+   "nombre": "Deportivo",
+   "pais": "Spain",
+   "elo": 1552.5,
+   "con_liga": true,
+   "fuerza": -0.360808
+  },
+  "1068": {
+   "nombre": "Atlético Madrid",
+   "pais": "Spain",
+   "elo": 1740.1,
+   "con_liga": true,
+   "fuerza": 1.514401
+  },
+  "101": {
+   "nombre": "Rayo Vallecano",
+   "pais": "Spain",
+   "elo": 1595.6,
+   "con_liga": true,
+   "fuerza": 0.069864
+  },
+  "244": {
+   "nombre": "Real Betis",
+   "pais": "Spain",
+   "elo": 1694.3,
+   "con_liga": true,
+   "fuerza": 1.056766
+  },
+  "93": {
+   "nombre": "Athletic Club",
+   "pais": "Spain",
+   "elo": 1586.8,
+   "con_liga": true,
+   "fuerza": -0.017827
+  },
+  "94": {
+   "nombre": "Valencia",
+   "pais": "Spain",
+   "elo": 1562.8,
+   "con_liga": true,
+   "fuerza": -0.25867
+  },
+  "2922": {
+   "nombre": "Getafe",
+   "pais": "Spain",
+   "elo": 1549.5,
+   "con_liga": true,
+   "fuerza": -0.391767
+  },
+  "3751": {
+   "nombre": "Elche",
+   "pais": "Spain",
+   "elo": 1542.7,
+   "con_liga": true,
+   "fuerza": -0.458825
+  },
+  "97": {
+   "nombre": "Osasuna",
+   "pais": "Spain",
+   "elo": 1516.7,
+   "con_liga": true,
+   "fuerza": -0.719098
+  },
+  "99": {
+   "nombre": "Málaga",
+   "pais": "Spain",
+   "elo": 1540.5,
+   "con_liga": true,
+   "fuerza": -0.481121
+  },
+  "86": {
+   "nombre": "Real Madrid",
+   "pais": "Spain",
+   "elo": 1835.8,
+   "con_liga": true,
+   "fuerza": 2.472068
+  },
+  "85": {
+   "nombre": "Celta Vigo",
+   "pais": "Spain",
+   "elo": 1592.5,
+   "con_liga": true,
+   "fuerza": 0.038374
+  },
+  "83": {
+   "nombre": "Barcelona",
+   "pais": "Spain",
+   "elo": 1921.3,
+   "con_liga": true,
+   "fuerza": 3.326942
+  },
+  "1538": {
+   "nombre": "Levante",
+   "pais": "Spain",
+   "elo": 1562.3,
+   "con_liga": true,
+   "fuerza": -0.263073
+  },
+  "89": {
+   "nombre": "Real Sociedad",
+   "pais": "Spain",
+   "elo": 1582.1,
+   "con_liga": true,
+   "fuerza": -0.065138
+  },
+  "102": {
+   "nombre": "Villarreal",
+   "pais": "Spain",
+   "elo": 1684.5,
+   "con_liga": true,
+   "fuerza": 0.958214
+  }
+ }
+}
