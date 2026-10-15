@@ -1,0 +1,110 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "par.1",
+  "nombre": "Paraguay"
+ },
+ "partidos_entrenamiento": 792,
+ "validacion": {
+  "partidos": 252,
+  "rps": 0.21120183579801372,
+  "rps_frecuencia": 0.22863037284418253,
+  "acierto": 0.4880952380952381
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.08889585106943432,
+  "ventaja_local": 0.13326769820252535,
+  "beta": 0.19145709423912532,
+  "rho": -0.10360711716926331,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "21313": {
+   "nombre": "Sportivo Ameliano",
+   "pais": "Paraguay",
+   "elo": 1534.2,
+   "con_liga": true,
+   "fuerza": -0.060272
+  },
+  "2671": {
+   "nombre": "Cerro Porteño",
+   "pais": "Paraguay",
+   "elo": 1622.4,
+   "con_liga": true,
+   "fuerza": 0.82155
+  },
+  "2675": {
+   "nombre": "Club Olimpia",
+   "pais": "Paraguay",
+   "elo": 1674.1,
+   "con_liga": true,
+   "fuerza": 1.338875
+  },
+  "7385": {
+   "nombre": "Guaraní",
+   "pais": "Paraguay",
+   "elo": 1614.2,
+   "con_liga": true,
+   "fuerza": 0.739437
+  },
+  "7466": {
+   "nombre": "Sportivo Trinidense",
+   "pais": "Paraguay",
+   "elo": 1610.1,
+   "con_liga": true,
+   "fuerza": 0.698917
+  },
+  "22517": {
+   "nombre": "Deportivo Recoleta",
+   "pais": "Paraguay",
+   "elo": 1461.1,
+   "con_liga": true,
+   "fuerza": -0.79082
+  },
+  "10080": {
+   "nombre": "Rubio Ñú",
+   "pais": "Paraguay",
+   "elo": 1455.4,
+   "con_liga": true,
+   "fuerza": -0.848543
+  },
+  "6097": {
+   "nombre": "2 de Mayo",
+   "pais": "Paraguay",
+   "elo": 1556.2,
+   "con_liga": true,
+   "fuerza": 0.159322
+  },
+  "17671": {
+   "nombre": "Sportivo San Lorenzo",
+   "pais": "Paraguay",
+   "elo": 1363.1,
+   "con_liga": true,
+   "fuerza": -1.771668
+  },
+  "5584": {
+   "nombre": "Nacional Asunción",
+   "pais": "Paraguay",
+   "elo": 1659.6,
+   "con_liga": true,
+   "fuerza": 1.193981
+  },
+  "2670": {
+   "nombre": "Libertad",
+   "pais": "Paraguay",
+   "elo": 1614.1,
+   "con_liga": true,
+   "fuerza": 0.738309
+  },
+  "5583": {
+   "nombre": "Sportivo Luqueño",
+   "pais": "Paraguay",
+   "elo": 1423.1,
+   "con_liga": true,
+   "fuerza": -1.171693
+  }
+ }
+}
