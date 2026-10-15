@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "por.1",
+  "nombre": "Portugal"
+ },
+ "partidos_entrenamiento": 917,
+ "validacion": {
+  "partidos": 305,
+  "rps": 0.17552486333394116,
+  "rps_frecuencia": 0.22999015489935282,
+  "acierto": 0.5540983606557377
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.1296424860151418,
+  "ventaja_local": 0.16649425619559396,
+  "beta": 0.1734012921715968,
+  "rho": 0.029510262021466328,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "12216": {
+   "nombre": "Estoril",
+   "pais": "Portugal",
+   "elo": 1431.8,
+   "con_liga": true,
+   "fuerza": -1.011042
+  },
+  "552": {
+   "nombre": "Maritimo",
+   "pais": "Portugal",
+   "elo": 1396.3,
+   "con_liga": true,
+   "fuerza": -1.366221
+  },
+  "5309": {
+   "nombre": "Vitória de Guimaraes",
+   "pais": "Portugal",
+   "elo": 1473.7,
+   "con_liga": true,
+   "fuerza": -0.592088
+  },
+  "21610": {
+   "nombre": "Estrela",
+   "pais": "Portugal",
+   "elo": 1414.3,
+   "con_liga": true,
+   "fuerza": -1.185828
+  },
+  "437": {
+   "nombre": "FC Porto",
+   "pais": "Portugal",
+   "elo": 1843.6,
+   "con_liga": true,
+   "fuerza": 3.10669
+  },
+  "1929": {
+   "nombre": "Benfica",
+   "pais": "Portugal",
+   "elo": 1847.0,
+   "con_liga": true,
+   "fuerza": 3.141224
+  },
+  "3696": {
+   "nombre": "Moreirense",
+   "pais": "Portugal",
+   "elo": 1466.6,
+   "con_liga": true,
+   "fuerza": -0.662484
+  },
+  "3699": {
+   "nombre": "Gil Vicente",
+   "pais": "Portugal",
+   "elo": 1511.5,
+   "con_liga": true,
+   "fuerza": -0.214192
+  },
+  "12215": {
+   "nombre": "Santa Clara",
+   "pais": "Portugal",
+   "elo": 1533.6,
+   "con_liga": true,
+   "fuerza": 0.007454
+  },
+  "2250": {
+   "nombre": "Sporting CP",
+   "pais": "Portugal",
+   "elo": 1872.7,
+   "con_liga": true,
+   "fuerza": 3.398239
+  },
+  "21613": {
+   "nombre": "Alverca",
+   "pais": "Portugal",
+   "elo": 1501.5,
+   "con_liga": true,
+   "fuerza": -0.313687
+  },
+  "21607": {
+   "nombre": "Académico de Viseu",
+   "pais": "Portugal",
+   "elo": 1477.3,
+   "con_liga": true,
+   "fuerza": -0.555839
+  },
+  "3822": {
+   "nombre": "Rio Ave",
+   "pais": "Portugal",
+   "elo": 1431.4,
+   "con_liga": true,
+   "fuerza": -1.014631
+  },
+  "3472": {
+   "nombre": "C.D. Nacional",
+   "pais": "Portugal",
+   "elo": 1387.8,
+   "con_liga": true,
+   "fuerza": -1.450424
+  },
+  "15784": {
+   "nombre": "Arouca",
+   "pais": "Portugal",
+   "elo": 1529.5,
+   "con_liga": true,
+   "fuerza": -0.034229
+  },
+  "12698": {
+   "nombre": "FC Famalicao",
+   "pais": "Portugal",
+   "elo": 1556.9,
+   "con_liga": true,
+   "fuerza": 0.239935
+  },
+  "21581": {
+   "nombre": "Casa Pia",
+   "pais": "Portugal",
+   "elo": 1389.9,
+   "con_liga": true,
+   "fuerza": -1.430091
+  },
+  "2994": {
+   "nombre": "Braga",
+   "pais": "Portugal",
+   "elo": 1659.7,
+   "con_liga": true,
+   "fuerza": 1.267916
+  }
+ }
+}
