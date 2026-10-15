@@ -1,0 +1,278 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "uefa.champions",
+  "nombre": "Champions"
+ },
+ "partidos_entrenamiento": 818,
+ "validacion": {
+  "partidos": 189,
+  "rps": 0.21146133563364608,
+  "rps_frecuencia": 0.23728229171042226,
+  "acierto": 0.5873015873015873
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.2677294985215963,
+  "ventaja_local": 0.24646070586703828,
+  "beta": 0.28611902966336217,
+  "rho": 0.021013712965253298,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "570": {
+   "nombre": "Club Brugge",
+   "pais": "Belgium",
+   "elo": 1832.9,
+   "con_liga": true,
+   "fuerza": -0.532815
+  },
+  "887": {
+   "nombre": "AEK Athens",
+   "pais": "Greece",
+   "elo": 1779.8,
+   "con_liga": true,
+   "fuerza": -1.575097
+  },
+  "437": {
+   "nombre": "FC Porto",
+   "pais": "Portugal",
+   "elo": 1843.6,
+   "con_liga": true,
+   "fuerza": -0.176938
+  },
+  "124": {
+   "nombre": "Borussia Dortmund",
+   "pais": "Germany",
+   "elo": 1788.8,
+   "con_liga": true,
+   "fuerza": 0.493553
+  },
+  "166": {
+   "nombre": "Lille",
+   "pais": "France",
+   "elo": 1723.3,
+   "con_liga": true,
+   "fuerza": -0.407673
+  },
+  "86": {
+   "nombre": "Real Madrid",
+   "pais": "Spain",
+   "elo": 1835.8,
+   "con_liga": true,
+   "fuerza": 0.816825
+  },
+  "83": {
+   "nombre": "Barcelona",
+   "pais": "Spain",
+   "elo": 1921.3,
+   "con_liga": true,
+   "fuerza": 1.6717
+  },
+  "134": {
+   "nombre": "VfB Stuttgart",
+   "pais": "Germany",
+   "elo": 1695.3,
+   "con_liga": true,
+   "fuerza": -0.440753
+  },
+  "114": {
+   "nombre": "Napoli",
+   "pais": "Italy",
+   "elo": 1768.6,
+   "con_liga": true,
+   "fuerza": -0.328074
+  },
+  "160": {
+   "nombre": "Paris Saint-Germain",
+   "pais": "France",
+   "elo": 1854.2,
+   "con_liga": true,
+   "fuerza": 0.900808
+  },
+  "364": {
+   "nombre": "Liverpool",
+   "pais": "England",
+   "elo": 1724.3,
+   "con_liga": true,
+   "fuerza": -0.065507
+  },
+  "2250": {
+   "nombre": "Sporting CP",
+   "pais": "Portugal",
+   "elo": 1872.7,
+   "con_liga": true,
+   "fuerza": 0.114611
+  },
+  "148": {
+   "nombre": "PSV Eindhoven",
+   "pais": "Netherlands",
+   "elo": 1862.6,
+   "con_liga": true,
+   "fuerza": -0.393964
+  },
+  "436": {
+   "nombre": "Fenerbahce",
+   "pais": "Turkey",
+   "elo": 1798.3,
+   "con_liga": true,
+   "fuerza": -1.869317
+  },
+  "494": {
+   "nombre": "Slavia Prague",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.838327
+  },
+  "2572": {
+   "nombre": "Como",
+   "pais": "Italy",
+   "elo": 1748.3,
+   "con_liga": true,
+   "fuerza": -0.530499
+  },
+  "360": {
+   "nombre": "Manchester United",
+   "pais": "England",
+   "elo": 1697.1,
+   "con_liga": true,
+   "fuerza": -0.337713
+  },
+  "132": {
+   "nombre": "Bayern Munich",
+   "pais": "Germany",
+   "elo": 1915.7,
+   "con_liga": true,
+   "fuerza": 1.763398
+  },
+  "175": {
+   "nombre": "Lens",
+   "pais": "France",
+   "elo": 1712.6,
+   "con_liga": true,
+   "fuerza": -0.514584
+  },
+  "21922": {
+   "nombre": "Sabah FK",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.274702
+  },
+  "102": {
+   "nombre": "Villarreal",
+   "pais": "Spain",
+   "elo": 1684.5,
+   "con_liga": true,
+   "fuerza": -0.697028
+  },
+  "510": {
+   "nombre": "Viking FK",
+   "pais": "Norway",
+   "elo": 1787.1,
+   "con_liga": true,
+   "fuerza": -0.20761
+  },
+  "1068": {
+   "nombre": "Atlético Madrid",
+   "pais": "Spain",
+   "elo": 1740.1,
+   "con_liga": true,
+   "fuerza": -0.140841
+  },
+  "110": {
+   "nombre": "Internazionale",
+   "pais": "Italy",
+   "elo": 1902.1,
+   "con_liga": true,
+   "fuerza": 1.006726
+  },
+  "359": {
+   "nombre": "Arsenal",
+   "pais": "England",
+   "elo": 1862.3,
+   "con_liga": true,
+   "fuerza": 1.314474
+  },
+  "11420": {
+   "nombre": "RB Leipzig",
+   "pais": "Germany",
+   "elo": 1680.9,
+   "con_liga": true,
+   "fuerza": -0.584783
+  },
+  "432": {
+   "nombre": "Galatasaray",
+   "pais": "Turkey",
+   "elo": 1831.6,
+   "con_liga": true,
+   "fuerza": -1.536088
+  },
+  "4411": {
+   "nombre": "LASK Linz",
+   "pais": "Austria",
+   "elo": 1677.1,
+   "con_liga": true,
+   "fuerza": -2.929425
+  },
+  "142": {
+   "nombre": "Feyenoord Rotterdam",
+   "pais": "Netherlands",
+   "elo": 1751.5,
+   "con_liga": true,
+   "fuerza": -1.505572
+  },
+  "2980": {
+   "nombre": "Bodo/Glimt",
+   "pais": "Norway",
+   "elo": 1805.2,
+   "con_liga": true,
+   "fuerza": -0.02626
+  },
+  "521": {
+   "nombre": "Slovan Bratislava",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -2.635235
+  },
+  "493": {
+   "nombre": "Shakhtar Donetsk",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.71818
+  },
+  "382": {
+   "nombre": "Manchester City",
+   "pais": "England",
+   "elo": 1877.8,
+   "con_liga": true,
+   "fuerza": 1.469011
+  },
+  "244": {
+   "nombre": "Real Betis",
+   "pais": "Spain",
+   "elo": 1694.3,
+   "con_liga": true,
+   "fuerza": -0.598476
+  },
+  "362": {
+   "nombre": "Aston Villa",
+   "pais": "England",
+   "elo": 1659.5,
+   "con_liga": true,
+   "fuerza": -0.713517
+  },
+  "104": {
+   "nombre": "AS Roma",
+   "pais": "Italy",
+   "elo": 1804.1,
+   "con_liga": true,
+   "fuerza": 0.027293
+  }
+ }
+}
