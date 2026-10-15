@@ -1,0 +1,278 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "uefa.europa",
+  "nombre": "Europa League"
+ },
+ "partidos_entrenamiento": 878,
+ "validacion": {
+  "partidos": 207,
+  "rps": 0.22483788244233285,
+  "rps_frecuencia": 0.23814089495623533,
+  "acierto": 0.5265700483091788
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.15577715231577507,
+  "ventaja_local": 0.28641893966741694,
+  "beta": 0.20275481089547717,
+  "rho": 0.05881105221344211,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "20024": {
+   "nombre": "Ararat-Armenia",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.364851
+  },
+  "617": {
+   "nombre": "Omonia Nicosia",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.860282
+  },
+  "103": {
+   "nombre": "AC Milan",
+   "pais": "Italy",
+   "elo": 1731.2,
+   "con_liga": true,
+   "fuerza": 1.313094
+  },
+  "131": {
+   "nombre": "Bayer Leverkusen",
+   "pais": "Germany",
+   "elo": 1735.2,
+   "con_liga": true,
+   "fuerza": 1.448114
+  },
+  "435": {
+   "nombre": "Olympiacos",
+   "pais": "Greece",
+   "elo": 1791.1,
+   "con_liga": true,
+   "fuerza": -0.529867
+  },
+  "13083": {
+   "nombre": "Hapoel Be'er",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.848584
+  },
+  "441": {
+   "nombre": "Anderlecht",
+   "pais": "Belgium",
+   "elo": 1593.0,
+   "con_liga": true,
+   "fuerza": -1.681408
+  },
+  "366": {
+   "nombre": "Sunderland",
+   "pais": "England",
+   "elo": 1564.7,
+   "con_liga": true,
+   "fuerza": -0.857698
+  },
+  "3746": {
+   "nombre": "SK Sturm Graz",
+   "pais": "Austria",
+   "elo": 1672.2,
+   "con_liga": true,
+   "fuerza": -1.83941
+  },
+  "490": {
+   "nombre": "Levski Sofia",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.102898
+  },
+  "1010": {
+   "nombre": "OFI Crete",
+   "pais": "Greece",
+   "elo": 1489.0,
+   "con_liga": true,
+   "fuerza": -3.550461
+  },
+  "384": {
+   "nombre": "Crystal Palace",
+   "pais": "England",
+   "elo": 1596.5,
+   "con_liga": true,
+   "fuerza": -0.540115
+  },
+  "987": {
+   "nombre": "Lillestrom",
+   "pais": "Norway",
+   "elo": 1477.7,
+   "con_liga": true,
+   "fuerza": -3.088403
+  },
+  "11706": {
+   "nombre": "Viktoria Plzen",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.434958
+  },
+  "256": {
+   "nombre": "Celtic",
+   "pais": "Scotland",
+   "elo": 1786.6,
+   "con_liga": true,
+   "fuerza": 0.016023
+  },
+  "111": {
+   "nombre": "Juventus",
+   "pais": "Italy",
+   "elo": 1750.3,
+   "con_liga": true,
+   "fuerza": 1.504112
+  },
+  "89": {
+   "nombre": "Real Sociedad",
+   "pais": "Spain",
+   "elo": 1582.1,
+   "con_liga": true,
+   "fuerza": -0.485887
+  },
+  "1895": {
+   "nombre": "Besiktas",
+   "pais": "Turkey",
+   "elo": 1666.5,
+   "con_liga": true,
+   "fuerza": -1.438035
+  },
+  "167": {
+   "nombre": "Lyon",
+   "pais": "France",
+   "elo": 1712.1,
+   "con_liga": true,
+   "fuerza": 0.216898
+  },
+  "433": {
+   "nombre": "Sparta Prague",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.910831
+  },
+  "2790": {
+   "nombre": "RB Salzburg",
+   "pais": "Austria",
+   "elo": 1675.6,
+   "con_liga": true,
+   "fuerza": -1.805354
+  },
+  "140": {
+   "nombre": "AZ Alkmaar",
+   "pais": "Netherlands",
+   "elo": 1644.6,
+   "con_liga": true,
+   "fuerza": -1.042667
+  },
+  "5807": {
+   "nombre": "Union St.-Gilloise",
+   "pais": "Belgium",
+   "elo": 1823.2,
+   "con_liga": true,
+   "fuerza": 0.620785
+  },
+  "21615": {
+   "nombre": "Torreense",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.711628
+  },
+  "2990": {
+   "nombre": "Lech Poznan",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.387277
+  },
+  "3362": {
+   "nombre": "NK Celje",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.810757
+  },
+  "597": {
+   "nombre": "Dinamo Zagreb",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.211567
+  },
+  "176": {
+   "nombre": "Marseille",
+   "pais": "France",
+   "elo": 1669.1,
+   "con_liga": true,
+   "fuerza": -0.212641
+  },
+  "85": {
+   "nombre": "Celta Vigo",
+   "pais": "Spain",
+   "elo": 1592.5,
+   "con_liga": true,
+   "fuerza": -0.382375
+  },
+  "11505": {
+   "nombre": "Jagiellonia Bialystok",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.832131
+  },
+  "1929": {
+   "nombre": "Benfica",
+   "pais": "Portugal",
+   "elo": 1847.0,
+   "con_liga": true,
+   "fuerza": 1.059585
+  },
+  "7911": {
+   "nombre": "TSG Hoffenheim",
+   "pais": "Germany",
+   "elo": 1582.7,
+   "con_liga": true,
+   "fuerza": -0.077062
+  },
+  "622": {
+   "nombre": "Ferencvaros",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.266584
+  },
+  "147": {
+   "nombre": "NEC Nijmegen",
+   "pais": "Netherlands",
+   "elo": 1575.7,
+   "con_liga": true,
+   "fuerza": -1.731448
+  },
+  "349": {
+   "nombre": "AFC Bournemouth",
+   "pais": "England",
+   "elo": 1653.8,
+   "con_liga": true,
+   "fuerza": 0.033382
+  },
+  "169": {
+   "nombre": "Stade Rennais",
+   "pais": "France",
+   "elo": 1696.7,
+   "con_liga": true,
+   "fuerza": 0.063304
+  }
+ }
+}
