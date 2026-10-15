@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ita.1",
+  "nombre": "Serie A"
+ },
+ "partidos_entrenamiento": 1120,
+ "validacion": {
+  "partidos": 380,
+  "rps": 0.20089924021555022,
+  "rps_frecuencia": 0.2353928487890738,
+  "acierto": 0.5157894736842106
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.13003094873705542,
+  "ventaja_local": 0.11111049206623615,
+  "beta": 0.19517063078136895,
+  "rho": -0.023192564269554693,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "118": {
+   "nombre": "Udinese",
+   "pais": "Italy",
+   "elo": 1573.1,
+   "con_liga": true,
+   "fuerza": -0.378098
+  },
+  "110": {
+   "nombre": "Internazionale",
+   "pais": "Italy",
+   "elo": 1902.1,
+   "con_liga": true,
+   "fuerza": 2.911188
+  },
+  "115": {
+   "nombre": "Parma",
+   "pais": "Italy",
+   "elo": 1536.1,
+   "con_liga": true,
+   "fuerza": -0.748301
+  },
+  "3263": {
+   "nombre": "Genoa",
+   "pais": "Italy",
+   "elo": 1536.8,
+   "con_liga": true,
+   "fuerza": -0.740831
+  },
+  "4057": {
+   "nombre": "Frosinone",
+   "pais": "Italy",
+   "elo": 1633.1,
+   "con_liga": true,
+   "fuerza": 0.222026
+  },
+  "17530": {
+   "nombre": "Venezia",
+   "pais": "Italy",
+   "elo": 1549.3,
+   "con_liga": true,
+   "fuerza": -0.616686
+  },
+  "105": {
+   "nombre": "Atalanta",
+   "pais": "Italy",
+   "elo": 1701.5,
+   "con_liga": true,
+   "fuerza": 0.905546
+  },
+  "239": {
+   "nombre": "Torino",
+   "pais": "Italy",
+   "elo": 1566.1,
+   "con_liga": true,
+   "fuerza": -0.448583
+  },
+  "107": {
+   "nombre": "Bologna",
+   "pais": "Italy",
+   "elo": 1621.1,
+   "con_liga": true,
+   "fuerza": 0.101984
+  },
+  "104": {
+   "nombre": "AS Roma",
+   "pais": "Italy",
+   "elo": 1804.1,
+   "con_liga": true,
+   "fuerza": 1.931755
+  },
+  "103": {
+   "nombre": "AC Milan",
+   "pais": "Italy",
+   "elo": 1731.2,
+   "con_liga": true,
+   "fuerza": 1.202223
+  },
+  "3997": {
+   "nombre": "Sassuolo",
+   "pais": "Italy",
+   "elo": 1600.1,
+   "con_liga": true,
+   "fuerza": -0.108477
+  },
+  "4007": {
+   "nombre": "Monza",
+   "pais": "Italy",
+   "elo": 1543.0,
+   "con_liga": true,
+   "fuerza": -0.67929
+  },
+  "109": {
+   "nombre": "Fiorentina",
+   "pais": "Italy",
+   "elo": 1596.5,
+   "con_liga": true,
+   "fuerza": -0.14456
+  },
+  "111": {
+   "nombre": "Juventus",
+   "pais": "Italy",
+   "elo": 1750.3,
+   "con_liga": true,
+   "fuerza": 1.393241
+  },
+  "114": {
+   "nombre": "Napoli",
+   "pais": "Italy",
+   "elo": 1768.6,
+   "con_liga": true,
+   "fuerza": 1.576388
+  },
+  "112": {
+   "nombre": "Lazio",
+   "pais": "Italy",
+   "elo": 1699.5,
+   "con_liga": true,
+   "fuerza": 0.885858
+  },
+  "2925": {
+   "nombre": "Cagliari",
+   "pais": "Italy",
+   "elo": 1579.0,
+   "con_liga": true,
+   "fuerza": -0.319512
+  },
+  "113": {
+   "nombre": "Lecce",
+   "pais": "Italy",
+   "elo": 1503.7,
+   "con_liga": true,
+   "fuerza": -1.072575
+  },
+  "2572": {
+   "nombre": "Como",
+   "pais": "Italy",
+   "elo": 1748.3,
+   "con_liga": true,
+   "fuerza": 1.373963
+  }
+ }
+}
