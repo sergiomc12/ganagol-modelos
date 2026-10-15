@@ -1,0 +1,236 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "usa.1",
+  "nombre": "MLS"
+ },
+ "partidos_entrenamiento": 1528,
+ "validacion": {
+  "partidos": 476,
+  "rps": 0.21949591376958183,
+  "rps_frecuencia": 0.22476856308404433,
+  "acierto": 0.4894957983193277
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.32823069590135845,
+  "ventaja_local": 0.23382690306192316,
+  "beta": 0.11942895371146814,
+  "rho": -0.03327761099543303,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "17606": {
+   "nombre": "New York City FC",
+   "pais": "USA",
+   "elo": 1515.5,
+   "con_liga": true,
+   "fuerza": 0.117635
+  },
+  "190": {
+   "nombre": "Red Bull New York",
+   "pais": "USA",
+   "elo": 1455.5,
+   "con_liga": true,
+   "fuerza": -0.482045
+  },
+  "9720": {
+   "nombre": "CF Montréal",
+   "pais": "USA",
+   "elo": 1376.5,
+   "con_liga": true,
+   "fuerza": -1.272592
+  },
+  "9727": {
+   "nombre": "Vancouver Whitecaps",
+   "pais": "USA",
+   "elo": 1613.2,
+   "con_liga": true,
+   "fuerza": 1.094275
+  },
+  "193": {
+   "nombre": "D.C. United",
+   "pais": "USA",
+   "elo": 1384.6,
+   "con_liga": true,
+   "fuerza": -1.191043
+  },
+  "10739": {
+   "nombre": "Philadelphia Union",
+   "pais": "USA",
+   "elo": 1600.1,
+   "con_liga": true,
+   "fuerza": 0.963807
+  },
+  "20232": {
+   "nombre": "Inter Miami CF",
+   "pais": "USA",
+   "elo": 1641.6,
+   "con_liga": true,
+   "fuerza": 1.378249
+  },
+  "17362": {
+   "nombre": "Minnesota United FC",
+   "pais": "USA",
+   "elo": 1470.1,
+   "con_liga": true,
+   "fuerza": -0.336544
+  },
+  "182": {
+   "nombre": "Chicago Fire FC",
+   "pais": "USA",
+   "elo": 1560.8,
+   "con_liga": true,
+   "fuerza": 0.571073
+  },
+  "21812": {
+   "nombre": "St. Louis CITY SC",
+   "pais": "USA",
+   "elo": 1576.2,
+   "con_liga": true,
+   "fuerza": 0.724573
+  },
+  "186": {
+   "nombre": "Sporting Kansas City",
+   "pais": "USA",
+   "elo": 1356.2,
+   "con_liga": true,
+   "fuerza": -1.475732
+  },
+  "184": {
+   "nombre": "Colorado Rapids",
+   "pais": "USA",
+   "elo": 1454.4,
+   "con_liga": true,
+   "fuerza": -0.493824
+  },
+  "18267": {
+   "nombre": "FC Cincinnati",
+   "pais": "USA",
+   "elo": 1527.6,
+   "con_liga": true,
+   "fuerza": 0.238841
+  },
+  "187": {
+   "nombre": "LA Galaxy",
+   "pais": "USA",
+   "elo": 1467.2,
+   "con_liga": true,
+   "fuerza": -0.365336
+  },
+  "9723": {
+   "nombre": "Portland Timbers",
+   "pais": "USA",
+   "elo": 1462.2,
+   "con_liga": true,
+   "fuerza": -0.415203
+  },
+  "189": {
+   "nombre": "New England Revolution",
+   "pais": "USA",
+   "elo": 1474.4,
+   "con_liga": true,
+   "fuerza": -0.29351
+  },
+  "21300": {
+   "nombre": "Charlotte FC",
+   "pais": "USA",
+   "elo": 1555.7,
+   "con_liga": true,
+   "fuerza": 0.519137
+  },
+  "18418": {
+   "nombre": "Atlanta United FC",
+   "pais": "USA",
+   "elo": 1389.4,
+   "con_liga": true,
+   "fuerza": -1.143833
+  },
+  "12011": {
+   "nombre": "Orlando City SC",
+   "pais": "USA",
+   "elo": 1515.8,
+   "con_liga": true,
+   "fuerza": 0.120289
+  },
+  "7318": {
+   "nombre": "Toronto FC",
+   "pais": "USA",
+   "elo": 1435.0,
+   "con_liga": true,
+   "fuerza": -0.687497
+  },
+  "6077": {
+   "nombre": "Houston Dynamo FC",
+   "pais": "USA",
+   "elo": 1504.3,
+   "con_liga": true,
+   "fuerza": 0.005177
+  },
+  "18986": {
+   "nombre": "Nashville SC",
+   "pais": "USA",
+   "elo": 1655.8,
+   "con_liga": true,
+   "fuerza": 1.520132
+  },
+  "4771": {
+   "nombre": "Real Salt Lake",
+   "pais": "USA",
+   "elo": 1444.4,
+   "con_liga": true,
+   "fuerza": -0.593756
+  },
+  "18966": {
+   "nombre": "LAFC",
+   "pais": "USA",
+   "elo": 1564.5,
+   "con_liga": true,
+   "fuerza": 0.60739
+  },
+  "191": {
+   "nombre": "San Jose Earthquakes",
+   "pais": "USA",
+   "elo": 1496.2,
+   "con_liga": true,
+   "fuerza": -0.075266
+  },
+  "20906": {
+   "nombre": "Austin FC",
+   "pais": "USA",
+   "elo": 1441.8,
+   "con_liga": true,
+   "fuerza": -0.619373
+  },
+  "9726": {
+   "nombre": "Seattle Sounders FC",
+   "pais": "USA",
+   "elo": 1544.7,
+   "con_liga": true,
+   "fuerza": 0.409767
+  },
+  "183": {
+   "nombre": "Columbus Crew",
+   "pais": "USA",
+   "elo": 1483.4,
+   "con_liga": true,
+   "fuerza": -0.203795
+  },
+  "22529": {
+   "nombre": "San Diego FC",
+   "pais": "USA",
+   "elo": 1496.8,
+   "con_liga": true,
+   "fuerza": -0.069246
+  },
+  "185": {
+   "nombre": "FC Dallas",
+   "pais": "USA",
+   "elo": 1555.0,
+   "con_liga": true,
+   "fuerza": 0.512346
+  }
+ }
+}
