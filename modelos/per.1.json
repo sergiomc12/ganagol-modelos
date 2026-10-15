@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "per.1",
+  "nombre": "Liga 1 Perú"
+ },
+ "partidos_entrenamiento": 910,
+ "validacion": {
+  "partidos": 298,
+  "rps": 0.2044372135456819,
+  "rps_frecuencia": 0.2210265545870731,
+  "acierto": 0.5302013422818792
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.034287203224211776,
+  "ventaja_local": 0.42586485219885145,
+  "beta": 0.15290969086656991,
+  "rho": -0.00905505405891943,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "131655": {
+   "nombre": "FC Cajamarca",
+   "pais": "Peru",
+   "elo": 1456.7,
+   "con_liga": true,
+   "fuerza": -0.893394
+  },
+  "20293": {
+   "nombre": "Atlético Grau",
+   "pais": "Peru",
+   "elo": 1509.2,
+   "con_liga": true,
+   "fuerza": -0.368473
+  },
+  "11995": {
+   "nombre": "Cusco FC",
+   "pais": "Peru",
+   "elo": 1631.9,
+   "con_liga": true,
+   "fuerza": 0.858963
+  },
+  "2680": {
+   "nombre": "Alianza Lima",
+   "pais": "Peru",
+   "elo": 1727.8,
+   "con_liga": true,
+   "fuerza": 1.817888
+  },
+  "2673": {
+   "nombre": "Sporting Cristal",
+   "pais": "Peru",
+   "elo": 1631.0,
+   "con_liga": true,
+   "fuerza": 0.849444
+  },
+  "21314": {
+   "nombre": "ADT",
+   "pais": "Peru",
+   "elo": 1472.1,
+   "con_liga": true,
+   "fuerza": -0.739188
+  },
+  "131654": {
+   "nombre": "Deportivo Moquegua",
+   "pais": "Peru",
+   "elo": 1420.6,
+   "con_liga": true,
+   "fuerza": -1.254052
+  },
+  "3372": {
+   "nombre": "Cienciano del Cusco",
+   "pais": "Peru",
+   "elo": 1572.5,
+   "con_liga": true,
+   "fuerza": 0.264195
+  },
+  "5267": {
+   "nombre": "Alianza Atlético",
+   "pais": "Peru",
+   "elo": 1600.0,
+   "con_liga": true,
+   "fuerza": 0.539551
+  },
+  "10318": {
+   "nombre": "Sport Huancayo",
+   "pais": "Peru",
+   "elo": 1532.8,
+   "con_liga": true,
+   "fuerza": -0.13251
+  },
+  "18153": {
+   "nombre": "Comerciantes Unidos",
+   "pais": "Peru",
+   "elo": 1478.6,
+   "con_liga": true,
+   "fuerza": -0.674158
+  },
+  "2685": {
+   "nombre": "Universitario",
+   "pais": "Peru",
+   "elo": 1711.9,
+   "con_liga": true,
+   "fuerza": 1.658835
+  },
+  "10122": {
+   "nombre": "UTC",
+   "pais": "Peru",
+   "elo": 1374.4,
+   "con_liga": true,
+   "fuerza": -1.716579
+  },
+  "22534": {
+   "nombre": "Juan Pablo II",
+   "pais": "Peru",
+   "elo": 1487.9,
+   "con_liga": true,
+   "fuerza": -0.58149
+  },
+  "5570": {
+   "nombre": "Sport Boys",
+   "pais": "Peru",
+   "elo": 1517.1,
+   "con_liga": true,
+   "fuerza": -0.288944
+  },
+  "21819": {
+   "nombre": "Deportivo Garcilaso",
+   "pais": "Peru",
+   "elo": 1623.7,
+   "con_liga": true,
+   "fuerza": 0.776656
+  },
+  "7312": {
+   "nombre": "Melgar",
+   "pais": "Peru",
+   "elo": 1658.6,
+   "con_liga": true,
+   "fuerza": 1.125464
+  },
+  "22168": {
+   "nombre": "Los Chankas",
+   "pais": "Peru",
+   "elo": 1518.0,
+   "con_liga": true,
+   "fuerza": -0.280683
+  }
+ }
+}
