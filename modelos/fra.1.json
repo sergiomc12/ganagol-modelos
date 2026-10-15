@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "fra.1",
+  "nombre": "Ligue 1"
+ },
+ "partidos_entrenamiento": 900,
+ "validacion": {
+  "partidos": 296,
+  "rps": 0.20822077396055036,
+  "rps_frecuencia": 0.22904348543869063,
+  "acierto": 0.5033783783783784
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.22359417010775098,
+  "ventaja_local": 0.20458044333982978,
+  "beta": 0.16629825601190068,
+  "rho": -0.03272101307638518,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "176": {
+   "nombre": "Marseille",
+   "pais": "France",
+   "elo": 1669.1,
+   "con_liga": true,
+   "fuerza": 0.625214
+  },
+  "175": {
+   "nombre": "Lens",
+   "pais": "France",
+   "elo": 1712.6,
+   "con_liga": true,
+   "fuerza": 1.06013
+  },
+  "170": {
+   "nombre": "Troyes",
+   "pais": "France",
+   "elo": 1513.3,
+   "con_liga": true,
+   "fuerza": -0.933142
+  },
+  "179": {
+   "nombre": "Toulouse",
+   "pais": "France",
+   "elo": 1600.6,
+   "con_liga": true,
+   "fuerza": -0.059971
+  },
+  "2502": {
+   "nombre": "Nice",
+   "pais": "France",
+   "elo": 1565.5,
+   "con_liga": true,
+   "fuerza": -0.411014
+  },
+  "2697": {
+   "nombre": "Le Mans",
+   "pais": "France",
+   "elo": 1550.3,
+   "con_liga": true,
+   "fuerza": -0.562948
+  },
+  "7868": {
+   "nombre": "Angers",
+   "pais": "France",
+   "elo": 1502.0,
+   "con_liga": true,
+   "fuerza": -1.045948
+  },
+  "3236": {
+   "nombre": "Le Havre AC",
+   "pais": "France",
+   "elo": 1503.5,
+   "con_liga": true,
+   "fuerza": -1.03138
+  },
+  "169": {
+   "nombre": "Stade Rennais",
+   "pais": "France",
+   "elo": 1696.7,
+   "con_liga": true,
+   "fuerza": 0.901159
+  },
+  "166": {
+   "nombre": "Lille",
+   "pais": "France",
+   "elo": 1723.3,
+   "con_liga": true,
+   "fuerza": 1.167041
+  },
+  "180": {
+   "nombre": "Strasbourg",
+   "pais": "France",
+   "elo": 1657.3,
+   "con_liga": true,
+   "fuerza": 0.506476
+  },
+  "167": {
+   "nombre": "Lyon",
+   "pais": "France",
+   "elo": 1712.1,
+   "con_liga": true,
+   "fuerza": 1.054753
+  },
+  "273": {
+   "nombre": "Lorient",
+   "pais": "France",
+   "elo": 1610.1,
+   "con_liga": true,
+   "fuerza": 0.034802
+  },
+  "6997": {
+   "nombre": "Brest",
+   "pais": "France",
+   "elo": 1575.6,
+   "con_liga": true,
+   "fuerza": -0.310324
+  },
+  "172": {
+   "nombre": "AJ Auxerre",
+   "pais": "France",
+   "elo": 1555.8,
+   "con_liga": true,
+   "fuerza": -0.508403
+  },
+  "6851": {
+   "nombre": "Paris FC",
+   "pais": "France",
+   "elo": 1645.5,
+   "con_liga": true,
+   "fuerza": 0.38882
+  },
+  "174": {
+   "nombre": "AS Monaco",
+   "pais": "France",
+   "elo": 1717.6,
+   "con_liga": true,
+   "fuerza": 1.110052
+  },
+  "160": {
+   "nombre": "Paris Saint-Germain",
+   "pais": "France",
+   "elo": 1854.2,
+   "con_liga": true,
+   "fuerza": 2.475522
+  }
+ }
+}
