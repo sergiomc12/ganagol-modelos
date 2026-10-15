@@ -1,0 +1,110 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "aut.1",
+  "nombre": "Austria"
+ },
+ "partidos_entrenamiento": 573,
+ "validacion": {
+  "partidos": 190,
+  "rps": 0.22531331775010147,
+  "rps_frecuencia": 0.22962296091104956,
+  "acierto": 0.4789473684210526
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.1849112109170449,
+  "ventaja_local": 0.22911222350081867,
+  "beta": 0.13045894680214912,
+  "rho": -0.10591013423683804,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "18794": {
+   "nombre": "WSG Swarovski Tirol",
+   "pais": "Austria",
+   "elo": 1420.0,
+   "con_liga": true,
+   "fuerza": -1.064986
+  },
+  "2790": {
+   "nombre": "RB Salzburg",
+   "pais": "Austria",
+   "elo": 1675.6,
+   "con_liga": true,
+   "fuerza": 1.491197
+  },
+  "21540": {
+   "nombre": "Austria Lustenau",
+   "pais": "Austria",
+   "elo": 1383.9,
+   "con_liga": true,
+   "fuerza": -1.426564
+  },
+  "13294": {
+   "nombre": "Wolfsberger",
+   "pais": "Austria",
+   "elo": 1456.8,
+   "con_liga": true,
+   "fuerza": -0.697067
+  },
+  "519": {
+   "nombre": "Rapid Vienna",
+   "pais": "Austria",
+   "elo": 1611.5,
+   "con_liga": true,
+   "fuerza": 0.850096
+  },
+  "4405": {
+   "nombre": "SC Rheindorf Altach",
+   "pais": "Austria",
+   "elo": 1424.8,
+   "con_liga": true,
+   "fuerza": -1.017016
+  },
+  "21846": {
+   "nombre": "Grazer AK",
+   "pais": "Austria",
+   "elo": 1464.0,
+   "con_liga": true,
+   "fuerza": -0.625352
+  },
+  "6907": {
+   "nombre": "TSV Hartberg",
+   "pais": "Austria",
+   "elo": 1529.7,
+   "con_liga": true,
+   "fuerza": 0.0324
+  },
+  "3759": {
+   "nombre": "SV Josko Ried",
+   "pais": "Austria",
+   "elo": 1461.1,
+   "con_liga": true,
+   "fuerza": -0.654092
+  },
+  "1382": {
+   "nombre": "Austria Vienna",
+   "pais": "Austria",
+   "elo": 1527.6,
+   "con_liga": true,
+   "fuerza": 0.011421
+  },
+  "4411": {
+   "nombre": "LASK Linz",
+   "pais": "Austria",
+   "elo": 1677.1,
+   "con_liga": true,
+   "fuerza": 1.505571
+  },
+  "3746": {
+   "nombre": "SK Sturm Graz",
+   "pais": "Austria",
+   "elo": 1672.2,
+   "con_liga": true,
+   "fuerza": 1.45714
+  }
+ }
+}
