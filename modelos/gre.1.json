@@ -1,0 +1,124 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "gre.1",
+  "nombre": "Grecia"
+ },
+ "partidos_entrenamiento": 706,
+ "validacion": {
+  "partidos": 237,
+  "rps": 0.18632338828293998,
+  "rps_frecuencia": 0.22757887939296903,
+  "acierto": 0.5316455696202531
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.07148419698691356,
+  "ventaja_local": 0.23515236113692883,
+  "beta": 0.1784365701305835,
+  "rho": -0.12780665341672987,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "132429": {
+   "nombre": "Kalamata",
+   "pais": "Greece",
+   "elo": 1437.6,
+   "con_liga": true,
+   "fuerza": -0.863523
+  },
+  "887": {
+   "nombre": "AEK Athens",
+   "pais": "Greece",
+   "elo": 1779.8,
+   "con_liga": true,
+   "fuerza": 2.558549
+  },
+  "435": {
+   "nombre": "Olympiacos",
+   "pais": "Greece",
+   "elo": 1791.1,
+   "con_liga": true,
+   "fuerza": 2.671683
+  },
+  "1010": {
+   "nombre": "OFI Crete",
+   "pais": "Greece",
+   "elo": 1489.0,
+   "con_liga": true,
+   "fuerza": -0.348911
+  },
+  "605": {
+   "nombre": "PAOK",
+   "pais": "Greece",
+   "elo": 1729.6,
+   "con_liga": true,
+   "fuerza": 2.056755
+  },
+  "11431": {
+   "nombre": "Panetolikos",
+   "pais": "Greece",
+   "elo": 1438.3,
+   "con_liga": true,
+   "fuerza": -0.856283
+  },
+  "20043": {
+   "nombre": "Volos NFC",
+   "pais": "Greece",
+   "elo": 1350.1,
+   "con_liga": true,
+   "fuerza": -1.738492
+  },
+  "11553": {
+   "nombre": "Aris",
+   "pais": "Greece",
+   "elo": 1577.3,
+   "con_liga": true,
+   "fuerza": 0.533288
+  },
+  "6790": {
+   "nombre": "Atromitos",
+   "pais": "Greece",
+   "elo": 1470.4,
+   "con_liga": true,
+   "fuerza": -0.535697
+  },
+  "21969": {
+   "nombre": "Kifisia",
+   "pais": "Greece",
+   "elo": 1439.0,
+   "con_liga": true,
+   "fuerza": -0.849032
+  },
+  "8354": {
+   "nombre": "Asteras Tripoli",
+   "pais": "Greece",
+   "elo": 1428.0,
+   "con_liga": true,
+   "fuerza": -0.959244
+  },
+  "5276": {
+   "nombre": "Levadiakos",
+   "pais": "Greece",
+   "elo": 1485.7,
+   "con_liga": true,
+   "fuerza": -0.382146
+  },
+  "443": {
+   "nombre": "Panathinaikos",
+   "pais": "Greece",
+   "elo": 1715.0,
+   "con_liga": true,
+   "fuerza": 1.910472
+  },
+  "2575": {
+   "nombre": "Iraklis",
+   "pais": "Greece",
+   "elo": 1453.0,
+   "con_liga": true,
+   "fuerza": -0.709794
+  }
+ }
+}
