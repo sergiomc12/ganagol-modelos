@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "rus.1",
+  "nombre": "Rusia"
+ },
+ "partidos_entrenamiento": 712,
+ "validacion": {
+  "partidos": 232,
+  "rps": 0.19046975050521436,
+  "rps_frecuencia": 0.2262177574179126,
+  "acierto": 0.5301724137931034
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.113592912789447,
+  "ventaja_local": 0.21575177279781718,
+  "beta": 0.1731794991457494,
+  "rho": -0.1276623709971051,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "22271": {
+   "nombre": "Akron Tolyatti",
+   "pais": "Russia",
+   "elo": 1423.8,
+   "con_liga": true,
+   "fuerza": -1.171437
+  },
+  "1963": {
+   "nombre": "CSKA Moscow",
+   "pais": "Russia",
+   "elo": 1663.7,
+   "con_liga": true,
+   "fuerza": 1.22769
+  },
+  "22300": {
+   "nombre": "Dynamo Makhachkala",
+   "pais": "Russia",
+   "elo": 1435.5,
+   "con_liga": true,
+   "fuerza": -1.054956
+  },
+  "21949": {
+   "nombre": "FC Baltika Kaliningrad",
+   "pais": "Russia",
+   "elo": 1548.6,
+   "con_liga": true,
+   "fuerza": 0.07601
+  },
+  "18285": {
+   "nombre": "Gazovik Orenburg",
+   "pais": "Russia",
+   "elo": 1461.1,
+   "con_liga": true,
+   "fuerza": -0.798508
+  },
+  "11336": {
+   "nombre": "Krasnodar",
+   "pais": "Russia",
+   "elo": 1746.6,
+   "con_liga": true,
+   "fuerza": 2.056181
+  },
+  "2991": {
+   "nombre": "Akhmat Grozny",
+   "pais": "Russia",
+   "elo": 1485.7,
+   "con_liga": true,
+   "fuerza": -0.552783
+  },
+  "3850": {
+   "nombre": "Krylia Sovetov",
+   "pais": "Russia",
+   "elo": 1486.3,
+   "con_liga": true,
+   "fuerza": -0.546157
+  },
+  "442": {
+   "nombre": "Lokomotiv Moscow",
+   "pais": "Russia",
+   "elo": 1593.7,
+   "con_liga": true,
+   "fuerza": 0.527942
+  },
+  "596": {
+   "nombre": "Dinamo Moscow",
+   "pais": "Russia",
+   "elo": 1667.3,
+   "con_liga": true,
+   "fuerza": 1.263398
+  },
+  "2533": {
+   "nombre": "Zenit St Petersburg",
+   "pais": "Russia",
+   "elo": 1786.8,
+   "con_liga": true,
+   "fuerza": 2.458213
+  },
+  "1941": {
+   "nombre": "Spartak Moscow",
+   "pais": "Russia",
+   "elo": 1669.9,
+   "con_liga": true,
+   "fuerza": 1.289476
+  },
+  "3851": {
+   "nombre": "Rubin Kazan",
+   "pais": "Russia",
+   "elo": 1544.4,
+   "con_liga": true,
+   "fuerza": 0.034763
+  },
+  "21539": {
+   "nombre": "Fakel Voronezh",
+   "pais": "Russia",
+   "elo": 1357.7,
+   "con_liga": true,
+   "fuerza": -1.832784
+  },
+  "21927": {
+   "nombre": "Rodina Moscow",
+   "pais": "Russia",
+   "elo": 1406.4,
+   "con_liga": true,
+   "fuerza": -1.345537
+  },
+  "3852": {
+   "nombre": "Rostov",
+   "pais": "Russia",
+   "elo": 1486.4,
+   "con_liga": true,
+   "fuerza": -0.545188
+  }
+ }
+}
