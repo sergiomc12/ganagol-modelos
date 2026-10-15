@@ -1,0 +1,124 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ven.1",
+  "nombre": "Venezuela"
+ },
+ "partidos_entrenamiento": 677,
+ "validacion": {
+  "partidos": 225,
+  "rps": 0.20045974433122307,
+  "rps_frecuencia": 0.22373735790328675,
+  "acierto": 0.5111111111111111
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.05059045583039963,
+  "ventaja_local": 0.25921963495485023,
+  "beta": 0.16194940470623267,
+  "rho": -0.09434498631621317,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "6041": {
+   "nombre": "Monagas SC",
+   "pais": "Venezuela",
+   "elo": 1504.9,
+   "con_liga": true,
+   "fuerza": -0.578892
+  },
+  "5268": {
+   "nombre": "Trujillanos",
+   "pais": "Venezuela",
+   "elo": 1302.3,
+   "con_liga": true,
+   "fuerza": -2.60454
+  },
+  "6763": {
+   "nombre": "Zamora FC",
+   "pais": "Venezuela",
+   "elo": 1458.3,
+   "con_liga": true,
+   "fuerza": -1.044773
+  },
+  "13481": {
+   "nombre": "Metropolitanos",
+   "pais": "Venezuela",
+   "elo": 1676.2,
+   "con_liga": true,
+   "fuerza": 1.134297
+  },
+  "4811": {
+   "nombre": "Caracas FC",
+   "pais": "Venezuela",
+   "elo": 1541.3,
+   "con_liga": true,
+   "fuerza": -0.214219
+  },
+  "6037": {
+   "nombre": "Carabobo",
+   "pais": "Venezuela",
+   "elo": 1694.2,
+   "con_liga": true,
+   "fuerza": 1.31454
+  },
+  "10094": {
+   "nombre": "UCV FC",
+   "pais": "Venezuela",
+   "elo": 1581.3,
+   "con_liga": true,
+   "fuerza": 0.185046
+  },
+  "4818": {
+   "nombre": "Deportivo Táchira",
+   "pais": "Venezuela",
+   "elo": 1715.3,
+   "con_liga": true,
+   "fuerza": 1.526003
+  },
+  "17090": {
+   "nombre": "Deportivo La Guaira",
+   "pais": "Venezuela",
+   "elo": 1641.2,
+   "con_liga": true,
+   "fuerza": 0.784084
+  },
+  "21850": {
+   "nombre": "Rayo Zuliano",
+   "pais": "Venezuela",
+   "elo": 1451.2,
+   "con_liga": true,
+   "fuerza": -1.1151
+  },
+  "6038": {
+   "nombre": "Estudiantes de Mérida",
+   "pais": "Venezuela",
+   "elo": 1504.7,
+   "con_liga": true,
+   "fuerza": -0.580584
+  },
+  "18995": {
+   "nombre": "Academia Puerto Cabello",
+   "pais": "Venezuela",
+   "elo": 1627.9,
+   "con_liga": true,
+   "fuerza": 0.651617
+  },
+  "13783": {
+   "nombre": "Anzoátegui FC",
+   "pais": "Venezuela",
+   "elo": 1402.3,
+   "con_liga": true,
+   "fuerza": -1.604619
+  },
+  "6762": {
+   "nombre": "Portuguesa",
+   "pais": "Venezuela",
+   "elo": 1565.2,
+   "con_liga": true,
+   "fuerza": 0.024312
+  }
+ }
+}
