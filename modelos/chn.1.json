@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "chn.1",
+  "nombre": "China"
+ },
+ "partidos_entrenamiento": 720,
+ "validacion": {
+  "partidos": 248,
+  "rps": 0.22025188370760318,
+  "rps_frecuencia": 0.22535355315037495,
+  "acierto": 0.4798387096774194
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.28911347355606404,
+  "ventaja_local": 0.26755835298092234,
+  "beta": 0.12971466601485784,
+  "rho": -0.055693619505020595,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "8239": {
+   "nombre": "Tianjin Jinmen Tiger",
+   "pais": "China",
+   "elo": 1607.5,
+   "con_liga": true,
+   "fuerza": 0.326113
+  },
+  "2052": {
+   "nombre": "Beijing Guoan",
+   "pais": "China",
+   "elo": 1711.6,
+   "con_liga": true,
+   "fuerza": 1.367581
+  },
+  "15515": {
+   "nombre": "Shanghai Port",
+   "pais": "China",
+   "elo": 1738.8,
+   "con_liga": true,
+   "fuerza": 1.639939
+  },
+  "21355": {
+   "nombre": "Chengdu Rongcheng",
+   "pais": "China",
+   "elo": 1714.7,
+   "con_liga": true,
+   "fuerza": 1.398806
+  },
+  "22198": {
+   "nombre": "Qingdao West Coast",
+   "pais": "China",
+   "elo": 1569.8,
+   "con_liga": true,
+   "fuerza": -0.050939
+  },
+  "131705": {
+   "nombre": "Liaoning Tieren",
+   "pais": "China",
+   "elo": 1460.0,
+   "con_liga": true,
+   "fuerza": -1.148768
+  },
+  "22199": {
+   "nombre": "Shenzhen Xinpengcheng",
+   "pais": "China",
+   "elo": 1471.7,
+   "con_liga": true,
+   "fuerza": -1.031475
+  },
+  "21910": {
+   "nombre": "Qingdao Hainiu",
+   "pais": "China",
+   "elo": 1424.0,
+   "con_liga": true,
+   "fuerza": -1.508142
+  },
+  "22537": {
+   "nombre": "Dalian Yingbo",
+   "pais": "China",
+   "elo": 1568.7,
+   "con_liga": true,
+   "fuerza": -0.061829
+  },
+  "22536": {
+   "nombre": "Yunnan Yukun",
+   "pais": "China",
+   "elo": 1560.2,
+   "con_liga": true,
+   "fuerza": -0.146883
+  },
+  "8240": {
+   "nombre": "Henan",
+   "pais": "China",
+   "elo": 1567.6,
+   "con_liga": true,
+   "fuerza": -0.071966
+  },
+  "131704": {
+   "nombre": "Chongqing Tonglianglong",
+   "pais": "China",
+   "elo": 1475.8,
+   "con_liga": true,
+   "fuerza": -0.990649
+  },
+  "7521": {
+   "nombre": "Shandong Taishan",
+   "pais": "China",
+   "elo": 1649.0,
+   "con_liga": true,
+   "fuerza": 0.741853
+  },
+  "21506": {
+   "nombre": "Wuhan Three Towns",
+   "pais": "China",
+   "elo": 1483.8,
+   "con_liga": true,
+   "fuerza": -0.910238
+  },
+  "18203": {
+   "nombre": "Zhejiang Professional FC",
+   "pais": "China",
+   "elo": 1583.4,
+   "con_liga": true,
+   "fuerza": 0.085115
+  },
+  "977": {
+   "nombre": "Shanghai Shenhua",
+   "pais": "China",
+   "elo": 1700.9,
+   "con_liga": true,
+   "fuerza": 1.260717
+  }
+ }
+}
