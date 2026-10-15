@@ -1,0 +1,133 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "rou.1",
+  "nombre": "Rumania"
+ },
+ "partidos_entrenamiento": 625,
+ "validacion": null,
+ "confiable": false,
+ "parametros": {
+  "intercepto": 0.08495151084366064,
+  "ventaja_local": 0.19253509792032783,
+  "beta": 0.12422850798458016,
+  "rho": -0.09440341772102971,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "19265": {
+   "nombre": "Hermannstadt",
+   "pais": "Romania",
+   "elo": 1521.5,
+   "con_liga": true,
+   "fuerza": -0.290131
+  },
+  "8089": {
+   "nombre": "CSU Craiova",
+   "pais": "Romania",
+   "elo": 1683.8,
+   "con_liga": true,
+   "fuerza": 1.333274
+  },
+  "8091": {
+   "nombre": "Universitatea Cluj",
+   "pais": "Romania",
+   "elo": 1599.8,
+   "con_liga": true,
+   "fuerza": 0.493058
+  },
+  "12603": {
+   "nombre": "Petrolul Ploiesti",
+   "pais": "Romania",
+   "elo": 1460.6,
+   "con_liga": true,
+   "fuerza": -0.89908
+  },
+  "6731": {
+   "nombre": "FC Farul Constanta",
+   "pais": "Romania",
+   "elo": 1552.3,
+   "con_liga": true,
+   "fuerza": 0.018304
+  },
+  "545": {
+   "nombre": "Rapid Bucuresti",
+   "pais": "Romania",
+   "elo": 1633.4,
+   "con_liga": true,
+   "fuerza": 0.829613
+  },
+  "22314": {
+   "nombre": "Unirea Slobozia",
+   "pais": "Romania",
+   "elo": 1509.3,
+   "con_liga": true,
+   "fuerza": -0.412316
+  },
+  "2496": {
+   "nombre": "Dinamo Bucuresti",
+   "pais": "Romania",
+   "elo": 1592.1,
+   "con_liga": true,
+   "fuerza": 0.41598
+  },
+  "130880": {
+   "nombre": "Metaloglobus",
+   "pais": "Romania",
+   "elo": 1421.2,
+   "con_liga": true,
+   "fuerza": -1.293157
+  },
+  "21032": {
+   "nombre": "Csíkszereda",
+   "pais": "Romania",
+   "elo": 1438.5,
+   "con_liga": true,
+   "fuerza": -1.120357
+  },
+  "6912": {
+   "nombre": "UTA Arad",
+   "pais": "Romania",
+   "elo": 1530.3,
+   "con_liga": true,
+   "fuerza": -0.201599
+  },
+  "484": {
+   "nombre": "FCSB",
+   "pais": "Romania",
+   "elo": 1670.1,
+   "con_liga": true,
+   "fuerza": 1.195865
+  },
+  "5260": {
+   "nombre": "CFR Cluj-Napoca",
+   "pais": "Romania",
+   "elo": 1645.7,
+   "con_liga": true,
+   "fuerza": 0.951814
+  },
+  "2942": {
+   "nombre": "Otelul Galati",
+   "pais": "Romania",
+   "elo": 1534.2,
+   "con_liga": true,
+   "fuerza": -0.163276
+  },
+  "9682": {
+   "nombre": "FC Botosani",
+   "pais": "Romania",
+   "elo": 1566.5,
+   "con_liga": true,
+   "fuerza": 0.159844
+  },
+  "20725": {
+   "nombre": "FC Arges",
+   "pais": "Romania",
+   "elo": 1519.3,
+   "con_liga": true,
+   "fuerza": -0.311686
+  }
+ }
+}
