@@ -1,0 +1,110 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "den.1",
+  "nombre": "Dinamarca"
+ },
+ "partidos_entrenamiento": 573,
+ "validacion": {
+  "partidos": 187,
+  "rps": 0.21850687454794868,
+  "rps_frecuencia": 0.23009502837762813,
+  "acierto": 0.5133689839572193
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.3348746671533385,
+  "ventaja_local": 0.1404887929744611,
+  "beta": 0.15304906316068245,
+  "rho": -0.08284465545001242,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "7860": {
+   "nombre": "Lyngby Boldklub",
+   "pais": "Denmark",
+   "elo": 1378.8,
+   "con_liga": true,
+   "fuerza": -1.545495
+  },
+  "3101": {
+   "nombre": "FC Nordsjælland",
+   "pais": "Denmark",
+   "elo": 1621.5,
+   "con_liga": true,
+   "fuerza": 0.881677
+  },
+  "572": {
+   "nombre": "FC Midtjylland",
+   "pais": "Denmark",
+   "elo": 1727.7,
+   "con_liga": true,
+   "fuerza": 1.943505
+  },
+  "575": {
+   "nombre": "Brøndby IF",
+   "pais": "Denmark",
+   "elo": 1556.3,
+   "con_liga": true,
+   "fuerza": 0.229875
+  },
+  "607": {
+   "nombre": "Silkeborg IF",
+   "pais": "Denmark",
+   "elo": 1486.2,
+   "con_liga": true,
+   "fuerza": -0.471202
+  },
+  "11550": {
+   "nombre": "Odense Boldklub",
+   "pais": "Denmark",
+   "elo": 1470.9,
+   "con_liga": true,
+   "fuerza": -0.624288
+  },
+  "8118": {
+   "nombre": "Sønderjyske Fodbold",
+   "pais": "Denmark",
+   "elo": 1447.7,
+   "con_liga": true,
+   "fuerza": -0.856476
+  },
+  "3132": {
+   "nombre": "Randers FC",
+   "pais": "Denmark",
+   "elo": 1454.2,
+   "con_liga": true,
+   "fuerza": -0.791294
+  },
+  "3585": {
+   "nombre": "AC Horsens",
+   "pais": "Denmark",
+   "elo": 1401.7,
+   "con_liga": true,
+   "fuerza": -1.316788
+  },
+  "3153": {
+   "nombre": "Viborg FF",
+   "pais": "Denmark",
+   "elo": 1594.3,
+   "con_liga": true,
+   "fuerza": 0.609584
+  },
+  "7853": {
+   "nombre": "AGF",
+   "pais": "Denmark",
+   "elo": 1608.0,
+   "con_liga": true,
+   "fuerza": 0.746874
+  },
+  "909": {
+   "nombre": "F.C. København",
+   "pais": "Denmark",
+   "elo": 1691.9,
+   "con_liga": true,
+   "fuerza": 1.585351
+  }
+ }
+}
