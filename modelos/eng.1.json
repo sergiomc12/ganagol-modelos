@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "eng.1",
+  "nombre": "Premier"
+ },
+ "partidos_entrenamiento": 1120,
+ "validacion": {
+  "partidos": 370,
+  "rps": 0.21038352669362353,
+  "rps_frecuencia": 0.2282902324785671,
+  "acierto": 0.47297297297297297
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.2502281933727846,
+  "ventaja_local": 0.1749608442090513,
+  "beta": 0.1528413842065493,
+  "rho": -0.08797427518645871,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "359": {
+   "nombre": "Arsenal",
+   "pais": "England",
+   "elo": 1862.3,
+   "con_liga": true,
+   "fuerza": 2.41617
+  },
+  "306": {
+   "nombre": "Hull City",
+   "pais": "England",
+   "elo": 1510.8,
+   "con_liga": true,
+   "fuerza": -1.099462
+  },
+  "393": {
+   "nombre": "Nottingham Forest",
+   "pais": "England",
+   "elo": 1609.8,
+   "con_liga": true,
+   "fuerza": -0.108964
+  },
+  "373": {
+   "nombre": "Ipswich Town",
+   "pais": "England",
+   "elo": 1553.5,
+   "con_liga": true,
+   "fuerza": -0.672093
+  },
+  "368": {
+   "nombre": "Everton",
+   "pais": "England",
+   "elo": 1625.2,
+   "con_liga": true,
+   "fuerza": 0.044488
+  },
+  "337": {
+   "nombre": "Brentford",
+   "pais": "England",
+   "elo": 1671.4,
+   "con_liga": true,
+   "fuerza": 0.507237
+  },
+  "331": {
+   "nombre": "Brighton & Hove Albion",
+   "pais": "England",
+   "elo": 1715.4,
+   "con_liga": true,
+   "fuerza": 0.947194
+  },
+  "382": {
+   "nombre": "Manchester City",
+   "pais": "England",
+   "elo": 1877.8,
+   "con_liga": true,
+   "fuerza": 2.570707
+  },
+  "361": {
+   "nombre": "Newcastle United",
+   "pais": "England",
+   "elo": 1624.4,
+   "con_liga": true,
+   "fuerza": 0.036793
+  },
+  "370": {
+   "nombre": "Fulham",
+   "pais": "England",
+   "elo": 1585.5,
+   "con_liga": true,
+   "fuerza": -0.35187
+  },
+  "384": {
+   "nombre": "Crystal Palace",
+   "pais": "England",
+   "elo": 1596.5,
+   "con_liga": true,
+   "fuerza": -0.242472
+  },
+  "364": {
+   "nombre": "Liverpool",
+   "pais": "England",
+   "elo": 1724.3,
+   "con_liga": true,
+   "fuerza": 1.036189
+  },
+  "349": {
+   "nombre": "AFC Bournemouth",
+   "pais": "England",
+   "elo": 1653.8,
+   "con_liga": true,
+   "fuerza": 0.331024
+  },
+  "388": {
+   "nombre": "Coventry City",
+   "pais": "England",
+   "elo": 1584.6,
+   "con_liga": true,
+   "fuerza": -0.361098
+  },
+  "367": {
+   "nombre": "Tottenham Hotspur",
+   "pais": "England",
+   "elo": 1529.2,
+   "con_liga": true,
+   "fuerza": -0.91527
+  },
+  "366": {
+   "nombre": "Sunderland",
+   "pais": "England",
+   "elo": 1564.7,
+   "con_liga": true,
+   "fuerza": -0.560055
+  },
+  "357": {
+   "nombre": "Leeds United",
+   "pais": "England",
+   "elo": 1663.1,
+   "con_liga": true,
+   "fuerza": 0.423754
+  },
+  "363": {
+   "nombre": "Chelsea",
+   "pais": "England",
+   "elo": 1656.1,
+   "con_liga": true,
+   "fuerza": 0.353788
+  },
+  "360": {
+   "nombre": "Manchester United",
+   "pais": "England",
+   "elo": 1697.1,
+   "con_liga": true,
+   "fuerza": 0.763984
+  },
+  "362": {
+   "nombre": "Aston Villa",
+   "pais": "England",
+   "elo": 1659.5,
+   "con_liga": true,
+   "fuerza": 0.388179
+  }
+ }
+}
