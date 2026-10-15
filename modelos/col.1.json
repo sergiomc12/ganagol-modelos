@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "col.1",
+  "nombre": "Colombia"
+ },
+ "partidos_entrenamiento": 1277,
+ "validacion": {
+  "partidos": 411,
+  "rps": 0.20080654613305893,
+  "rps_frecuencia": 0.21636017585567513,
+  "acierto": 0.49148418491484186
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.023925856864790485,
+  "ventaja_local": 0.34357781021660666,
+  "beta": 0.17750459327432766,
+  "rho": -0.05186148691086542,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "4928": {
+   "nombre": "Fortaleza CEIF",
+   "pais": "Colombia",
+   "elo": 1464.2,
+   "con_liga": true,
+   "fuerza": -0.657077
+  },
+  "5485": {
+   "nombre": "Deportivo Pasto",
+   "pais": "Colombia",
+   "elo": 1463.0,
+   "con_liga": true,
+   "fuerza": -0.668561
+  },
+  "9761": {
+   "nombre": "Alianza FC",
+   "pais": "Colombia",
+   "elo": 1442.5,
+   "con_liga": true,
+   "fuerza": -0.874302
+  },
+  "2690": {
+   "nombre": "Independiente Medellín",
+   "pais": "Colombia",
+   "elo": 1605.6,
+   "con_liga": true,
+   "fuerza": 0.756943
+  },
+  "4815": {
+   "nombre": "Atlético Junior",
+   "pais": "Colombia",
+   "elo": 1585.6,
+   "con_liga": true,
+   "fuerza": 0.556491
+  },
+  "10309": {
+   "nombre": "Jaguares de Córdoba",
+   "pais": "Colombia",
+   "elo": 1389.3,
+   "con_liga": true,
+   "fuerza": -1.405872
+  },
+  "8109": {
+   "nombre": "América de Cali",
+   "pais": "Colombia",
+   "elo": 1632.8,
+   "con_liga": true,
+   "fuerza": 1.029397
+  },
+  "5488": {
+   "nombre": "Independiente Santa Fe",
+   "pais": "Colombia",
+   "elo": 1636.9,
+   "con_liga": true,
+   "fuerza": 1.070047
+  },
+  "6137": {
+   "nombre": "Atlético Bucaramanga",
+   "pais": "Colombia",
+   "elo": 1615.1,
+   "con_liga": true,
+   "fuerza": 0.851988
+  },
+  "7915": {
+   "nombre": "Llaneros FC",
+   "pais": "Colombia",
+   "elo": 1467.9,
+   "con_liga": true,
+   "fuerza": -0.620442
+  },
+  "5489": {
+   "nombre": "Deportes Tolima",
+   "pais": "Colombia",
+   "elo": 1601.4,
+   "con_liga": true,
+   "fuerza": 0.715251
+  },
+  "5484": {
+   "nombre": "Millonarios",
+   "pais": "Colombia",
+   "elo": 1609.0,
+   "con_liga": true,
+   "fuerza": 0.791465
+  },
+  "7445": {
+   "nombre": "Internacional de Bogotá",
+   "pais": "Colombia",
+   "elo": 1439.9,
+   "con_liga": true,
+   "fuerza": -0.900162
+  },
+  "2919": {
+   "nombre": "Once Caldas",
+   "pais": "Colombia",
+   "elo": 1537.7,
+   "con_liga": true,
+   "fuerza": 0.078069
+  },
+  "9762": {
+   "nombre": "Águilas Doradas",
+   "pais": "Colombia",
+   "elo": 1506.5,
+   "con_liga": true,
+   "fuerza": -0.234426
+  },
+  "6101": {
+   "nombre": "Cúcuta Deportivo",
+   "pais": "Colombia",
+   "elo": 1468.2,
+   "con_liga": true,
+   "fuerza": -0.617338
+  },
+  "2672": {
+   "nombre": "Deportivo Cali",
+   "pais": "Colombia",
+   "elo": 1563.6,
+   "con_liga": true,
+   "fuerza": 0.337182
+  },
+  "5480": {
+   "nombre": "Boyacá Chicó FC",
+   "pais": "Colombia",
+   "elo": 1408.2,
+   "con_liga": true,
+   "fuerza": -1.21662
+  },
+  "5264": {
+   "nombre": "Atlético Nacional",
+   "pais": "Colombia",
+   "elo": 1702.0,
+   "con_liga": true,
+   "fuerza": 1.721067
+  },
+  "5486": {
+   "nombre": "Deportivo Pereira",
+   "pais": "Colombia",
+   "elo": 1387.1,
+   "con_liga": true,
+   "fuerza": -1.427633
+  }
+ }
+}
