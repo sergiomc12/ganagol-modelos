@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "ita.2",
+  "nombre": "Serie B"
+ },
+ "partidos_entrenamiento": 1146,
+ "validacion": {
+  "partidos": 380,
+  "rps": 0.20839106680954467,
+  "rps_frecuencia": 0.2214775911329523,
+  "acierto": 0.47368421052631576
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.0925081146725927,
+  "ventaja_local": 0.2560019217538282,
+  "beta": 0.19918454165230812,
+  "rho": -0.10047192351609671,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "120": {
+   "nombre": "Vicenza",
+   "pais": "Italy",
+   "elo": 1388.8,
+   "con_liga": true,
+   "fuerza": -0.518057
+  },
+  "11139": {
+   "nombre": "Sudtirol",
+   "pais": "Italy",
+   "elo": 1423.8,
+   "con_liga": true,
+   "fuerza": -0.16759
+  },
+  "3988": {
+   "nombre": "Carrarese",
+   "pais": "Italy",
+   "elo": 1380.2,
+   "con_liga": true,
+   "fuerza": -0.604365
+  },
+  "2574": {
+   "nombre": "Empoli",
+   "pais": "Italy",
+   "elo": 1381.6,
+   "con_liga": true,
+   "fuerza": -0.589732
+  },
+  "4059": {
+   "nombre": "Benevento",
+   "pais": "Italy",
+   "elo": 1412.3,
+   "con_liga": true,
+   "fuerza": -0.282533
+  },
+  "4055": {
+   "nombre": "US Avellino",
+   "pais": "Italy",
+   "elo": 1426.2,
+   "con_liga": true,
+   "fuerza": -0.144261
+  },
+  "3956": {
+   "nombre": "Pisa",
+   "pais": "Italy",
+   "elo": 1436.4,
+   "con_liga": true,
+   "fuerza": -0.042392
+  },
+  "119": {
+   "nombre": "Hellas Verona",
+   "pais": "Italy",
+   "elo": 1411.7,
+   "con_liga": true,
+   "fuerza": -0.289274
+  },
+  "2923": {
+   "nombre": "Palermo",
+   "pais": "Italy",
+   "elo": 1575.4,
+   "con_liga": true,
+   "fuerza": 1.348515
+  },
+  "3337": {
+   "nombre": "Cesena",
+   "pais": "Italy",
+   "elo": 1375.8,
+   "con_liga": true,
+   "fuerza": -0.648231
+  },
+  "4050": {
+   "nombre": "Cremonese",
+   "pais": "Italy",
+   "elo": 1470.5,
+   "con_liga": true,
+   "fuerza": 0.298924
+  },
+  "11137": {
+   "nombre": "Virtus Entella",
+   "pais": "Italy",
+   "elo": 1382.2,
+   "con_liga": true,
+   "fuerza": -0.583946
+  },
+  "2734": {
+   "nombre": "Sampdoria",
+   "pais": "Italy",
+   "elo": 1366.3,
+   "con_liga": true,
+   "fuerza": -0.742614
+  },
+  "3952": {
+   "nombre": "Padova",
+   "pais": "Italy",
+   "elo": 1383.6,
+   "con_liga": true,
+   "fuerza": -0.569946
+  },
+  "3346": {
+   "nombre": "Ascoli",
+   "pais": "Italy",
+   "elo": 1448.3,
+   "con_liga": true,
+   "fuerza": 0.077195
+  },
+  "3991": {
+   "nombre": "Mantova",
+   "pais": "Italy",
+   "elo": 1465.8,
+   "con_liga": true,
+   "fuerza": 0.252269
+  },
+  "3345": {
+   "nombre": "Arezzo",
+   "pais": "Italy",
+   "elo": 1389.4,
+   "con_liga": true,
+   "fuerza": -0.512215
+  },
+  "2573": {
+   "nombre": "Modena",
+   "pais": "Italy",
+   "elo": 1470.6,
+   "con_liga": true,
+   "fuerza": 0.299688
+  },
+  "3975": {
+   "nombre": "Juve Stabia",
+   "pais": "Italy",
+   "elo": 1433.1,
+   "con_liga": true,
+   "fuerza": -0.074799
+  },
+  "3257": {
+   "nombre": "Catanzaro",
+   "pais": "Italy",
+   "elo": 1432.4,
+   "con_liga": true,
+   "fuerza": -0.082015
+  }
+ }
+}
