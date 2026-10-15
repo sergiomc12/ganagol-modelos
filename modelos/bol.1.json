@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "bol.1",
+  "nombre": "Bolivia"
+ },
+ "partidos_entrenamiento": 823,
+ "validacion": {
+  "partidos": 228,
+  "rps": 0.1874573654483798,
+  "rps_frecuencia": 0.22034540740478317,
+  "acierto": 0.6096491228070176
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.19962000135041796,
+  "ventaja_local": 0.457051219152268,
+  "beta": 0.17935438557184502,
+  "rho": -0.11013257658428022,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "20890": {
+   "nombre": "Real Tomayapo",
+   "pais": "Bolivia",
+   "elo": 1444.7,
+   "con_liga": true,
+   "fuerza": -0.959797
+  },
+  "22523": {
+   "nombre": "Real Oruro",
+   "pais": "Bolivia",
+   "elo": 1466.9,
+   "con_liga": true,
+   "fuerza": -0.738497
+  },
+  "22137": {
+   "nombre": "San Antonio Bulo Bulo",
+   "pais": "Bolivia",
+   "elo": 1484.0,
+   "con_liga": true,
+   "fuerza": -0.567497
+  },
+  "6051": {
+   "nombre": "Real Potosí",
+   "pais": "Bolivia",
+   "elo": 1526.3,
+   "con_liga": true,
+   "fuerza": -0.144206
+  },
+  "19425": {
+   "nombre": "Always Ready",
+   "pais": "Bolivia",
+   "elo": 1763.8,
+   "con_liga": true,
+   "fuerza": 2.231019
+  },
+  "2682": {
+   "nombre": "Oriente Petrolero",
+   "pais": "Bolivia",
+   "elo": 1526.7,
+   "con_liga": true,
+   "fuerza": -0.140198
+  },
+  "130875": {
+   "nombre": "ABB",
+   "pais": "Bolivia",
+   "elo": 1412.5,
+   "con_liga": true,
+   "fuerza": -1.282604
+  },
+  "20889": {
+   "nombre": "Independiente Petrolero",
+   "pais": "Bolivia",
+   "elo": 1507.0,
+   "con_liga": true,
+   "fuerza": -0.337612
+  },
+  "9497": {
+   "nombre": "Guabirá",
+   "pais": "Bolivia",
+   "elo": 1530.1,
+   "con_liga": true,
+   "fuerza": -0.106081
+  },
+  "22174": {
+   "nombre": "GV San José",
+   "pais": "Bolivia",
+   "elo": 1476.2,
+   "con_liga": true,
+   "fuerza": -0.645407
+  },
+  "10311": {
+   "nombre": "Nacional Potosí",
+   "pais": "Bolivia",
+   "elo": 1562.6,
+   "con_liga": true,
+   "fuerza": 0.219249
+  },
+  "2681": {
+   "nombre": "Bolívar",
+   "pais": "Bolivia",
+   "elo": 1811.2,
+   "con_liga": true,
+   "fuerza": 2.704608
+  },
+  "21379": {
+   "nombre": "Universitario de Vinto",
+   "pais": "Bolivia",
+   "elo": 1401.7,
+   "con_liga": true,
+   "fuerza": -1.390346
+  },
+  "6047": {
+   "nombre": "Blooming",
+   "pais": "Bolivia",
+   "elo": 1528.1,
+   "con_liga": true,
+   "fuerza": -0.126704
+  },
+  "2687": {
+   "nombre": "The Strongest",
+   "pais": "Bolivia",
+   "elo": 1694.8,
+   "con_liga": true,
+   "fuerza": 1.541251
+  },
+  "6046": {
+   "nombre": "Aurora",
+   "pais": "Bolivia",
+   "elo": 1551.0,
+   "con_liga": true,
+   "fuerza": 0.102595
+  }
+ }
+}
