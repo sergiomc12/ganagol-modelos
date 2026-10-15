@@ -1,0 +1,110 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "sco.1",
+  "nombre": "Escocia"
+ },
+ "partidos_entrenamiento": 556,
+ "validacion": {
+  "partidos": 233,
+  "rps": 0.20229609196835485,
+  "rps_frecuencia": 0.23275089242143382,
+  "acierto": 0.5278969957081545
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.17655984398745117,
+  "ventaja_local": 0.22992443419857903,
+  "beta": 0.1561718895739826,
+  "rho": 0.02072789585272667,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "254": {
+   "nombre": "Falkirk",
+   "pais": "Scotland",
+   "elo": 1449.9,
+   "con_liga": true,
+   "fuerza": -0.661097
+  },
+  "263": {
+   "nombre": "Aberdeen",
+   "pais": "Scotland",
+   "elo": 1435.9,
+   "con_liga": true,
+   "fuerza": -0.801535
+  },
+  "267": {
+   "nombre": "St Johnstone",
+   "pais": "Scotland",
+   "elo": 1373.9,
+   "con_liga": true,
+   "fuerza": -1.421383
+  },
+  "258": {
+   "nombre": "Hibernian",
+   "pais": "Scotland",
+   "elo": 1536.5,
+   "con_liga": true,
+   "fuerza": 0.20498
+  },
+  "256": {
+   "nombre": "Celtic",
+   "pais": "Scotland",
+   "elo": 1786.6,
+   "con_liga": true,
+   "fuerza": 2.706085
+  },
+  "250": {
+   "nombre": "St Mirren",
+   "pais": "Scotland",
+   "elo": 1405.1,
+   "con_liga": true,
+   "fuerza": -1.108632
+  },
+  "261": {
+   "nombre": "Dundee",
+   "pais": "Scotland",
+   "elo": 1461.4,
+   "con_liga": true,
+   "fuerza": -0.545847
+  },
+  "260": {
+   "nombre": "Kilmarnock",
+   "pais": "Scotland",
+   "elo": 1429.3,
+   "con_liga": true,
+   "fuerza": -0.866679
+  },
+  "266": {
+   "nombre": "Motherwell",
+   "pais": "Scotland",
+   "elo": 1531.6,
+   "con_liga": true,
+   "fuerza": 0.155883
+  },
+  "262": {
+   "nombre": "Heart of Midlothian",
+   "pais": "Scotland",
+   "elo": 1664.8,
+   "con_liga": true,
+   "fuerza": 1.487603
+  },
+  "257": {
+   "nombre": "Rangers",
+   "pais": "Scotland",
+   "elo": 1726.3,
+   "con_liga": true,
+   "fuerza": 2.10337
+  },
+  "264": {
+   "nombre": "Dundee United",
+   "pais": "Scotland",
+   "elo": 1470.7,
+   "con_liga": true,
+   "fuerza": -0.453069
+  }
+ }
+}
