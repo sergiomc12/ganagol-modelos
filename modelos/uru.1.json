@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "uru.1",
+  "nombre": "Uruguay"
+ },
+ "partidos_entrenamiento": 937,
+ "validacion": {
+  "partidos": 292,
+  "rps": 0.22858565152255653,
+  "rps_frecuencia": 0.23157485721662346,
+  "acierto": 0.4315068493150685
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.05894985551712648,
+  "ventaja_local": 0.1560088577129618,
+  "beta": 0.1499583960427041,
+  "rho": 0.011417250194820306,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "21403": {
+   "nombre": "Albion FC",
+   "pais": "Uruguay",
+   "elo": 1463.0,
+   "con_liga": true,
+   "fuerza": -0.812734
+  },
+  "10000": {
+   "nombre": "Deportivo Maldonado",
+   "pais": "Uruguay",
+   "elo": 1597.4,
+   "con_liga": true,
+   "fuerza": 0.531706
+  },
+  "2683": {
+   "nombre": "Peñarol",
+   "pais": "Uruguay",
+   "elo": 1745.9,
+   "con_liga": true,
+   "fuerza": 2.01606
+  },
+  "9903": {
+   "nombre": "Racing (Montevideo)",
+   "pais": "Uruguay",
+   "elo": 1579.6,
+   "con_liga": true,
+   "fuerza": 0.353658
+  },
+  "131688": {
+   "nombre": "Central Español Fútbol Club",
+   "pais": "Uruguay",
+   "elo": 1453.4,
+   "con_liga": true,
+   "fuerza": -0.908779
+  },
+  "2684": {
+   "nombre": "Nacional",
+   "pais": "Uruguay",
+   "elo": 1681.4,
+   "con_liga": true,
+   "fuerza": 1.371887
+  },
+  "1007": {
+   "nombre": "Defensor Sporting",
+   "pais": "Uruguay",
+   "elo": 1502.3,
+   "con_liga": true,
+   "fuerza": -0.419061
+  },
+  "9902": {
+   "nombre": "Cerro Largo",
+   "pais": "Uruguay",
+   "elo": 1496.6,
+   "con_liga": true,
+   "fuerza": -0.476865
+  },
+  "5492": {
+   "nombre": "Liverpool",
+   "pais": "Uruguay",
+   "elo": 1619.8,
+   "con_liga": true,
+   "fuerza": 0.755219
+  },
+  "4817": {
+   "nombre": "Danubio",
+   "pais": "Uruguay",
+   "elo": 1477.5,
+   "con_liga": true,
+   "fuerza": -0.667337
+  },
+  "9999": {
+   "nombre": "Boston River",
+   "pais": "Uruguay",
+   "elo": 1521.0,
+   "con_liga": true,
+   "fuerza": -0.23227
+  },
+  "5490": {
+   "nombre": "Cerro",
+   "pais": "Uruguay",
+   "elo": 1502.8,
+   "con_liga": true,
+   "fuerza": -0.414889
+  },
+  "8416": {
+   "nombre": "Juventud",
+   "pais": "Uruguay",
+   "elo": 1548.7,
+   "con_liga": true,
+   "fuerza": 0.044049
+  },
+  "5501": {
+   "nombre": "Montevideo Wanderers",
+   "pais": "Uruguay",
+   "elo": 1520.3,
+   "con_liga": true,
+   "fuerza": -0.239748
+  },
+  "6866": {
+   "nombre": "Progreso",
+   "pais": "Uruguay",
+   "elo": 1427.0,
+   "con_liga": true,
+   "fuerza": -1.1724
+  },
+  "19002": {
+   "nombre": "Montevideo City Torque",
+   "pais": "Uruguay",
+   "elo": 1613.3,
+   "con_liga": true,
+   "fuerza": 0.690763
+  }
+ }
+}
