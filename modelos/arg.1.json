@@ -1,0 +1,236 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "arg.1",
+  "nombre": "Argentina"
+ },
+ "partidos_entrenamiento": 1323,
+ "validacion": {
+  "partidos": 513,
+  "rps": 0.21916119805525788,
+  "rps_frecuencia": 0.22642690992891018,
+  "acierto": 0.4405458089668616
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.1097325018962795,
+  "ventaja_local": 0.2612234043809563,
+  "beta": 0.14980796956832654,
+  "rho": -0.0798506572063076,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "11972": {
+   "nombre": "Gimnasia (Mendoza)",
+   "pais": "Argentina",
+   "elo": 1512.3,
+   "con_liga": true,
+   "fuerza": 0.001781
+  },
+  "19685": {
+   "nombre": "Estudiantes de Río Cuarto",
+   "pais": "Argentina",
+   "elo": 1352.5,
+   "con_liga": true,
+   "fuerza": -1.596758
+  },
+  "4": {
+   "nombre": "Belgrano (Córdoba)",
+   "pais": "Argentina",
+   "elo": 1590.1,
+   "con_liga": true,
+   "fuerza": 0.779913
+  },
+  "8": {
+   "nombre": "Estudiantes de La Plata",
+   "pais": "Argentina",
+   "elo": 1542.4,
+   "con_liga": true,
+   "fuerza": 0.302751
+  },
+  "15": {
+   "nombre": "Racing Club",
+   "pais": "Argentina",
+   "elo": 1511.7,
+   "con_liga": true,
+   "fuerza": -0.00405
+  },
+  "17702": {
+   "nombre": "Deportivo Riestra",
+   "pais": "Argentina",
+   "elo": 1467.0,
+   "con_liga": true,
+   "fuerza": -0.451149
+  },
+  "9739": {
+   "nombre": "Aldosivi",
+   "pais": "Argentina",
+   "elo": 1351.1,
+   "con_liga": true,
+   "fuerza": -1.610705
+  },
+  "14": {
+   "nombre": "Newell's Old Boys",
+   "pais": "Argentina",
+   "elo": 1473.4,
+   "con_liga": true,
+   "fuerza": -0.387192
+  },
+  "16": {
+   "nombre": "River Plate",
+   "pais": "Argentina",
+   "elo": 1596.4,
+   "con_liga": true,
+   "fuerza": 0.842472
+  },
+  "12": {
+   "nombre": "Lanús",
+   "pais": "Argentina",
+   "elo": 1565.6,
+   "con_liga": true,
+   "fuerza": 0.534124
+  },
+  "10158": {
+   "nombre": "Sarmiento (Junín)",
+   "pais": "Argentina",
+   "elo": 1480.6,
+   "con_liga": true,
+   "fuerza": -0.315058
+  },
+  "21": {
+   "nombre": "Vélez Sarsfield",
+   "pais": "Argentina",
+   "elo": 1567.7,
+   "con_liga": true,
+   "fuerza": 0.555932
+  },
+  "7764": {
+   "nombre": "Platense",
+   "pais": "Argentina",
+   "elo": 1436.3,
+   "con_liga": true,
+   "fuerza": -0.758639
+  },
+  "11989": {
+   "nombre": "Central Córdoba (Santiago del Estero)",
+   "pais": "Argentina",
+   "elo": 1436.5,
+   "con_liga": true,
+   "fuerza": -0.756638
+  },
+  "10": {
+   "nombre": "Huracán",
+   "pais": "Argentina",
+   "elo": 1540.6,
+   "con_liga": true,
+   "fuerza": 0.284492
+  },
+  "5": {
+   "nombre": "Boca Juniors",
+   "pais": "Argentina",
+   "elo": 1657.0,
+   "con_liga": true,
+   "fuerza": 1.448233
+  },
+  "7767": {
+   "nombre": "Tigre",
+   "pais": "Argentina",
+   "elo": 1498.1,
+   "con_liga": true,
+   "fuerza": -0.140446
+  },
+  "20": {
+   "nombre": "Unión (Santa Fe)",
+   "pais": "Argentina",
+   "elo": 1470.4,
+   "con_liga": true,
+   "fuerza": -0.417883
+  },
+  "17": {
+   "nombre": "Rosario Central",
+   "pais": "Argentina",
+   "elo": 1627.6,
+   "con_liga": true,
+   "fuerza": 1.154424
+  },
+  "9744": {
+   "nombre": "Independiente Rivadavia",
+   "pais": "Argentina",
+   "elo": 1555.0,
+   "con_liga": true,
+   "fuerza": 0.428826
+  },
+  "9785": {
+   "nombre": "Atlético Tucumán",
+   "pais": "Argentina",
+   "elo": 1447.1,
+   "con_liga": true,
+   "fuerza": -0.650317
+  },
+  "11": {
+   "nombre": "Independiente",
+   "pais": "Argentina",
+   "elo": 1538.5,
+   "con_liga": true,
+   "fuerza": 0.263804
+  },
+  "2975": {
+   "nombre": "Instituto (Córdoba)",
+   "pais": "Argentina",
+   "elo": 1549.3,
+   "con_liga": true,
+   "fuerza": 0.371307
+  },
+  "18": {
+   "nombre": "San Lorenzo",
+   "pais": "Argentina",
+   "elo": 1491.7,
+   "con_liga": true,
+   "fuerza": -0.20424
+  },
+  "9": {
+   "nombre": "Gimnasia La Plata",
+   "pais": "Argentina",
+   "elo": 1532.0,
+   "con_liga": true,
+   "fuerza": 0.198258
+  },
+  "8950": {
+   "nombre": "Defensa y Justicia",
+   "pais": "Argentina",
+   "elo": 1528.9,
+   "con_liga": true,
+   "fuerza": 0.167237
+  },
+  "3": {
+   "nombre": "Argentinos Juniors",
+   "pais": "Argentina",
+   "elo": 1602.8,
+   "con_liga": true,
+   "fuerza": 0.906332
+  },
+  "235": {
+   "nombre": "Banfield",
+   "pais": "Argentina",
+   "elo": 1436.0,
+   "con_liga": true,
+   "fuerza": -0.76106
+  },
+  "19": {
+   "nombre": "Talleres (Córdoba)",
+   "pais": "Argentina",
+   "elo": 1470.1,
+   "con_liga": true,
+   "fuerza": -0.421001
+  },
+  "10060": {
+   "nombre": "Barracas Central",
+   "pais": "Argentina",
+   "elo": 1514.3,
+   "con_liga": true,
+   "fuerza": 0.021725
+  }
+ }
+}
