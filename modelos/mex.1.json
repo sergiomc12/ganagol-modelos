@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "mex.1",
+  "nombre": "Liga MX"
+ },
+ "partidos_entrenamiento": 1010,
+ "validacion": {
+  "partidos": 326,
+  "rps": 0.21934631485374584,
+  "rps_frecuencia": 0.22542513397329883,
+  "acierto": 0.48773006134969327
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.19017579638053997,
+  "ventaja_local": 0.27665793425677004,
+  "beta": 0.13555123559201573,
+  "rho": -0.0656214876913102,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "231": {
+   "nombre": "Puebla",
+   "pais": "Mexico",
+   "elo": 1358.0,
+   "con_liga": true,
+   "fuerza": -1.517949
+  },
+  "17851": {
+   "nombre": "FC Juárez",
+   "pais": "Mexico",
+   "elo": 1379.7,
+   "con_liga": true,
+   "fuerza": -1.300616
+  },
+  "15720": {
+   "nombre": "Atlético de San Luis",
+   "pais": "Mexico",
+   "elo": 1437.6,
+   "con_liga": true,
+   "fuerza": -0.721781
+  },
+  "222": {
+   "nombre": "Querétaro",
+   "pais": "Mexico",
+   "elo": 1525.8,
+   "con_liga": true,
+   "fuerza": 0.159571
+  },
+  "216": {
+   "nombre": "Atlas",
+   "pais": "Mexico",
+   "elo": 1471.1,
+   "con_liga": true,
+   "fuerza": -0.386659
+  },
+  "228": {
+   "nombre": "León",
+   "pais": "Mexico",
+   "elo": 1460.2,
+   "con_liga": true,
+   "fuerza": -0.496293
+  },
+  "218": {
+   "nombre": "Cruz Azul",
+   "pais": "Mexico",
+   "elo": 1651.1,
+   "con_liga": true,
+   "fuerza": 1.413183
+  },
+  "227": {
+   "nombre": "América",
+   "pais": "Mexico",
+   "elo": 1630.2,
+   "con_liga": true,
+   "fuerza": 1.204222
+  },
+  "223": {
+   "nombre": "Toluca",
+   "pais": "Mexico",
+   "elo": 1644.8,
+   "con_liga": true,
+   "fuerza": 1.349745
+  },
+  "226": {
+   "nombre": "Atlante",
+   "pais": "Mexico",
+   "elo": 1469.7,
+   "con_liga": true,
+   "fuerza": -0.400677
+  },
+  "220": {
+   "nombre": "Monterrey",
+   "pais": "Mexico",
+   "elo": 1505.9,
+   "con_liga": true,
+   "fuerza": -0.038905
+  },
+  "233": {
+   "nombre": "Pumas UNAM",
+   "pais": "Mexico",
+   "elo": 1548.1,
+   "con_liga": true,
+   "fuerza": 0.383292
+  },
+  "225": {
+   "nombre": "Santos",
+   "pais": "Mexico",
+   "elo": 1370.1,
+   "con_liga": true,
+   "fuerza": -1.39737
+  },
+  "10125": {
+   "nombre": "Tijuana",
+   "pais": "Mexico",
+   "elo": 1535.3,
+   "con_liga": true,
+   "fuerza": 0.255223
+  },
+  "229": {
+   "nombre": "Necaxa",
+   "pais": "Mexico",
+   "elo": 1415.7,
+   "con_liga": true,
+   "fuerza": -0.94142
+  },
+  "234": {
+   "nombre": "Pachuca",
+   "pais": "Mexico",
+   "elo": 1552.1,
+   "con_liga": true,
+   "fuerza": 0.423356
+  },
+  "232": {
+   "nombre": "Tigres UANL",
+   "pais": "Mexico",
+   "elo": 1556.2,
+   "con_liga": true,
+   "fuerza": 0.463962
+  },
+  "219": {
+   "nombre": "Guadalajara",
+   "pais": "Mexico",
+   "elo": 1599.2,
+   "con_liga": true,
+   "fuerza": 0.894046
+  }
+ }
+}
