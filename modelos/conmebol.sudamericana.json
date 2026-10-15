@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "conmebol.sudamericana",
+  "nombre": "Sudamericana"
+ },
+ "partidos_entrenamiento": 943,
+ "validacion": {
+  "partidos": 159,
+  "rps": 0.19542056175036598,
+  "rps_frecuencia": 0.21444688230991282,
+  "acierto": 0.4528301886792453
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.03217557636097674,
+  "ventaja_local": 0.33609070590737006,
+  "beta": 0.16722337173014343,
+  "rho": -0.08955704556760846,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "5": {
+   "nombre": "Boca Juniors",
+   "pais": "Argentina",
+   "elo": 1657.0,
+   "con_liga": true,
+   "fuerza": 2.802882
+  },
+  "2681": {
+   "nombre": "Bolívar",
+   "pais": "Bolivia",
+   "elo": 1811.2,
+   "con_liga": true,
+   "fuerza": 0.327778
+  },
+  "7767": {
+   "nombre": "Tigre",
+   "pais": "Argentina",
+   "elo": 1498.1,
+   "con_liga": true,
+   "fuerza": 1.214204
+  },
+  "6079": {
+   "nombre": "Red Bull Bragantino",
+   "pais": "Brazil",
+   "elo": 1584.4,
+   "con_liga": true,
+   "fuerza": 2.468018
+  },
+  "2674": {
+   "nombre": "Santos",
+   "pais": "Brazil",
+   "elo": 1612.3,
+   "con_liga": true,
+   "fuerza": 2.746998
+  },
+  "3454": {
+   "nombre": "Vasco da Gama",
+   "pais": "Brazil",
+   "elo": 1555.5,
+   "con_liga": true,
+   "fuerza": 2.179094
+  },
+  "3372": {
+   "nombre": "Cienciano del Cusco",
+   "pais": "Peru",
+   "elo": 1572.5,
+   "con_liga": true,
+   "fuerza": -0.35332
+  },
+  "22517": {
+   "nombre": "Deportivo Recoleta",
+   "pais": "Paraguay",
+   "elo": 1461.1,
+   "con_liga": true,
+   "fuerza": -0.994747
+  },
+  "2026": {
+   "nombre": "São Paulo",
+   "pais": "Brazil",
+   "elo": 1574.9,
+   "con_liga": true,
+   "fuerza": 2.372884
+  },
+  "7632": {
+   "nombre": "Atlético-MG",
+   "pais": "Brazil",
+   "elo": 1633.2,
+   "con_liga": true,
+   "fuerza": 2.956484
+  },
+  "19002": {
+   "nombre": "Montevideo City Torque",
+   "pais": "Uruguay",
+   "elo": 1613.3,
+   "con_liga": true,
+   "fuerza": 0.939988
+  },
+  "5488": {
+   "nombre": "Independiente Santa Fe",
+   "pais": "Colombia",
+   "elo": 1636.9,
+   "con_liga": true,
+   "fuerza": 1.813337
+  },
+  "18439": {
+   "nombre": "Macará",
+   "pais": "Ecuador",
+   "elo": 1650.2,
+   "con_liga": true,
+   "fuerza": 1.993354
+  },
+  "2675": {
+   "nombre": "Club Olimpia",
+   "pais": "Paraguay",
+   "elo": 1674.1,
+   "con_liga": true,
+   "fuerza": 1.134947
+  },
+  "6086": {
+   "nombre": "Botafogo",
+   "pais": "Brazil",
+   "elo": 1609.9,
+   "con_liga": true,
+   "fuerza": 2.722653
+  },
+  "16": {
+   "nombre": "River Plate",
+   "pais": "Argentina",
+   "elo": 1596.4,
+   "con_liga": true,
+   "fuerza": 2.197122
+  },
+  "131556": {
+   "nombre": "TBD Home",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.483265
+  },
+  "131554": {
+   "nombre": "TBD Away",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.483265
+  }
+ }
+}
