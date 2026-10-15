@@ -1,76 +1,746 @@
 {
- "formato": 2,
- "version": "2026-10-14T23:06Z",
- "competiciones": {
-  "CL": {
-   "nombre": "UEFA Champions League",
-   "archivo": "CL.json",
-   "sha256": "dc347cc9d3e90b3bca2582dee4cda03703b96142f7a4c56ebcac76cb9e90e503",
-   "bytes": 8938,
-   "equipos": 65
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "ligas": [
+  {
+   "slug": "uefa.champions",
+   "id": "775",
+   "nombre": "Champions",
+   "orden": 1,
+   "tipo": "copa_int",
+   "con_modelo": true
   },
-  "PL": {
-   "nombre": "Premier League",
-   "archivo": "PL.json",
-   "sha256": "3295ca3a0a79b4ff803c50ca8447ee6437f8f92ec9c0e7fa1c8169d767099894",
-   "bytes": 3681,
+  {
+   "slug": "conmebol.libertadores",
+   "id": "783",
+   "nombre": "Libertadores",
+   "orden": 2,
+   "tipo": "copa_int",
+   "con_modelo": true
+  },
+  {
+   "slug": "uefa.europa",
+   "id": "776",
+   "nombre": "Europa League",
+   "orden": 3,
+   "tipo": "copa_int",
+   "con_modelo": true
+  },
+  {
+   "slug": "conmebol.sudamericana",
+   "id": "5454",
+   "nombre": "Sudamericana",
+   "orden": 4,
+   "tipo": "copa_int",
+   "con_modelo": true
+  },
+  {
+   "slug": "uefa.europa.conf",
+   "id": "20296",
+   "nombre": "Conference",
+   "orden": 5,
+   "tipo": "copa_int",
+   "con_modelo": true
+  },
+  {
+   "slug": "concacaf.champions",
+   "id": "5699",
+   "nombre": "Concacaf Champions",
+   "orden": 6,
+   "tipo": "copa_int",
+   "con_modelo": true
+  },
+  {
+   "slug": "per.1",
+   "id": "670",
+   "nombre": "Liga 1 Perú",
+   "orden": 10,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "arg.1",
+   "id": "745",
+   "nombre": "Argentina",
+   "orden": 11,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "bra.1",
+   "id": "630",
+   "nombre": "Brasileirão",
+   "orden": 12,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "col.1",
+   "id": "650",
+   "nombre": "Colombia",
+   "orden": 13,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "chi.1",
+   "id": "640",
+   "nombre": "Chile",
+   "orden": 14,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "uru.1",
+   "id": "680",
+   "nombre": "Uruguay",
+   "orden": 15,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ecu.1",
+   "id": "660",
+   "nombre": "Ecuador",
+   "orden": 16,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "par.1",
+   "id": "3934",
+   "nombre": "Paraguay",
+   "orden": 17,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "bol.1",
+   "id": "620",
+   "nombre": "Bolivia",
+   "orden": 18,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ven.1",
+   "id": "3949",
+   "nombre": "Venezuela",
+   "orden": 19,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "bra.2",
+   "id": "4007",
+   "nombre": "Brasil Serie B",
+   "orden": 20,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "usa.1",
+   "id": "770",
+   "nombre": "MLS",
+   "orden": 25,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "mex.1",
+   "id": "760",
+   "nombre": "Liga MX",
+   "orden": 26,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "eng.1",
+   "id": "700",
+   "nombre": "Premier",
+   "orden": 30,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "esp.1",
+   "id": "740",
+   "nombre": "LaLiga",
+   "orden": 31,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ita.1",
+   "id": "730",
+   "nombre": "Serie A",
+   "orden": 32,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ger.1",
+   "id": "720",
+   "nombre": "Bundesliga",
+   "orden": 33,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "fra.1",
+   "id": "710",
+   "nombre": "Ligue 1",
+   "orden": 34,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "por.1",
+   "id": "715",
+   "nombre": "Portugal",
+   "orden": 35,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ned.1",
+   "id": "725",
+   "nombre": "Eredivisie",
+   "orden": 36,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "eng.2",
+   "id": "3914",
+   "nombre": "Championship",
+   "orden": 37,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "esp.2",
+   "id": "3921",
+   "nombre": "LaLiga 2",
+   "orden": 38,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ita.2",
+   "id": "3931",
+   "nombre": "Serie B",
+   "orden": 39,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ger.2",
+   "id": "3927",
+   "nombre": "2. Bundesliga",
+   "orden": 40,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "fra.2",
+   "id": "3926",
+   "nombre": "Ligue 2",
+   "orden": 41,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "tur.1",
+   "id": "3946",
+   "nombre": "Turquía",
+   "orden": 42,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "bel.1",
+   "id": "3901",
+   "nombre": "Bélgica",
+   "orden": 43,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "sco.1",
+   "id": "735",
+   "nombre": "Escocia",
+   "orden": 44,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "gre.1",
+   "id": "3955",
+   "nombre": "Grecia",
+   "orden": 45,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "aut.1",
+   "id": "3907",
+   "nombre": "Austria",
+   "orden": 46,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "sui.1",
+   "id": "3944",
+   "nombre": "Suiza",
+   "orden": 47,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "den.1",
+   "id": "3913",
+   "nombre": "Dinamarca",
+   "orden": 48,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "nor.1",
+   "id": "3960",
+   "nombre": "Noruega",
+   "orden": 49,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "swe.1",
+   "id": "3945",
+   "nombre": "Suecia",
+   "orden": 50,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "rou.1",
+   "id": "10747",
+   "nombre": "Rumania",
+   "orden": 51,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "rus.1",
+   "id": "3939",
+   "nombre": "Rusia",
+   "orden": 52,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "ksa.1",
+   "id": "21231",
+   "nombre": "Arabia Saudita",
+   "orden": 60,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "jpn.1",
+   "id": "750",
+   "nombre": "Japón",
+   "orden": 61,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "chn.1",
+   "id": "8376",
+   "nombre": "China",
+   "orden": 62,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "aus.1",
+   "id": "3906",
+   "nombre": "Australia",
+   "orden": 63,
+   "tipo": "liga",
+   "con_modelo": true
+  },
+  {
+   "slug": "esp.copa_del_rey",
+   "id": "3951",
+   "nombre": "Copa del Rey",
+   "orden": 70,
+   "tipo": "otra",
+   "con_modelo": false
+  },
+  {
+   "slug": "eng.fa",
+   "id": "3918",
+   "nombre": "FA Cup",
+   "orden": 71,
+   "tipo": "otra",
+   "con_modelo": false
+  },
+  {
+   "slug": "fifa.world",
+   "id": "606",
+   "nombre": "Mundial",
+   "orden": 80,
+   "tipo": "otra",
+   "con_modelo": false
+  },
+  {
+   "slug": "fifa.worldq.conmebol",
+   "id": "787",
+   "nombre": "Eliminatorias",
+   "orden": 81,
+   "tipo": "otra",
+   "con_modelo": false
+  },
+  {
+   "slug": "uefa.nations",
+   "id": "2395",
+   "nombre": "Nations League",
+   "orden": 82,
+   "tipo": "otra",
+   "con_modelo": false
+  },
+  {
+   "slug": "fifa.friendly",
+   "id": "3922",
+   "nombre": "Amistosos",
+   "orden": 83,
+   "tipo": "otra",
+   "con_modelo": false
+  }
+ ],
+ "competiciones": {
+  "uefa.champions": {
+   "nombre": "Champions",
+   "archivo": "uefa.champions.json",
+   "sha256": "5b095ab39dffb9d3f4e4b8495a924073f5efcbcb90d794c191ce088b320f79f1",
+   "bytes": 5114,
+   "equipos": 36
+  },
+  "conmebol.libertadores": {
+   "nombre": "Libertadores",
+   "archivo": "conmebol.libertadores.json",
+   "sha256": "934049b92b621b8e1db671ff44196aeab2bf02aebf59fce676f3d4d2209125cc",
+   "bytes": 2892,
+   "equipos": 18
+  },
+  "uefa.europa": {
+   "nombre": "Europa League",
+   "archivo": "uefa.europa.json",
+   "sha256": "1a1aa5b59fcdf96c256d6f77d6da367697afc62c25410d966de89ab91bc0d868",
+   "bytes": 5085,
+   "equipos": 36
+  },
+  "conmebol.sudamericana": {
+   "nombre": "Sudamericana",
+   "archivo": "conmebol.sudamericana.json",
+   "sha256": "31a8ea23f8e4eae4e99e07f543cbaf820a8d8e691b159896cd7577949d920d4a",
+   "bytes": 2883,
+   "equipos": 18
+  },
+  "uefa.europa.conf": {
+   "nombre": "Conference",
+   "archivo": "uefa.europa.conf.json",
+   "sha256": "87f05e19f3c986fe4749240096b0699a1d518536a530075b6a3a36ca7ed0ed59",
+   "bytes": 5084,
+   "equipos": 36
+  },
+  "concacaf.champions": {
+   "nombre": "Concacaf Champions",
+   "archivo": "concacaf.champions.json",
+   "sha256": "933daf1c4a98eba15bda46e402f348b8c4d1fde9675313f3068aaf3062ffe540",
+   "bytes": 2573,
+   "equipos": 16
+  },
+  "per.1": {
+   "nombre": "Liga 1 Perú",
+   "archivo": "per.1.json",
+   "sha256": "45f69fc02b06eb1275ae319f1cab3091845015bc17a11c4d1b299f21bada9e20",
+   "bytes": 2850,
+   "equipos": 18
+  },
+  "arg.1": {
+   "nombre": "Argentina",
+   "archivo": "arg.1.json",
+   "sha256": "06c31548a8ec684ae4cb935561e218defd3618e10d58684d8ee21586274ad738",
+   "bytes": 4570,
+   "equipos": 30
+  },
+  "bra.1": {
+   "nombre": "Brasileirão",
+   "archivo": "bra.1.json",
+   "sha256": "e0a7ac26a852676a825b9818c01c812a4dbedfda2be1a480c1404732ed51df20",
+   "bytes": 3068,
    "equipos": 20
   },
-  "ELC": {
+  "col.1": {
+   "nombre": "Colombia",
+   "archivo": "col.1.json",
+   "sha256": "06055c2927252d1d01d7d9fa3e9d4fe527fb51b9518c048945d4ad6862550856",
+   "bytes": 3249,
+   "equipos": 20
+  },
+  "chi.1": {
+   "nombre": "Chile",
+   "archivo": "chi.1.json",
+   "sha256": "a08ea12c79dcf9471a656723f11a1cc1c922cf90b243abcb34c7a12b8690a156",
+   "bytes": 2605,
+   "equipos": 16
+  },
+  "uru.1": {
+   "nombre": "Uruguay",
+   "archivo": "uru.1.json",
+   "sha256": "eab9abdada6d5cdb5e51f373e513710747fffede27da485fe65f433c31bc7d91",
+   "bytes": 2637,
+   "equipos": 16
+  },
+  "ecu.1": {
+   "nombre": "Ecuador",
+   "archivo": "ecu.1.json",
+   "sha256": "6ddc4a706b23c6fbab7601f1d290f36f835731ba11bded100a81ad23fbd7da26",
+   "bytes": 2640,
+   "equipos": 16
+  },
+  "par.1": {
+   "nombre": "Paraguay",
+   "archivo": "par.1.json",
+   "sha256": "ef45e8fe13ef4b2d0b81908ebeef51929d052f51d2b8f668a32b3748132e609f",
+   "bytes": 2140,
+   "equipos": 12
+  },
+  "bol.1": {
+   "nombre": "Bolivia",
+   "archivo": "bol.1.json",
+   "sha256": "7441ace1eea7e2415681f61a3f3d33e66adce0d04dad8514812faafbf040a6c7",
+   "bytes": 2640,
+   "equipos": 16
+  },
+  "ven.1": {
+   "nombre": "Venezuela",
+   "archivo": "ven.1.json",
+   "sha256": "8647080053611e446e3b4eb05a472f0fcd0617bfb61a6a10fa32b53ccc14f14e",
+   "bytes": 2409,
+   "equipos": 14
+  },
+  "bra.2": {
+   "nombre": "Brasil Serie B",
+   "archivo": "bra.2.json",
+   "sha256": "1beac550da20ff5e6c8fa353c5cb84a4d027b7353c6b2d92aba82c9c6a983a69",
+   "bytes": 3332,
+   "equipos": 22
+  },
+  "usa.1": {
+   "nombre": "MLS",
+   "archivo": "usa.1.json",
+   "sha256": "854c6e86be27a566495f9694e7d05209540533dfb2eaed7e54d814f1336434cf",
+   "bytes": 4386,
+   "equipos": 30
+  },
+  "mex.1": {
+   "nombre": "Liga MX",
+   "archivo": "mex.1.json",
+   "sha256": "288e6bffb1c53e2e09703bf97abdd4721129f41896b6d827e30818a2626ab5d6",
+   "bytes": 2784,
+   "equipos": 18
+  },
+  "eng.1": {
+   "nombre": "Premier",
+   "archivo": "eng.1.json",
+   "sha256": "307c37d4027f07edded7ba7e0ddb64d27b7315802635a678b39ef0bbf3502e62",
+   "bytes": 3114,
+   "equipos": 20
+  },
+  "esp.1": {
+   "nombre": "LaLiga",
+   "archivo": "esp.1.json",
+   "sha256": "e98e90b4fe9e6cffbf4799f6fbbe729e8d7c53fdfbdb97d3d4a5520e77b3a0c1",
+   "bytes": 3024,
+   "equipos": 20
+  },
+  "ita.1": {
+   "nombre": "Serie A",
+   "archivo": "ita.1.json",
+   "sha256": "9d302dcf55cf175e332e021730dd17248cc397f2c74937f1f7a0c577a291b042",
+   "bytes": 2985,
+   "equipos": 20
+  },
+  "ger.1": {
+   "nombre": "Bundesliga",
+   "archivo": "ger.1.json",
+   "sha256": "cf88290ab7e6eff6d5d33abcb8dc0162da0d12aaf2bfe5d4930ae54ed27eb5d5",
+   "bytes": 2892,
+   "equipos": 18
+  },
+  "fra.1": {
+   "nombre": "Ligue 1",
+   "archivo": "fra.1.json",
+   "sha256": "db685231db183a40b4eebd4963686a904ab9d6fc2b276bf1910fc5cace89bc63",
+   "bytes": 2772,
+   "equipos": 18
+  },
+  "por.1": {
+   "nombre": "Portugal",
+   "archivo": "por.1.json",
+   "sha256": "7ce4cf9e8fe8e69e83ccdb374331d37c9a741c0265ac67f418d352a51f8fbc9d",
+   "bytes": 2864,
+   "equipos": 18
+  },
+  "ned.1": {
+   "nombre": "Eredivisie",
+   "archivo": "ned.1.json",
+   "sha256": "4ae2606bac23b00cdebb6562fba0f1a7057301a9b5c8c8e26aa1e155b9918a5a",
+   "bytes": 2934,
+   "equipos": 18
+  },
+  "eng.2": {
    "nombre": "Championship",
-   "archivo": "ELC.json",
-   "sha256": "4a0e45c0e9e725850c309905d06fe8aeece26a61aeec7d31a1352be61710c23f",
-   "bytes": 4336,
+   "archivo": "eng.2.json",
+   "sha256": "354140eb46241453dad3b177c2109af7a29e23c9d6da65df353812cf9b19ea68",
+   "bytes": 3669,
    "equipos": 24
   },
-  "PD": {
-   "nombre": "Primera Division",
-   "archivo": "PD.json",
-   "sha256": "4855cd1e6651db25f8ad5fdc421e3ffca41999ed5f59fb69974e9fda8ac6379f",
-   "bytes": 3689,
+  "esp.2": {
+   "nombre": "LaLiga 2",
+   "archivo": "esp.2.json",
+   "sha256": "22427356272611b60437e980e79db3fee8678453bc673e0ed30af8338b0661a9",
+   "bytes": 3289,
+   "equipos": 22
+  },
+  "ita.2": {
+   "nombre": "Serie B",
+   "archivo": "ita.2.json",
+   "sha256": "addcefa053fb35283c8d8cc1af0a9f10d1bb6d151c3eb078fc30360978f35e76",
+   "bytes": 3022,
    "equipos": 20
   },
-  "SA": {
-   "nombre": "Serie A",
-   "archivo": "SA.json",
-   "sha256": "0271fd1e9b7e1f8bc8e4933fc967a544329b8b697bb0484c4905f1e2075fb79a",
-   "bytes": 3582,
+  "ger.2": {
+   "nombre": "2. Bundesliga",
+   "archivo": "ger.2.json",
+   "sha256": "5282416fddb08ff15cb119ec9bac5fbf19df1f17bf4969f3fb1d8fd9d4e8e314",
+   "bytes": 2929,
+   "equipos": 18
+  },
+  "fra.2": {
+   "nombre": "Ligue 2",
+   "archivo": "fra.2.json",
+   "sha256": "cdf7861b0c78060e37c49fdb57bbbd74d316da7f0b36365ed40baa98a0d54f40",
+   "bytes": 2808,
+   "equipos": 18
+  },
+  "tur.1": {
+   "nombre": "Turquía",
+   "archivo": "tur.1.json",
+   "sha256": "91f82c296e411f474b20c0034e40de16654c3194a43ab7295e5dbb4873d0f1d2",
+   "bytes": 2836,
+   "equipos": 18
+  },
+  "bel.1": {
+   "nombre": "Bélgica",
+   "archivo": "bel.1.json",
+   "sha256": "3e80695f614ee4dc784734c89435578dc839fe16ed0afa24a9b95c99ff64c89d",
+   "bytes": 2884,
+   "equipos": 18
+  },
+  "sco.1": {
+   "nombre": "Escocia",
+   "archivo": "sco.1.json",
+   "sha256": "069a0854ea59ced270ae425a884c00f9e8e14a5e2457413a0ac7ecac2140b8b5",
+   "bytes": 2069,
+   "equipos": 12
+  },
+  "gre.1": {
+   "nombre": "Grecia",
+   "archivo": "gre.1.json",
+   "sha256": "82ddbf8a86ecce6f6b020431e8ea348ca5e4bc7057a245f011f8e4d2095b15f6",
+   "bytes": 2305,
+   "equipos": 14
+  },
+  "aut.1": {
+   "nombre": "Austria",
+   "archivo": "aut.1.json",
+   "sha256": "84d6871476b8b8e9f961c87a8767dfbdb4beb1c75ce4cd148fdfc77a4c9cd52a",
+   "bytes": 2113,
+   "equipos": 12
+  },
+  "sui.1": {
+   "nombre": "Suiza",
+   "archivo": "sui.1.json",
+   "sha256": "1f3bf6d23d644af0071341a3c79113c6fd75cf548aa3659aeb9b89c179b591a7",
+   "bytes": 1994,
+   "equipos": 12
+  },
+  "den.1": {
+   "nombre": "Dinamarca",
+   "archivo": "den.1.json",
+   "sha256": "6c6029bc8444555da3d87e69aaabf719bd8313a6e24f96710609d20ffa646f5e",
+   "bytes": 2103,
+   "equipos": 12
+  },
+  "nor.1": {
+   "nombre": "Noruega",
+   "archivo": "nor.1.json",
+   "sha256": "ce5a10c348931fe8899020541c3069c1d71a773c8e42e970eb0696f778a0d27a",
+   "bytes": 2562,
+   "equipos": 16
+  },
+  "swe.1": {
+   "nombre": "Suecia",
+   "archivo": "swe.1.json",
+   "sha256": "049db6294c7cc1abaafd3d5d8053e23c3363ba4b38587db5d739559809be5478",
+   "bytes": 2578,
+   "equipos": 16
+  },
+  "rou.1": {
+   "nombre": "Rumania",
+   "archivo": "rou.1.json",
+   "sha256": "0f8db34a0b645b82a0a9311d7db8f9244d5462f780c7eb0a8e865e0f2dbf6a95",
+   "bytes": 2513,
+   "equipos": 16
+  },
+  "rus.1": {
+   "nombre": "Rusia",
+   "archivo": "rus.1.json",
+   "sha256": "4bbb0c30eb891aa3ff877874b858638f521092ffa8336734be6e25e468c80414",
+   "bytes": 2629,
+   "equipos": 16
+  },
+  "ksa.1": {
+   "nombre": "Arabia Saudita",
+   "archivo": "ksa.1.json",
+   "sha256": "a89efa63d6bd4769a5df5c192c297b1ed97f432305a2f35ce8bb3b80279582e7",
+   "bytes": 2925,
+   "equipos": 18
+  },
+  "jpn.1": {
+   "nombre": "Japón",
+   "archivo": "jpn.1.json",
+   "sha256": "cf46ad86d43d73bee50d134e9c8c1e42ae05f9fc8c6c42ef12c482203b12c0fc",
+   "bytes": 3157,
    "equipos": 20
   },
-  "BL1": {
-   "nombre": "Bundesliga",
-   "archivo": "BL1.json",
-   "sha256": "01c2cdcdf86cba248b4097e363fa83b391aff6cf4a759cc2a3eb257e4de95591",
-   "bytes": 3373,
-   "equipos": 18
+  "chn.1": {
+   "nombre": "China",
+   "archivo": "chn.1.json",
+   "sha256": "55544c009c7e78baaa844bdc93df19fa2b7161bfd7802d27c181a5e5e1f7e162",
+   "bytes": 2663,
+   "equipos": 16
   },
-  "FL1": {
-   "nombre": "Ligue 1",
-   "archivo": "FL1.json",
-   "sha256": "347031a5067e90717add62958e03d29c806c240298b66415bec9ebd21d4ebeca",
-   "bytes": 3314,
-   "equipos": 18
-  },
-  "DED": {
-   "nombre": "Eredivisie",
-   "archivo": "DED.json",
-   "sha256": "75e1b4fee82d435d304fcbe7373e0b86232843f8f465dceaf97f3ef49ab2d184",
-   "bytes": 3312,
-   "equipos": 18
-  },
-  "PPL": {
-   "nombre": "Primeira Liga",
-   "archivo": "PPL.json",
-   "sha256": "6d244813208751d12aedd02b247466b0b587cfe7634b6babbaa0377b343115db",
-   "bytes": 3380,
-   "equipos": 18
-  },
-  "BSA": {
-   "nombre": "Campeonato Brasileiro Série A",
-   "archivo": "BSA.json",
-   "sha256": "015d866aa644e1834c7e61d902e4a1c76aaf23c98536caf73121de346c78ceed",
-   "bytes": 3685,
-   "equipos": 20
+  "aus.1": {
+   "nombre": "Australia",
+   "archivo": "aus.1.json",
+   "sha256": "d20ed14ec00cc8ae88209e2d35f8bdd88ef1c4988319ec92af6bfea4ba6e8aac",
+   "bytes": 2168,
+   "equipos": 12
   }
  }
 }
