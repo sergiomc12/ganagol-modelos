@@ -1,0 +1,166 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "bra.1",
+  "nombre": "Brasileirão"
+ },
+ "partidos_entrenamiento": 1179,
+ "validacion": {
+  "partidos": 414,
+  "rps": 0.20237743315644624,
+  "rps_frecuencia": 0.21657486826417022,
+  "acierto": 0.5169082125603864
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.055412621713381086,
+  "ventaja_local": 0.3413270644751269,
+  "beta": 0.18983036891814795,
+  "rho": -0.03306911472251792,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "6273": {
+   "nombre": "Grêmio",
+   "pais": "Brazil",
+   "elo": 1535.4,
+   "con_liga": true,
+   "fuerza": -0.525032
+  },
+  "4936": {
+   "nombre": "Remo",
+   "pais": "Brazil",
+   "elo": 1493.4,
+   "con_liga": true,
+   "fuerza": -0.945021
+  },
+  "3456": {
+   "nombre": "Coritiba",
+   "pais": "Brazil",
+   "elo": 1542.1,
+   "con_liga": true,
+   "fuerza": -0.458013
+  },
+  "6086": {
+   "nombre": "Botafogo",
+   "pais": "Brazil",
+   "elo": 1609.9,
+   "con_liga": true,
+   "fuerza": 0.220086
+  },
+  "2022": {
+   "nombre": "Cruzeiro",
+   "pais": "Brazil",
+   "elo": 1663.9,
+   "con_liga": true,
+   "fuerza": 0.760159
+  },
+  "2029": {
+   "nombre": "Palmeiras",
+   "pais": "Brazil",
+   "elo": 1782.8,
+   "con_liga": true,
+   "fuerza": 1.949158
+  },
+  "9967": {
+   "nombre": "Bahia",
+   "pais": "Brazil",
+   "elo": 1635.3,
+   "con_liga": true,
+   "fuerza": 0.474025
+  },
+  "6079": {
+   "nombre": "Red Bull Bragantino",
+   "pais": "Brazil",
+   "elo": 1584.4,
+   "con_liga": true,
+   "fuerza": -0.034549
+  },
+  "2674": {
+   "nombre": "Santos",
+   "pais": "Brazil",
+   "elo": 1612.3,
+   "con_liga": true,
+   "fuerza": 0.24443
+  },
+  "819": {
+   "nombre": "Flamengo",
+   "pais": "Brazil",
+   "elo": 1797.5,
+   "con_liga": true,
+   "fuerza": 2.096368
+  },
+  "3445": {
+   "nombre": "Fluminense",
+   "pais": "Brazil",
+   "elo": 1681.3,
+   "con_liga": true,
+   "fuerza": 0.934675
+  },
+  "3458": {
+   "nombre": "Athletico-PR",
+   "pais": "Brazil",
+   "elo": 1653.9,
+   "con_liga": true,
+   "fuerza": 0.660524
+  },
+  "2026": {
+   "nombre": "São Paulo",
+   "pais": "Brazil",
+   "elo": 1574.9,
+   "con_liga": true,
+   "fuerza": -0.129684
+  },
+  "9318": {
+   "nombre": "Chapecoense",
+   "pais": "Brazil",
+   "elo": 1429.0,
+   "con_liga": true,
+   "fuerza": -1.588552
+  },
+  "3454": {
+   "nombre": "Vasco da Gama",
+   "pais": "Brazil",
+   "elo": 1555.5,
+   "con_liga": true,
+   "fuerza": -0.323474
+  },
+  "7632": {
+   "nombre": "Atlético-MG",
+   "pais": "Brazil",
+   "elo": 1633.2,
+   "con_liga": true,
+   "fuerza": 0.453916
+  },
+  "9169": {
+   "nombre": "Mirassol",
+   "pais": "Brazil",
+   "elo": 1600.1,
+   "con_liga": true,
+   "fuerza": 0.122359
+  },
+  "3457": {
+   "nombre": "Vitória",
+   "pais": "Brazil",
+   "elo": 1539.2,
+   "con_liga": true,
+   "fuerza": -0.486468
+  },
+  "874": {
+   "nombre": "Corinthians",
+   "pais": "Brazil",
+   "elo": 1545.9,
+   "con_liga": true,
+   "fuerza": -0.419355
+  },
+  "1936": {
+   "nombre": "Internacional",
+   "pais": "Brazil",
+   "elo": 1550.6,
+   "con_liga": true,
+   "fuerza": -0.37234
+  }
+ }
+}
