@@ -1,0 +1,278 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "uefa.europa.conf",
+  "nombre": "Conference"
+ },
+ "partidos_entrenamiento": 729,
+ "validacion": {
+  "partidos": 154,
+  "rps": 0.23125107569163797,
+  "rps_frecuencia": 0.23130964083175803,
+  "acierto": 0.5064935064935064
+ },
+ "confiable": false,
+ "parametros": {
+  "intercepto": 0.12204107633116712,
+  "ventaja_local": 0.2918458611632288,
+  "beta": 0.3144745035790332,
+  "rho": 0.057110289981665695,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "19246": {
+   "nombre": "Riga FC",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "7672": {
+   "nombre": "FC Lugano",
+   "pais": "Switzerland",
+   "elo": 1499.5,
+   "con_liga": true,
+   "fuerza": -1.154922
+  },
+  "8089": {
+   "nombre": "CSU Craiova",
+   "pais": "Romania",
+   "elo": 1683.8,
+   "con_liga": true,
+   "fuerza": -1.581101
+  },
+  "10834": {
+   "nombre": "CSKA Sofia",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.865132
+  },
+  "443": {
+   "nombre": "Panathinaikos",
+   "pais": "Greece",
+   "elo": 1715.0,
+   "con_liga": true,
+   "fuerza": 0.45978
+  },
+  "20301": {
+   "nombre": "Mjällby AIF",
+   "pais": "Sweden",
+   "elo": 1593.4,
+   "con_liga": true,
+   "fuerza": -0.250406
+  },
+  "8169": {
+   "nombre": "KuPS Kuopio",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.742302
+  },
+  "21943": {
+   "nombre": "Egnatia",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "3611": {
+   "nombre": "KAA Gent",
+   "pais": "Belgium",
+   "elo": 1617.0,
+   "con_liga": true,
+   "fuerza": -0.039175
+  },
+  "489": {
+   "nombre": "Hajduk Split",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "105": {
+   "nombre": "Atalanta",
+   "pais": "Italy",
+   "elo": 1701.5,
+   "con_liga": true,
+   "fuerza": 1.434065
+  },
+  "620": {
+   "nombre": "SK Brann",
+   "pais": "Norway",
+   "elo": 1594.2,
+   "con_liga": true,
+   "fuerza": -0.768647
+  },
+  "126": {
+   "nombre": "SC Freiburg",
+   "pais": "Germany",
+   "elo": 1627.4,
+   "con_liga": true,
+   "fuerza": 0.408462
+  },
+  "936": {
+   "nombre": "Sint-Truidense",
+   "pais": "Belgium",
+   "elo": 1562.0,
+   "con_liga": true,
+   "fuerza": -0.589632
+  },
+  "262": {
+   "nombre": "Heart of Midlothian",
+   "pais": "Scotland",
+   "elo": 1664.8,
+   "con_liga": true,
+   "fuerza": -0.495638
+  },
+  "152": {
+   "nombre": "FC Twente",
+   "pais": "Netherlands",
+   "elo": 1673.1,
+   "con_liga": true,
+   "fuerza": 0.301925
+  },
+  "909": {
+   "nombre": "F.C. København",
+   "pais": "Denmark",
+   "elo": 1691.9,
+   "con_liga": true,
+   "fuerza": 0.48021
+  },
+  "331": {
+   "nombre": "Brighton & Hove Albion",
+   "pais": "England",
+   "elo": 1715.4,
+   "con_liga": true,
+   "fuerza": 1.042759
+  },
+  "2528": {
+   "nombre": "Kairat Almaty",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.35375
+  },
+  "997": {
+   "nombre": "Trabzonspor",
+   "pais": "Turkey",
+   "elo": 1691.7,
+   "con_liga": true,
+   "fuerza": 0.13805
+  },
+  "22281": {
+   "nombre": "Pafos",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.269478
+  },
+  "20703": {
+   "nombre": "Inter D'Escaldes",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "2922": {
+   "nombre": "Getafe",
+   "pais": "Spain",
+   "elo": 1549.5,
+   "con_liga": true,
+   "fuerza": -0.104047
+  },
+  "20028": {
+   "nombre": "Kauno Zalgiris",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "7922": {
+   "nombre": "Jablonec",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.265173
+  },
+  "2290": {
+   "nombre": "Red Star Belgrade",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "3101": {
+   "nombre": "FC Nordsjælland",
+   "pais": "Denmark",
+   "elo": 1621.5,
+   "con_liga": true,
+   "fuerza": -0.223464
+  },
+  "20025": {
+   "nombre": "Iberia 1999",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.67793
+  },
+  "20710": {
+   "nombre": "Borac Banja Luka",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -1.050242
+  },
+  "7853": {
+   "nombre": "AGF",
+   "pais": "Denmark",
+   "elo": 1608.0,
+   "con_liga": true,
+   "fuerza": -0.358267
+  },
+  "2994": {
+   "nombre": "Braga",
+   "pais": "Portugal",
+   "elo": 1659.7,
+   "con_liga": true,
+   "fuerza": 0.002783
+  },
+  "17856": {
+   "nombre": "Lincoln Red Imps",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -2.337477
+  },
+  "3024": {
+   "nombre": "FC Thun",
+   "pais": "Switzerland",
+   "elo": 1524.4,
+   "con_liga": true,
+   "fuerza": -0.906517
+  },
+  "572": {
+   "nombre": "FC Midtjylland",
+   "pais": "Denmark",
+   "elo": 1727.7,
+   "con_liga": true,
+   "fuerza": 0.838364
+  },
+  "174": {
+   "nombre": "AS Monaco",
+   "pais": "France",
+   "elo": 1717.6,
+   "con_liga": true,
+   "fuerza": 1.286232
+  },
+  "139": {
+   "nombre": "Ajax Amsterdam",
+   "pais": "Netherlands",
+   "elo": 1683.3,
+   "con_liga": true,
+   "fuerza": 0.40341
+  }
+ }
+}
