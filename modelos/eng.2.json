@@ -1,0 +1,194 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "eng.2",
+  "nombre": "Championship"
+ },
+ "partidos_entrenamiento": 1658,
+ "validacion": {
+  "partidos": 569,
+  "rps": 0.22028798332382454,
+  "rps_frecuencia": 0.2308306022764719,
+  "acierto": 0.45518453427065025
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.14385043889054847,
+  "ventaja_local": 0.2091182251285912,
+  "beta": 0.19650843802049248,
+  "rho": -0.028870517586899572,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "380": {
+   "nombre": "Wolverhampton Wanderers",
+   "pais": "England",
+   "elo": 1459.7,
+   "con_liga": true,
+   "fuerza": 0.225376
+  },
+  "358": {
+   "nombre": "Bolton Wanderers",
+   "pais": "England",
+   "elo": 1412.7,
+   "con_liga": true,
+   "fuerza": -0.244362
+  },
+  "336": {
+   "nombre": "Stoke City",
+   "pais": "England",
+   "elo": 1376.2,
+   "con_liga": true,
+   "fuerza": -0.609915
+  },
+  "385": {
+   "nombre": "Portsmouth",
+   "pais": "England",
+   "elo": 1401.7,
+   "con_liga": true,
+   "fuerza": -0.354411
+  },
+  "381": {
+   "nombre": "Norwich City",
+   "pais": "England",
+   "elo": 1436.7,
+   "con_liga": true,
+   "fuerza": -0.00426
+  },
+  "369": {
+   "nombre": "Middlesbrough",
+   "pais": "England",
+   "elo": 1521.0,
+   "con_liga": true,
+   "fuerza": 0.838489
+  },
+  "372": {
+   "nombre": "Charlton Athletic",
+   "pais": "England",
+   "elo": 1366.0,
+   "con_liga": true,
+   "fuerza": -0.711894
+  },
+  "333": {
+   "nombre": "Bristol City",
+   "pais": "England",
+   "elo": 1404.5,
+   "con_liga": true,
+   "fuerza": -0.326214
+  },
+  "398": {
+   "nombre": "Sheffield United",
+   "pais": "England",
+   "elo": 1428.3,
+   "con_liga": true,
+   "fuerza": -0.089017
+  },
+  "395": {
+   "nombre": "Watford",
+   "pais": "England",
+   "elo": 1309.5,
+   "con_liga": true,
+   "fuerza": -1.276216
+  },
+  "379": {
+   "nombre": "Burnley",
+   "pais": "England",
+   "elo": 1438.1,
+   "con_liga": true,
+   "fuerza": 0.009302
+  },
+  "347": {
+   "nombre": "Cardiff City",
+   "pais": "England",
+   "elo": 1344.0,
+   "con_liga": true,
+   "fuerza": -0.931974
+  },
+  "391": {
+   "nombre": "Millwall",
+   "pais": "England",
+   "elo": 1483.3,
+   "con_liga": true,
+   "fuerza": 0.461387
+  },
+  "314": {
+   "nombre": "Lincoln City",
+   "pais": "England",
+   "elo": 1388.9,
+   "con_liga": true,
+   "fuerza": -0.482922
+  },
+  "392": {
+   "nombre": "Birmingham City",
+   "pais": "England",
+   "elo": 1457.6,
+   "con_liga": true,
+   "fuerza": 0.204001
+  },
+  "352": {
+   "nombre": "Wrexham",
+   "pais": "England",
+   "elo": 1446.9,
+   "con_liga": true,
+   "fuerza": 0.097207
+  },
+  "371": {
+   "nombre": "West Ham United",
+   "pais": "England",
+   "elo": 1590.5,
+   "con_liga": true,
+   "fuerza": 1.533013
+  },
+  "318": {
+   "nombre": "Swansea City",
+   "pais": "England",
+   "elo": 1507.1,
+   "con_liga": true,
+   "fuerza": 0.699564
+  },
+  "376": {
+   "nombre": "Southampton",
+   "pais": "England",
+   "elo": 1568.3,
+   "con_liga": true,
+   "fuerza": 1.311306
+  },
+  "334": {
+   "nombre": "Queens Park Rangers",
+   "pais": "England",
+   "elo": 1422.1,
+   "con_liga": true,
+   "fuerza": -0.150231
+  },
+  "394": {
+   "nombre": "Preston North End",
+   "pais": "England",
+   "elo": 1308.8,
+   "con_liga": true,
+   "fuerza": -1.283987
+  },
+  "374": {
+   "nombre": "Derby County",
+   "pais": "England",
+   "elo": 1388.9,
+   "con_liga": true,
+   "fuerza": -0.482908
+  },
+  "365": {
+   "nombre": "Blackburn Rovers",
+   "pais": "England",
+   "elo": 1414.5,
+   "con_liga": true,
+   "fuerza": -0.226361
+  },
+  "383": {
+   "nombre": "West Bromwich Albion",
+   "pais": "England",
+   "elo": 1430.2,
+   "con_liga": true,
+   "fuerza": -0.070047
+  }
+ }
+}
