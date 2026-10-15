@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "conmebol.libertadores",
+  "nombre": "Libertadores"
+ },
+ "partidos_entrenamiento": 930,
+ "validacion": {
+  "partidos": 156,
+  "rps": 0.2133200436368648,
+  "rps_frecuencia": 0.22761873798470156,
+  "acierto": 0.4807692307692308
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": -0.12389009010581552,
+  "ventaja_local": 0.4827080353643105,
+  "beta": 0.16093688244497265,
+  "rho": -0.05374299913639952,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "3445": {
+   "nombre": "Fluminense",
+   "pais": "Brazil",
+   "elo": 1681.3,
+   "con_liga": true,
+   "fuerza": 3.034547
+  },
+  "8": {
+   "nombre": "Estudiantes de La Plata",
+   "pais": "Argentina",
+   "elo": 1542.4,
+   "con_liga": true,
+   "fuerza": 1.352936
+  },
+  "7764": {
+   "nombre": "Platense",
+   "pais": "Argentina",
+   "elo": 1436.3,
+   "con_liga": true,
+   "fuerza": 0.291546
+  },
+  "2029": {
+   "nombre": "Palmeiras",
+   "pais": "Brazil",
+   "elo": 1782.8,
+   "con_liga": true,
+   "fuerza": 4.04903
+  },
+  "2022": {
+   "nombre": "Cruzeiro",
+   "pais": "Brazil",
+   "elo": 1663.9,
+   "con_liga": true,
+   "fuerza": 2.860031
+  },
+  "9169": {
+   "nombre": "Mirassol",
+   "pais": "Brazil",
+   "elo": 1600.1,
+   "con_liga": true,
+   "fuerza": 2.22223
+  },
+  "17": {
+   "nombre": "Rosario Central",
+   "pais": "Argentina",
+   "elo": 1627.6,
+   "con_liga": true,
+   "fuerza": 2.204609
+  },
+  "9744": {
+   "nombre": "Independiente Rivadavia",
+   "pais": "Argentina",
+   "elo": 1555.0,
+   "con_liga": true,
+   "fuerza": 1.479011
+  },
+  "5489": {
+   "nombre": "Deportes Tolima",
+   "pais": "Colombia",
+   "elo": 1601.4,
+   "con_liga": true,
+   "fuerza": 0.201127
+  },
+  "885": {
+   "nombre": "Universidad Católica",
+   "pais": "Chile",
+   "elo": 1654.8,
+   "con_liga": true,
+   "fuerza": 0.296319
+  },
+  "8186": {
+   "nombre": "Coquimbo Unido",
+   "pais": "Chile",
+   "elo": 1623.2,
+   "con_liga": true,
+   "fuerza": -0.019458
+  },
+  "2671": {
+   "nombre": "Cerro Porteño",
+   "pais": "Paraguay",
+   "elo": 1622.4,
+   "con_liga": true,
+   "fuerza": 0.276915
+  },
+  "819": {
+   "nombre": "Flamengo",
+   "pais": "Brazil",
+   "elo": 1797.5,
+   "con_liga": true,
+   "fuerza": 4.19624
+  },
+  "4816": {
+   "nombre": "Liga de Quito",
+   "pais": "Ecuador",
+   "elo": 1653.0,
+   "con_liga": true,
+   "fuerza": 1.247025
+  },
+  "874": {
+   "nombre": "Corinthians",
+   "pais": "Brazil",
+   "elo": 1545.9,
+   "con_liga": true,
+   "fuerza": 1.680517
+  },
+  "17086": {
+   "nombre": "Independiente del Valle",
+   "pais": "Ecuador",
+   "elo": 1803.1,
+   "con_liga": true,
+   "fuerza": 2.747675
+  },
+  "131556": {
+   "nombre": "TBD Home",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.692785
+  },
+  "131554": {
+   "nombre": "TBD Away",
+   "pais": "",
+   "elo": null,
+   "con_liga": false,
+   "fuerza": -0.692785
+  }
+ }
+}
