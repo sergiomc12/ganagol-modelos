@@ -1,0 +1,138 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "swe.1",
+  "nombre": "Suecia"
+ },
+ "partidos_entrenamiento": 696,
+ "validacion": {
+  "partidos": 216,
+  "rps": 0.21788482963804287,
+  "rps_frecuencia": 0.23657481006198025,
+  "acierto": 0.4861111111111111
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.25335550282038866,
+  "ventaja_local": 0.15778026377733825,
+  "beta": 0.16866370953467413,
+  "rho": -0.011860025549671176,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "7834": {
+   "nombre": "BK Häcken",
+   "pais": "Sweden",
+   "elo": 1603.0,
+   "con_liga": true,
+   "fuerza": 0.474233
+  },
+  "8221": {
+   "nombre": "IF Brommapojkarna",
+   "pais": "Sweden",
+   "elo": 1502.3,
+   "con_liga": true,
+   "fuerza": -0.532606
+  },
+  "2556": {
+   "nombre": "IFK Göteborg",
+   "pais": "Sweden",
+   "elo": 1578.7,
+   "con_liga": true,
+   "fuerza": 0.231123
+  },
+  "994": {
+   "nombre": "AIK",
+   "pais": "Sweden",
+   "elo": 1557.9,
+   "con_liga": true,
+   "fuerza": 0.023347
+  },
+  "2339": {
+   "nombre": "Djurgården",
+   "pais": "Sweden",
+   "elo": 1701.7,
+   "con_liga": true,
+   "fuerza": 1.461519
+  },
+  "3017": {
+   "nombre": "Halmstads BK",
+   "pais": "Sweden",
+   "elo": 1388.6,
+   "con_liga": true,
+   "fuerza": -1.669796
+  },
+  "131552": {
+   "nombre": "Örgryte IS",
+   "pais": "Sweden",
+   "elo": 1413.9,
+   "con_liga": true,
+   "fuerza": -1.416651
+  },
+  "20301": {
+   "nombre": "Mjällby AIF",
+   "pais": "Sweden",
+   "elo": 1593.4,
+   "con_liga": true,
+   "fuerza": 0.377804
+  },
+  "2495": {
+   "nombre": "Hammarby IF",
+   "pais": "Sweden",
+   "elo": 1710.5,
+   "con_liga": true,
+   "fuerza": 1.548744
+  },
+  "2720": {
+   "nombre": "Malmö FF",
+   "pais": "Sweden",
+   "elo": 1620.3,
+   "con_liga": true,
+   "fuerza": 0.646972
+  },
+  "8547": {
+   "nombre": "IK Sirius",
+   "pais": "Sweden",
+   "elo": 1680.1,
+   "con_liga": true,
+   "fuerza": 1.244605
+  },
+  "22163": {
+   "nombre": "Västerås SK",
+   "pais": "Sweden",
+   "elo": 1538.3,
+   "con_liga": true,
+   "fuerza": -0.172749
+  },
+  "529": {
+   "nombre": "IF Elfsborg",
+   "pais": "Sweden",
+   "elo": 1593.4,
+   "con_liga": true,
+   "fuerza": 0.377711
+  },
+  "20856": {
+   "nombre": "Degerfors IF",
+   "pais": "Sweden",
+   "elo": 1434.7,
+   "con_liga": true,
+   "fuerza": -1.208846
+  },
+  "8222": {
+   "nombre": "GAIS",
+   "pais": "Sweden",
+   "elo": 1609.9,
+   "con_liga": true,
+   "fuerza": 0.543387
+  },
+  "3052": {
+   "nombre": "Kalmar FF",
+   "pais": "Sweden",
+   "elo": 1441.0,
+   "con_liga": true,
+   "fuerza": -1.145681
+  }
+ }
+}
