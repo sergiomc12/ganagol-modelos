@@ -1,0 +1,152 @@
+{
+ "formato": 3,
+ "version": "2026-10-15T03:37Z",
+ "competicion": {
+  "codigo": "fra.2",
+  "nombre": "Ligue 2"
+ },
+ "partidos_entrenamiento": 964,
+ "validacion": {
+  "partidos": 297,
+  "rps": 0.21460994178459866,
+  "rps_frecuencia": 0.2244409431284895,
+  "acierto": 0.44107744107744107
+ },
+ "confiable": true,
+ "parametros": {
+  "intercepto": 0.15204573309794364,
+  "ventaja_local": 0.1589213514505582,
+  "beta": 0.187842200635129,
+  "rho": -0.035294855278459755,
+  "fraccion_goles_segundo_tiempo": 0.55,
+  "max_goles": 10
+ },
+ "equipos": {
+  "272": {
+   "nombre": "Sochaux",
+   "pais": "France",
+   "elo": 1461.4,
+   "con_liga": true,
+   "fuerza": 0.184243
+  },
+  "7719": {
+   "nombre": "Rodez Aveyron",
+   "pais": "France",
+   "elo": 1469.3,
+   "con_liga": true,
+   "fuerza": 0.263025
+  },
+  "10678": {
+   "nombre": "Pau",
+   "pais": "France",
+   "elo": 1393.4,
+   "con_liga": true,
+   "fuerza": -0.495956
+  },
+  "165": {
+   "nombre": "Nantes",
+   "pais": "France",
+   "elo": 1443.7,
+   "con_liga": true,
+   "fuerza": 0.0068
+  },
+  "274": {
+   "nombre": "Montpellier",
+   "pais": "France",
+   "elo": 1482.3,
+   "con_liga": true,
+   "fuerza": 0.392565
+  },
+  "177": {
+   "nombre": "Metz",
+   "pais": "France",
+   "elo": 1443.8,
+   "con_liga": true,
+   "fuerza": 0.007448
+  },
+  "7732": {
+   "nombre": "Dunkerque",
+   "pais": "France",
+   "elo": 1407.6,
+   "con_liga": true,
+   "fuerza": -0.354131
+  },
+  "3171": {
+   "nombre": "Clermont Foot",
+   "pais": "France",
+   "elo": 1369.9,
+   "con_liga": true,
+   "fuerza": -0.731105
+  },
+  "7869": {
+   "nombre": "Boulogne",
+   "pais": "France",
+   "elo": 1370.5,
+   "con_liga": true,
+   "fuerza": -0.725655
+  },
+  "178": {
+   "nombre": "Saint-Étienne",
+   "pais": "France",
+   "elo": 1554.2,
+   "con_liga": true,
+   "fuerza": 1.111495
+  },
+  "3243": {
+   "nombre": "Stade de Reims",
+   "pais": "France",
+   "elo": 1548.0,
+   "con_liga": true,
+   "fuerza": 1.049844
+  },
+  "11884": {
+   "nombre": "Red Star FC 93",
+   "pais": "France",
+   "elo": 1496.0,
+   "con_liga": true,
+   "fuerza": 0.529488
+  },
+  "3267": {
+   "nombre": "AS Nancy Lorraine",
+   "pais": "France",
+   "elo": 1389.1,
+   "con_liga": true,
+   "fuerza": -0.539402
+  },
+  "3266": {
+   "nombre": "Stade Laval",
+   "pais": "France",
+   "elo": 1353.8,
+   "con_liga": true,
+   "fuerza": -0.89209
+  },
+  "171": {
+   "nombre": "Guingamp",
+   "pais": "France",
+   "elo": 1387.0,
+   "con_liga": true,
+   "fuerza": -0.560471
+  },
+  "6994": {
+   "nombre": "Grenoble",
+   "pais": "France",
+   "elo": 1405.3,
+   "con_liga": true,
+   "fuerza": -0.37757
+  },
+  "3170": {
+   "nombre": "Dijon FCO",
+   "pais": "France",
+   "elo": 1446.5,
+   "con_liga": true,
+   "fuerza": 0.035243
+  },
+  "18066": {
+   "nombre": "Annecy",
+   "pais": "France",
+   "elo": 1488.9,
+   "con_liga": true,
+   "fuerza": 0.458855
+  }
+ }
+}
